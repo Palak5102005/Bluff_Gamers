@@ -55,6 +55,7 @@ python zomathon_lgbm.py
 ```bash
 streamlit run appzomathon.py
 ```
-** Hosted Demo:**
+## Hosted Demo:
 https://tinyurl.com/Zomathon
 ```
+## How to Run Locally
