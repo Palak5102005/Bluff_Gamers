@@ -1,0 +1,2001 @@
+order_id,user_id,restaurant_id,current_cart_items,candidate_addon_item,is_meal_complement,user_item_frequency,user_recent_diet_trend,addon_dietary_type,cart_dietary_type,delivery_distance_km,order_hour_of_day,addon_price,cart_value,item_rating,is_top_seller,target_added_to_cart
+ORD10000,U1124,R536,Oatmeal Bowl,Chocolate Brownie,1,2,Healthy,Vegan,Veg,10.4,21,146.0,1132.0,,0,0
+ORD10001,U1316,R508,Beef Burger,Filter Coffee,0,7,Junk,Veg,Non-Veg,14.5,21,181.0,252.0,4.7,0,0
+ORD10002,U1151,R509,Paneer Butter Masala,Chocolate Brownie,1,2,Healthy,Vegan,Veg,3.6,7,250.0,216.0,3.3,1,1
+ORD10003,U1147,R548,Oatmeal Bowl,Butter Naan,1,4,Junk,Non-Veg,Non-Veg,8.5,0,102.0,1281.0,4.0,1,0
+ORD10004,U1121,R543,Masala Dosa,Mint Raita,1,6,Junk,Vegan,Vegan,9.2,22,226.0,811.0,,1,0
+ORD10005,U1381,R550,Pasta Alfredo,Green Tea,0,3,Healthy,Veg,Vegan,15.0,23,108.0,1250.0,4.3,0,0
+ORD10006,U1204,R511,Paneer Butter Masala,Butter Naan,1,1,Junk,Veg,Veg,3.4,8,179.0,572.0,4.4,1,0
+ORD10007,U1485,R518,Paneer Butter Masala,Miso Soup,0,2,Junk,Non-Veg,Non-Veg,8.1,12,158.0,687.0,3.9,1,0
+ORD10008,U1373,R535,Oatmeal Bowl,Miso Soup,0,1,Balanced,Veg,Veg,5.5,0,32.0,1095.0,3.0,0,0
+ORD10009,U1076,R536,Margherita Pizza,Chocolate Brownie,1,0,,Non-Veg,Non-Veg,8.1,10,38.0,1386.0,4.3,0,1
+ORD10010,U1039,R521,Masala Dosa,Extra Chutney,1,1,Healthy,Non-Veg,Non-Veg,3.9,10,25.0,268.0,4.3,0,0
+ORD10011,U1172,R505,Oatmeal Bowl,Garlic Bread,1,4,Healthy,Veg,Vegan,1.2,10,105.0,1313.0,3.2,0,0
+ORD10012,U1275,R516,Masala Dosa,Extra Chutney,1,4,Junk,Vegan,Veg,8.8,22,192.0,1221.0,3.9,0,0
+ORD10013,U1091,R501,Masala Dosa,Healthy Quinoa Salad,1,6,Balanced,Non-Veg,Vegan,5.4,0,60.0,576.0,4.8,0,0
+ORD10014,U1111,R532,Pasta Alfredo,Extra Chutney,1,1,Healthy,Vegan,Vegan,3.1,19,159.0,630.0,3.4,0,0
+ORD10015,U1481,R537,Paneer Butter Masala,Healthy Quinoa Salad,0,5,Healthy,Veg,Vegan,5.2,15,86.0,213.0,3.9,0,0
+ORD10016,U1039,R545,Beef Burger,Healthy Quinoa Salad,1,7,Balanced,Vegan,Veg,1.2,2,203.0,171.0,3.9,0,0
+ORD10017,U1382,R542,Pasta Alfredo,Green Tea,0,2,Junk,Vegan,Non-Veg,14.3,15,204.0,794.0,4.6,1,0
+ORD10018,U1131,R506,Pasta Alfredo,Mint Raita,1,2,Healthy,Vegan,Non-Veg,8.9,1,198.0,279.0,4.6,1,0
+ORD10019,U1306,R537,Masala Dosa,Green Tea,1,1,Junk,Vegan,Veg,12.3,22,141.0,412.0,4.5,0,0
+ORD10020,U1384,R531,Sushi Platter,Healthy Quinoa Salad,0,3,Junk,Veg,Non-Veg,6.6,22,85.0,1293.0,3.7,0,0
+ORD10021,U1213,R504,Paneer Butter Masala,Butter Naan,1,4,Junk,Veg,Veg,13.6,8,206.0,921.0,3.1,0,0
+ORD10022,U1246,R541,Margherita Pizza,Miso Soup,1,3,Junk,Vegan,Veg,7.5,1,63.0,1005.0,3.7,0,0
+ORD10023,U1053,R513,Pasta Alfredo,Healthy Quinoa Salad,1,2,Healthy,Veg,Non-Veg,8.8,20,87.0,403.0,4.4,0,0
+ORD10024,U1403,R535,Beef Burger,Green Tea,1,2,Balanced,Veg,Vegan,7.6,23,62.0,1269.0,,1,0
+ORD10025,U1396,R526,Sushi Platter,Butter Naan,1,2,Healthy,Non-Veg,Veg,11.1,21,175.0,1322.0,4.9,0,0
+ORD10026,U1409,R529,Sushi Platter,Green Tea,1,4,Balanced,Veg,Veg,8.7,8,178.0,856.0,3.9,1,0
+ORD10027,U1175,R503,Margherita Pizza,Extra Chutney,0,6,Junk,Vegan,Veg,4.4,8,170.0,1382.0,4.3,1,0
+ORD10028,U1497,R513,Pasta Alfredo,Filter Coffee,1,1,Balanced,Veg,Veg,2.6,23,116.0,1291.0,4.1,0,0
+ORD10029,U1266,R540,Beef Burger,Chocolate Brownie,1,5,,Veg,Non-Veg,9.3,7,43.0,1137.0,3.3,0,0
+ORD10030,U1458,R544,Paneer Butter Masala,Garlic Bread,0,0,Healthy,Veg,Non-Veg,7.6,15,230.0,1141.0,3.9,0,1
+ORD10031,U1196,R511,Chicken Biryani,Green Tea,0,4,Healthy,Veg,Veg,,10,137.0,292.0,4.1,0,0
+ORD10032,U1305,R529,Beef Burger,Garlic Bread,1,4,Balanced,Non-Veg,Vegan,6.2,14,114.0,516.0,4.9,0,0
+ORD10033,U1182,R522,Margherita Pizza,French Fries,1,5,,Vegan,Non-Veg,8.0,9,155.0,240.0,3.7,1,0
+ORD10034,U1401,R519,Sushi Platter,Green Tea,1,1,Junk,Vegan,Vegan,12.5,23,64.0,162.0,5.0,1,0
+ORD10035,U1417,R543,Paneer Butter Masala,Filter Coffee,1,5,Balanced,Veg,Vegan,1.6,1,50.0,364.0,4.1,1,0
+ORD10036,U1241,R529,Beef Burger,Garlic Bread,0,2,Junk,Veg,Veg,5.6,22,113.0,1339.0,3.5,0,1
+ORD10037,U1185,R523,Chicken Biryani,Healthy Quinoa Salad,0,2,Junk,Non-Veg,Non-Veg,12.4,7,72.0,474.0,3.4,0,1
+ORD10038,U1309,R501,Chicken Biryani,Green Tea,1,6,Junk,Veg,Veg,9.9,20,76.0,1460.0,3.3,0,0
+ORD10039,U1350,R503,Masala Dosa,Mint Raita,0,1,Healthy,Non-Veg,Veg,4.7,23,225.0,956.0,3.9,0,0
+ORD10040,U1322,R530,Masala Dosa,Chocolate Brownie,0,3,,Vegan,Vegan,12.8,21,142.0,470.0,3.0,0,0
+ORD10041,U1453,R511,Oatmeal Bowl,Filter Coffee,0,5,,Vegan,Vegan,7.7,15,131.0,821.0,3.9,0,0
+ORD10042,U1399,R536,Margherita Pizza,Garlic Bread,1,3,Junk,Non-Veg,Vegan,7.7,10,179.0,446.0,5.0,0,0
+ORD10043,U1102,R532,Pasta Alfredo,Filter Coffee,1,0,Healthy,Vegan,Veg,14.7,13,239.0,1478.0,4.3,1,0
+ORD10044,U1304,R536,Beef Burger,Butter Naan,0,4,Junk,Veg,Veg,14.2,13,46.0,1294.0,4.5,1,0
+ORD10045,U1429,R508,Beef Burger,Chocolate Brownie,1,2,Junk,Veg,Veg,5.7,19,212.0,185.0,3.2,0,0
+ORD10046,U1347,R539,Pasta Alfredo,Healthy Quinoa Salad,1,1,Balanced,Non-Veg,Veg,2.5,2,154.0,1429.0,3.9,1,0
+ORD10047,U1355,R532,Oatmeal Bowl,Green Tea,1,6,Junk,Vegan,Veg,5.2,0,54.0,1123.0,3.6,0,0
+ORD10048,U1441,R509,Sushi Platter,Green Tea,0,5,Healthy,Vegan,Veg,0.9,13,88.0,261.0,4.8,0,0
+ORD10049,U1319,R510,Sushi Platter,Green Tea,1,4,Healthy,Non-Veg,Veg,0.8,23,131.0,1055.0,3.4,1,0
+ORD10050,U1449,R539,Oatmeal Bowl,Chocolate Brownie,0,1,Junk,Non-Veg,Veg,6.2,12,179.0,1023.0,3.9,0,0
+ORD10051,U1368,R534,Sushi Platter,Mint Raita,1,2,Healthy,Vegan,Non-Veg,14.1,10,76.0,445.0,4.2,1,0
+ORD10052,U1099,R519,Masala Dosa,French Fries,1,2,Junk,Non-Veg,Non-Veg,13.1,9,143.0,1174.0,4.0,0,0
+ORD10053,U1386,R513,Beef Burger,Miso Soup,0,2,Balanced,Veg,Non-Veg,7.9,21,177.0,268.0,,1,0
+ORD10054,U1067,R508,Oatmeal Bowl,Extra Chutney,1,2,Junk,Vegan,Non-Veg,8.7,22,123.0,811.0,,1,0
+ORD10055,U1361,R509,Beef Burger,Garlic Bread,1,0,Junk,Non-Veg,Veg,0.6,14,218.0,163.0,,0,0
+ORD10056,U1100,R539,Pasta Alfredo,Mint Raita,0,8,Balanced,Non-Veg,Veg,3.6,10,220.0,1458.0,4.6,0,1
+ORD10057,U1071,R549,Chicken Biryani,Healthy Quinoa Salad,1,4,Healthy,Non-Veg,Vegan,0.9,15,128.0,1165.0,4.1,0,0
+ORD10058,U1251,R535,Masala Dosa,Garlic Bread,0,2,,Vegan,Vegan,11.4,13,244.0,364.0,3.8,0,0
+ORD10059,U1436,R531,Paneer Butter Masala,Green Tea,1,3,Balanced,Veg,Non-Veg,2.6,9,37.0,611.0,3.1,0,0
+ORD10060,U1289,R521,Masala Dosa,Filter Coffee,1,4,Junk,Veg,Vegan,13.1,22,21.0,367.0,4.5,1,0
+ORD10061,U1301,R506,Oatmeal Bowl,Healthy Quinoa Salad,1,3,Junk,Vegan,Non-Veg,9.8,21,108.0,1185.0,4.9,0,0
+ORD10062,U1222,R512,Paneer Butter Masala,Garlic Bread,0,5,Balanced,Non-Veg,Veg,3.8,21,158.0,230.0,4.2,1,0
+ORD10063,U1085,R533,Chicken Biryani,Green Tea,1,6,,Vegan,Veg,2.8,23,165.0,1285.0,4.7,1,0
+ORD10064,U1354,R509,Oatmeal Bowl,Garlic Bread,1,9,Balanced,Vegan,Vegan,9.6,14,130.0,1422.0,4.0,0,0
+ORD10065,U1076,R541,Margherita Pizza,Filter Coffee,1,4,Healthy,Non-Veg,Veg,13.6,2,49.0,1063.0,3.5,0,0
+ORD10066,U1400,R536,Beef Burger,Green Tea,1,5,Balanced,Vegan,Veg,10.9,20,59.0,438.0,3.0,0,0
+ORD10067,U1145,R501,Chicken Biryani,French Fries,1,3,Balanced,Veg,Non-Veg,5.6,21,216.0,636.0,4.3,0,0
+ORD10068,U1423,R533,Beef Burger,Mint Raita,0,2,Healthy,Vegan,Vegan,9.0,2,220.0,794.0,4.0,0,0
+ORD10069,U1366,R502,Sushi Platter,Butter Naan,0,1,Balanced,Non-Veg,Veg,5.0,7,175.0,966.0,4.6,0,1
+ORD10070,U1066,R548,Margherita Pizza,Extra Chutney,1,3,Junk,Vegan,Vegan,15.0,14,173.0,1053.0,4.4,0,0
+ORD10071,U1472,R520,Margherita Pizza,Chocolate Brownie,0,2,Balanced,Veg,Veg,11.4,20,157.0,898.0,5.0,0,0
+ORD10072,U1138,R529,Chicken Biryani,Extra Chutney,1,3,Junk,Vegan,Non-Veg,9.4,21,67.0,624.0,4.0,1,1
+ORD10073,U1138,R526,Margherita Pizza,Healthy Quinoa Salad,1,3,Healthy,Vegan,Veg,6.6,22,118.0,1353.0,3.9,1,0
+ORD10074,U1470,R547,Paneer Butter Masala,Extra Chutney,0,4,Healthy,Vegan,Vegan,9.5,21,180.0,260.0,3.6,0,0
+ORD10075,U1403,R505,Margherita Pizza,Green Tea,1,1,Junk,Vegan,Vegan,5.5,14,144.0,779.0,4.0,0,0
+ORD10076,U1078,R527,Beef Burger,French Fries,1,4,Balanced,Non-Veg,Non-Veg,0.9,12,24.0,1197.0,4.7,1,0
+ORD10077,U1128,R515,Beef Burger,Butter Naan,1,2,Junk,Veg,Veg,6.2,14,239.0,232.0,3.1,1,0
+ORD10078,U1335,R548,Oatmeal Bowl,Mint Raita,0,3,Junk,Veg,Non-Veg,14.0,13,214.0,1102.0,5.0,0,0
+ORD10079,U1006,R550,Beef Burger,Mint Raita,0,2,Healthy,Veg,Vegan,9.6,21,80.0,1257.0,5.0,0,0
+ORD10080,U1499,R529,Oatmeal Bowl,Filter Coffee,1,2,Junk,Vegan,Non-Veg,1.7,12,162.0,1042.0,4.2,0,0
+ORD10081,U1413,R520,Beef Burger,Chocolate Brownie,1,4,Balanced,Veg,Veg,13.3,15,232.0,167.0,3.7,0,1
+ORD10082,U1130,R532,Paneer Butter Masala,Garlic Bread,1,4,Junk,Non-Veg,Veg,4.4,14,42.0,393.0,3.4,0,0
+ORD10083,U1108,R545,Pasta Alfredo,French Fries,1,7,Healthy,Vegan,Non-Veg,4.0,1,136.0,612.0,3.6,0,0
+ORD10084,U1466,R524,Oatmeal Bowl,Garlic Bread,0,0,Balanced,Vegan,Vegan,4.8,7,125.0,465.0,3.1,0,0
+ORD10085,U1321,R543,Masala Dosa,Butter Naan,1,2,Healthy,Veg,Vegan,8.9,7,114.0,1450.0,4.0,0,0
+ORD10086,U1353,R502,Sushi Platter,Extra Chutney,0,1,Junk,Vegan,Non-Veg,8.4,19,212.0,1030.0,,0,0
+ORD10087,U1314,R542,Chicken Biryani,Mint Raita,1,5,,Vegan,Veg,7.6,1,108.0,551.0,4.4,0,0
+ORD10088,U1096,R527,Beef Burger,Butter Naan,1,2,Healthy,Veg,Veg,10.9,20,35.0,1405.0,3.7,1,0
+ORD10089,U1451,R544,Margherita Pizza,Extra Chutney,1,0,Healthy,Non-Veg,Veg,5.1,12,35.0,1150.0,3.4,0,1
+ORD10090,U1485,R525,Pasta Alfredo,Mint Raita,1,1,Balanced,Non-Veg,Veg,11.8,2,30.0,534.0,4.1,1,0
+ORD10091,U1070,R503,Beef Burger,Extra Chutney,0,4,Healthy,Veg,Vegan,3.0,1,114.0,661.0,4.9,0,0
+ORD10092,U1194,R503,Margherita Pizza,Chocolate Brownie,1,6,Healthy,Non-Veg,Veg,11.8,10,185.0,419.0,4.4,0,0
+ORD10093,U1104,R503,Sushi Platter,French Fries,0,1,Junk,Non-Veg,Non-Veg,10.1,22,67.0,1461.0,4.0,0,0
+ORD10094,U1029,R503,Sushi Platter,Healthy Quinoa Salad,1,2,Junk,Non-Veg,Non-Veg,10.4,0,169.0,848.0,4.6,0,1
+ORD10095,U1145,R518,Sushi Platter,Butter Naan,0,4,Healthy,Vegan,Non-Veg,7.5,22,178.0,1360.0,4.5,0,0
+ORD10096,U1341,R521,Margherita Pizza,Butter Naan,1,5,Healthy,Vegan,Non-Veg,10.2,23,79.0,618.0,4.8,0,0
+ORD10097,U1121,R512,Beef Burger,Miso Soup,1,2,Junk,Vegan,Veg,1.7,23,158.0,1312.0,3.4,1,0
+ORD10098,U1187,R539,Sushi Platter,Green Tea,0,3,Balanced,Non-Veg,Vegan,12.8,9,178.0,223.0,4.7,1,0
+ORD10099,U1443,R515,Paneer Butter Masala,Chocolate Brownie,0,4,Balanced,Vegan,Veg,1.3,20,127.0,1476.0,3.6,0,1
+ORD10100,U1408,R507,Oatmeal Bowl,Chocolate Brownie,1,4,Balanced,Non-Veg,Vegan,2.7,20,97.0,1381.0,4.9,1,1
+ORD10101,U1478,R514,Margherita Pizza,Garlic Bread,1,2,Balanced,Veg,Veg,8.9,2,162.0,640.0,3.6,0,0
+ORD10102,U1341,R509,Margherita Pizza,Extra Chutney,0,6,Junk,Non-Veg,Vegan,11.2,20,245.0,1196.0,4.9,0,0
+ORD10103,U1092,R538,Beef Burger,Green Tea,0,3,Healthy,Vegan,Non-Veg,1.6,2,118.0,1166.0,4.9,0,0
+ORD10104,U1435,R508,Margherita Pizza,French Fries,0,1,Balanced,Non-Veg,Non-Veg,13.9,22,110.0,1367.0,3.3,0,0
+ORD10105,U1429,R529,Margherita Pizza,French Fries,1,4,Junk,Vegan,Vegan,14.6,8,127.0,565.0,4.9,0,0
+ORD10106,U1126,R517,Sushi Platter,Chocolate Brownie,1,1,Healthy,Vegan,Vegan,9.3,21,38.0,778.0,3.2,0,0
+ORD10107,U1349,R509,Beef Burger,French Fries,0,4,Balanced,Veg,Vegan,7.5,2,147.0,1318.0,3.4,0,0
+ORD10108,U1369,R539,Sushi Platter,Miso Soup,0,2,Healthy,Veg,Non-Veg,11.3,19,96.0,1201.0,3.9,0,0
+ORD10109,U1482,R504,Oatmeal Bowl,Butter Naan,0,2,Balanced,Vegan,Non-Veg,5.3,7,48.0,681.0,5.0,0,0
+ORD10110,U1073,R511,Pasta Alfredo,Filter Coffee,0,2,Healthy,Non-Veg,Veg,7.7,20,127.0,1292.0,4.0,0,0
+ORD10111,U1473,R541,Oatmeal Bowl,Healthy Quinoa Salad,1,3,Balanced,Veg,Vegan,13.8,20,21.0,213.0,4.1,0,0
+ORD10112,U1384,R540,Pasta Alfredo,Garlic Bread,0,6,Balanced,Veg,Vegan,14.4,22,112.0,1206.0,4.4,0,0
+ORD10113,U1297,R516,Sushi Platter,Extra Chutney,0,2,Healthy,Vegan,Vegan,13.9,2,44.0,429.0,,1,0
+ORD10114,U1486,R547,Oatmeal Bowl,Healthy Quinoa Salad,1,4,Healthy,Non-Veg,Non-Veg,4.3,23,26.0,536.0,4.6,0,1
+ORD10115,U1027,R529,Beef Burger,Extra Chutney,0,1,Healthy,Veg,Vegan,3.9,10,210.0,816.0,3.4,0,0
+ORD10116,U1415,R545,Chicken Biryani,Mint Raita,1,0,Junk,Veg,Vegan,4.8,23,231.0,757.0,3.6,0,0
+ORD10117,U1064,R516,Sushi Platter,Healthy Quinoa Salad,1,1,Junk,Non-Veg,Non-Veg,6.9,2,68.0,853.0,3.2,1,0
+ORD10118,U1364,R503,Pasta Alfredo,Filter Coffee,1,3,Healthy,Veg,Vegan,5.1,21,144.0,885.0,4.3,0,0
+ORD10119,U1239,R521,Paneer Butter Masala,Chocolate Brownie,1,3,Junk,Non-Veg,Veg,5.9,14,84.0,598.0,3.4,0,0
+ORD10120,U1438,R527,Pasta Alfredo,Miso Soup,1,3,Balanced,Vegan,Non-Veg,9.5,7,134.0,387.0,3.5,0,0
+ORD10121,U1010,R532,Paneer Butter Masala,Butter Naan,1,4,Healthy,Veg,Non-Veg,11.6,1,120.0,1187.0,4.8,1,0
+ORD10122,U1215,R519,Margherita Pizza,Butter Naan,1,4,Junk,Vegan,Non-Veg,11.2,1,82.0,690.0,3.7,0,1
+ORD10123,U1101,R512,Oatmeal Bowl,Miso Soup,1,3,Healthy,Non-Veg,Veg,12.3,13,181.0,833.0,4.1,0,0
+ORD10124,U1051,R534,Paneer Butter Masala,Green Tea,1,4,Balanced,Vegan,Non-Veg,1.0,15,49.0,1020.0,,0,0
+ORD10125,U1154,R522,Pasta Alfredo,Mint Raita,1,3,Balanced,Vegan,Non-Veg,1.2,0,32.0,1378.0,,0,0
+ORD10126,U1326,R523,Margherita Pizza,Extra Chutney,0,5,Junk,Vegan,Non-Veg,11.9,23,197.0,1105.0,3.7,0,0
+ORD10127,U1108,R535,Chicken Biryani,Filter Coffee,0,4,Balanced,Non-Veg,Non-Veg,8.2,0,173.0,211.0,3.8,1,0
+ORD10128,U1402,R501,Beef Burger,French Fries,0,1,Healthy,Non-Veg,Veg,8.9,23,135.0,1282.0,4.8,0,0
+ORD10129,U1405,R521,Beef Burger,Healthy Quinoa Salad,1,1,Junk,Non-Veg,Vegan,1.3,14,128.0,1486.0,3.6,0,0
+ORD10130,U1242,R502,Beef Burger,Mint Raita,1,1,Healthy,Non-Veg,Vegan,4.2,0,134.0,788.0,3.8,0,1
+ORD10131,U1372,R535,Paneer Butter Masala,Healthy Quinoa Salad,1,2,Healthy,Non-Veg,Non-Veg,9.8,21,121.0,1459.0,4.6,0,0
+ORD10132,U1377,R537,Chicken Biryani,Filter Coffee,1,2,Healthy,Veg,Veg,13.0,2,110.0,889.0,4.5,0,0
+ORD10133,U1156,R533,Paneer Butter Masala,Garlic Bread,1,4,Balanced,Veg,Non-Veg,13.8,1,135.0,770.0,4.6,0,0
+ORD10134,U1161,R547,Oatmeal Bowl,Garlic Bread,0,2,Healthy,Veg,Vegan,7.8,2,142.0,597.0,4.9,0,0
+ORD10135,U1242,R528,Paneer Butter Masala,Mint Raita,1,3,Balanced,Vegan,Vegan,8.4,21,179.0,1038.0,,0,0
+ORD10136,U1433,R502,Chicken Biryani,Chocolate Brownie,1,4,,Vegan,Veg,12.6,8,184.0,460.0,3.8,0,0
+ORD10137,U1096,R538,Chicken Biryani,Filter Coffee,1,4,Balanced,Non-Veg,Vegan,8.3,13,107.0,292.0,4.6,1,0
+ORD10138,U1032,R538,Oatmeal Bowl,Filter Coffee,0,4,Balanced,Non-Veg,Non-Veg,8.0,1,115.0,187.0,4.0,0,1
+ORD10139,U1311,R527,Chicken Biryani,Miso Soup,1,5,Balanced,Veg,Veg,13.6,23,106.0,545.0,3.6,1,0
+ORD10140,U1211,R502,Pasta Alfredo,Chocolate Brownie,1,3,Healthy,Non-Veg,Vegan,12.0,19,143.0,684.0,3.6,0,1
+ORD10141,U1370,R519,Chicken Biryani,Extra Chutney,1,6,Healthy,Vegan,Non-Veg,13.7,15,124.0,895.0,3.4,0,1
+ORD10142,U1417,R544,Beef Burger,Extra Chutney,1,2,Balanced,Non-Veg,Veg,3.7,22,225.0,545.0,,0,0
+ORD10143,U1482,R522,Pasta Alfredo,French Fries,1,4,Healthy,Veg,Non-Veg,8.1,21,180.0,1478.0,3.4,0,0
+ORD10144,U1450,R533,Pasta Alfredo,Butter Naan,0,3,Balanced,Non-Veg,Vegan,12.7,0,227.0,544.0,3.1,0,0
+ORD10145,U1137,R506,Oatmeal Bowl,Garlic Bread,1,2,Healthy,Vegan,Non-Veg,2.1,15,183.0,745.0,4.8,1,1
+ORD10146,U1324,R537,Masala Dosa,Extra Chutney,1,5,Balanced,Veg,Veg,12.0,9,243.0,289.0,4.9,1,1
+ORD10147,U1310,R519,Masala Dosa,Chocolate Brownie,1,2,Balanced,Non-Veg,Non-Veg,3.2,2,166.0,502.0,,0,0
+ORD10148,U1367,R515,Chicken Biryani,Filter Coffee,1,1,Junk,Vegan,Vegan,12.2,20,242.0,215.0,4.7,1,0
+ORD10149,U1011,R538,Pasta Alfredo,Extra Chutney,0,2,Healthy,Veg,Veg,,10,56.0,905.0,3.4,0,0
+ORD10150,U1196,R503,Masala Dosa,Filter Coffee,0,2,Healthy,Veg,Veg,3.3,9,32.0,1164.0,4.8,1,1
+ORD10151,U1219,R511,Masala Dosa,Extra Chutney,1,6,Junk,Vegan,Vegan,7.4,15,153.0,414.0,4.0,0,1
+ORD10152,U1376,R527,Chicken Biryani,Garlic Bread,1,2,Balanced,Non-Veg,Non-Veg,10.4,23,246.0,647.0,3.1,1,0
+ORD10153,U1325,R510,Masala Dosa,Healthy Quinoa Salad,1,3,Balanced,Non-Veg,Non-Veg,9.7,10,116.0,172.0,3.3,0,0
+ORD10154,U1065,R547,Paneer Butter Masala,Extra Chutney,0,3,Junk,Non-Veg,Vegan,6.7,20,69.0,1283.0,3.6,1,0
+ORD10155,U1480,R538,Margherita Pizza,Chocolate Brownie,1,4,Junk,Veg,Veg,13.5,20,140.0,1203.0,3.1,0,0
+ORD10156,U1304,R526,Oatmeal Bowl,Extra Chutney,1,2,Balanced,Veg,Vegan,8.0,8,169.0,235.0,3.6,0,1
+ORD10157,U1483,R515,Margherita Pizza,Butter Naan,1,2,Healthy,Non-Veg,Veg,7.8,0,92.0,643.0,3.1,0,0
+ORD10158,U1108,R537,Chicken Biryani,Garlic Bread,0,3,Junk,Veg,Veg,1.4,21,184.0,1440.0,3.5,1,0
+ORD10159,U1209,R501,Beef Burger,Chocolate Brownie,1,4,,Veg,Non-Veg,13.9,2,244.0,679.0,3.5,0,0
+ORD10160,U1115,R510,Oatmeal Bowl,Miso Soup,1,5,Junk,Vegan,Vegan,3.1,2,226.0,860.0,5.0,0,0
+ORD10161,U1193,R512,Chicken Biryani,Chocolate Brownie,0,6,Junk,Non-Veg,Veg,8.2,10,87.0,630.0,3.5,0,0
+ORD10162,U1014,R508,Pasta Alfredo,Butter Naan,1,0,Junk,Non-Veg,Non-Veg,12.2,22,95.0,955.0,3.5,1,0
+ORD10163,U1048,R545,Beef Burger,Healthy Quinoa Salad,1,3,Junk,Non-Veg,Vegan,3.6,21,105.0,1471.0,4.4,0,0
+ORD10164,U1426,R540,Margherita Pizza,Garlic Bread,1,2,Balanced,Veg,Vegan,8.1,20,111.0,1497.0,4.7,0,0
+ORD10165,U1093,R525,Chicken Biryani,Miso Soup,1,5,Balanced,Veg,Veg,4.0,2,43.0,1196.0,3.8,1,0
+ORD10166,U1390,R543,Pasta Alfredo,Butter Naan,0,4,Junk,Veg,Veg,11.5,15,195.0,696.0,4.8,0,0
+ORD10167,U1026,R502,Oatmeal Bowl,Butter Naan,0,1,Balanced,Non-Veg,Veg,8.7,8,104.0,817.0,3.7,0,0
+ORD10168,U1322,R529,Oatmeal Bowl,Mint Raita,1,1,Healthy,Veg,Vegan,,7,222.0,632.0,3.4,0,0
+ORD10169,U1237,R542,Sushi Platter,Garlic Bread,0,2,Healthy,Non-Veg,Veg,13.5,7,233.0,1481.0,3.7,1,0
+ORD10170,U1498,R550,Pasta Alfredo,Chocolate Brownie,1,2,Junk,Veg,Vegan,9.9,20,26.0,1105.0,4.2,0,0
+ORD10171,U1033,R518,Paneer Butter Masala,Filter Coffee,0,2,Healthy,Non-Veg,Non-Veg,11.0,10,247.0,756.0,3.7,0,1
+ORD10172,U1469,R528,Masala Dosa,Healthy Quinoa Salad,1,3,Healthy,Vegan,Vegan,8.5,0,183.0,166.0,4.3,1,0
+ORD10173,U1481,R545,Beef Burger,Filter Coffee,1,0,Balanced,Veg,Veg,6.1,10,140.0,853.0,,0,0
+ORD10174,U1076,R533,Pasta Alfredo,Chocolate Brownie,1,0,Balanced,Non-Veg,Vegan,9.9,22,110.0,1478.0,4.4,1,0
+ORD10175,U1395,R506,Sushi Platter,Chocolate Brownie,1,3,Balanced,Vegan,Veg,13.7,23,139.0,856.0,3.7,0,1
+ORD10176,U1407,R501,Masala Dosa,Garlic Bread,1,2,Balanced,Vegan,Non-Veg,6.5,12,95.0,396.0,3.9,0,0
+ORD10177,U1147,R508,Masala Dosa,Chocolate Brownie,1,5,Healthy,Veg,Veg,,2,163.0,180.0,4.1,0,0
+ORD10178,U1111,R549,Chicken Biryani,Mint Raita,0,4,Junk,Non-Veg,Veg,6.1,22,41.0,629.0,4.4,0,0
+ORD10179,U1065,R545,Masala Dosa,Miso Soup,1,1,Balanced,Veg,Veg,,2,163.0,1390.0,3.5,0,0
+ORD10180,U1067,R508,Paneer Butter Masala,Chocolate Brownie,1,4,Healthy,Vegan,Veg,1.6,7,83.0,1495.0,4.7,0,1
+ORD10181,U1009,R502,Oatmeal Bowl,Filter Coffee,1,6,Balanced,Veg,Veg,7.7,22,24.0,1426.0,4.4,1,1
+ORD10182,U1174,R502,Sushi Platter,Chocolate Brownie,1,2,Healthy,Non-Veg,Veg,7.7,20,147.0,1135.0,3.5,0,0
+ORD10183,U1240,R532,Masala Dosa,Mint Raita,1,1,Balanced,Vegan,Non-Veg,9.0,9,153.0,903.0,,1,0
+ORD10184,U1008,R514,Chicken Biryani,Extra Chutney,1,4,Junk,Veg,Non-Veg,5.8,21,118.0,947.0,4.3,0,0
+ORD10185,U1246,R547,Paneer Butter Masala,Extra Chutney,0,6,Balanced,Veg,Vegan,9.4,10,37.0,12040.912154500482,3.9,0,0
+ORD10186,U1348,R515,Margherita Pizza,Butter Naan,1,2,Junk,Veg,Veg,13.2,0,225.0,1105.0,3.3,1,0
+ORD10187,U1174,R537,Oatmeal Bowl,Healthy Quinoa Salad,1,5,Balanced,Veg,Vegan,14.4,22,161.0,715.0,4.1,0,0
+ORD10188,U1024,R517,Oatmeal Bowl,French Fries,0,2,Balanced,Veg,Non-Veg,9.0,20,47.0,1053.0,3.3,1,0
+ORD10189,U1020,R541,Sushi Platter,Miso Soup,1,1,Balanced,Vegan,Non-Veg,1.1,7,138.0,314.0,3.9,0,1
+ORD10190,U1193,R527,Oatmeal Bowl,Green Tea,0,1,Healthy,Vegan,Veg,14.6,19,134.0,509.0,3.8,0,0
+ORD10191,U1400,R523,Masala Dosa,Butter Naan,1,1,Healthy,Non-Veg,Veg,10.7,10,34.0,1279.0,4.4,0,0
+ORD10192,U1246,R523,Chicken Biryani,Healthy Quinoa Salad,1,1,Junk,Veg,Vegan,5.4,23,160.0,1370.0,3.4,0,0
+ORD10193,U1304,R525,Oatmeal Bowl,Extra Chutney,1,2,Junk,Non-Veg,Non-Veg,2.6,15,206.0,878.0,,0,1
+ORD10194,U1059,R526,Oatmeal Bowl,Filter Coffee,1,2,Healthy,Vegan,Vegan,2.6,1,192.0,193.0,3.7,1,1
+ORD10195,U1487,R500,Margherita Pizza,Green Tea,1,1,Junk,Veg,Vegan,2.9,0,67.0,1401.0,3.9,0,0
+ORD10196,U1368,R515,Margherita Pizza,Healthy Quinoa Salad,0,1,Junk,Non-Veg,Vegan,1.2,0,218.0,1098.0,4.5,0,1
+ORD10197,U1209,R524,Beef Burger,Healthy Quinoa Salad,1,3,Healthy,Veg,Veg,13.6,14,99.0,709.0,4.3,1,0
+ORD10198,U1029,R502,Paneer Butter Masala,Butter Naan,1,3,Healthy,Veg,Non-Veg,8.3,21,238.0,958.0,3.6,1,0
+ORD10199,U1264,R541,Masala Dosa,Green Tea,0,1,Healthy,Non-Veg,Vegan,10.6,21,37.0,730.0,3.8,0,0
+ORD10200,U1287,R522,Oatmeal Bowl,Garlic Bread,0,3,Healthy,Vegan,Non-Veg,12.5,9,132.0,778.0,3.6,0,0
+ORD10201,U1021,R529,Pasta Alfredo,French Fries,0,4,Balanced,Non-Veg,Non-Veg,210.04203657518747,19,157.0,1347.0,4.2,0,0
+ORD10202,U1247,R548,Oatmeal Bowl,Garlic Bread,0,3,Healthy,Non-Veg,Vegan,13.3,8,77.0,367.0,3.7,0,0
+ORD10203,U1267,R511,Chicken Biryani,Green Tea,1,3,,Non-Veg,Vegan,14.5,0,197.0,290.0,4.5,0,0
+ORD10204,U1220,R534,Beef Burger,Garlic Bread,1,5,Balanced,Veg,Veg,6.9,14,164.0,154.0,4.2,1,0
+ORD10205,U1491,R513,Paneer Butter Masala,Mint Raita,0,2,Balanced,Vegan,Non-Veg,14.3,2,24.0,574.0,,0,0
+ORD10206,U1340,R538,Pasta Alfredo,Extra Chutney,1,1,Junk,Vegan,Vegan,11.0,22,160.0,349.0,3.6,0,0
+ORD10207,U1354,R542,Beef Burger,Mint Raita,0,1,Balanced,Veg,Vegan,1.5,15,133.0,447.0,3.4,1,0
+ORD10208,U1414,R536,Sushi Platter,Chocolate Brownie,1,3,Junk,Vegan,Non-Veg,10.4,10,65.0,165.0,,0,0
+ORD10209,U1201,R539,Paneer Butter Masala,Garlic Bread,1,2,Balanced,Non-Veg,Vegan,10.5,19,249.0,457.0,4.0,1,0
+ORD10210,U1435,R505,Oatmeal Bowl,Chocolate Brownie,0,6,Balanced,Vegan,Non-Veg,13.6,13,226.0,599.0,,0,1
+ORD10211,U1047,R501,Oatmeal Bowl,Filter Coffee,1,0,Junk,Veg,Vegan,5.9,20,87.0,193.0,4.5,0,1
+ORD10212,U1004,R516,Paneer Butter Masala,Miso Soup,1,3,Junk,Vegan,Non-Veg,,13,144.0,971.0,3.4,1,0
+ORD10213,U1176,R535,Oatmeal Bowl,Filter Coffee,0,4,Junk,Veg,Vegan,0.7,22,93.0,918.0,4.9,0,0
+ORD10214,U1398,R514,Masala Dosa,Green Tea,0,5,Junk,Non-Veg,Vegan,5.3,9,198.0,281.0,3.7,1,0
+ORD10215,U1207,R514,Paneer Butter Masala,Healthy Quinoa Salad,1,1,Healthy,Veg,Veg,1.4,2,234.0,953.0,3.6,0,0
+ORD10216,U1424,R523,Beef Burger,Extra Chutney,1,2,Healthy,Vegan,Non-Veg,8.1,0,103.0,1498.0,4.4,1,0
+ORD10217,U1107,R513,Paneer Butter Masala,Garlic Bread,1,2,Junk,Non-Veg,Veg,12.4,2,205.0,1425.0,4.6,0,0
+ORD10218,U1421,R532,Pasta Alfredo,Butter Naan,1,2,Healthy,Vegan,Vegan,3.5,14,135.0,154.0,3.8,0,1
+ORD10219,U1347,R542,Oatmeal Bowl,Miso Soup,1,4,Junk,Veg,Non-Veg,8.1,1,111.0,1224.0,4.5,0,0
+ORD10220,U1446,R512,Masala Dosa,French Fries,1,3,Junk,Non-Veg,Non-Veg,3.5,15,236.0,627.0,4.8,0,0
+ORD10221,U1092,R528,Masala Dosa,French Fries,1,2,Balanced,Veg,Vegan,2.2,8,137.0,236.0,4.5,0,1
+ORD10222,U1386,R531,Sushi Platter,French Fries,1,1,Junk,Vegan,Vegan,7.9,12,128.0,550.0,,0,0
+ORD10223,U1413,R528,Beef Burger,Garlic Bread,0,2,Junk,Veg,Vegan,1.6,8,175.0,584.0,4.7,0,1
+ORD10224,U1047,R527,Margherita Pizza,French Fries,1,4,Junk,Vegan,Vegan,9.0,23,80.0,856.0,4.5,0,0
+ORD10225,U1449,R534,Margherita Pizza,Mint Raita,1,3,Junk,Vegan,Non-Veg,1.0,0,95.0,1042.0,4.3,1,0
+ORD10226,U1124,R541,Paneer Butter Masala,Miso Soup,0,4,Balanced,Non-Veg,Veg,2.0,2,234.0,1161.0,,0,0
+ORD10227,U1417,R527,Sushi Platter,Mint Raita,1,2,Junk,Non-Veg,Non-Veg,8.5,19,176.0,482.0,5.0,0,0
+ORD10228,U1287,R531,Chicken Biryani,Healthy Quinoa Salad,0,3,Balanced,Veg,Non-Veg,9.1,8,210.0,584.0,3.9,0,0
+ORD10229,U1236,R526,Paneer Butter Masala,Miso Soup,1,0,Junk,Vegan,Non-Veg,0.9,10,82.0,566.0,3.1,0,0
+ORD10230,U1466,R536,Sushi Platter,Mint Raita,1,3,Balanced,Vegan,Non-Veg,8.8,8,145.0,640.0,3.9,1,0
+ORD10231,U1027,R509,Beef Burger,Miso Soup,0,3,Healthy,Non-Veg,Vegan,12.7,21,243.0,1500.0,3.1,0,1
+ORD10232,U1015,R548,Beef Burger,Healthy Quinoa Salad,0,3,Balanced,Non-Veg,Veg,11.0,14,93.0,1200.0,3.6,0,1
+ORD10233,U1363,R550,Beef Burger,Chocolate Brownie,1,1,Balanced,Non-Veg,Non-Veg,2.4,8,57.0,1466.0,4.2,0,0
+ORD10234,U1017,R508,Beef Burger,Garlic Bread,1,3,Junk,Non-Veg,Non-Veg,9.1,10,138.0,1086.0,3.6,1,0
+ORD10235,U1345,R519,Beef Burger,Garlic Bread,0,1,Balanced,Veg,Veg,,20,109.0,698.0,4.4,0,0
+ORD10236,U1177,R503,Sushi Platter,French Fries,1,4,Balanced,Veg,Vegan,,22,57.0,676.0,4.6,1,0
+ORD10237,U1165,R537,Sushi Platter,Filter Coffee,0,0,Junk,Veg,Non-Veg,12.9,12,224.0,810.0,3.8,0,0
+ORD10238,U1485,R511,Masala Dosa,French Fries,1,4,Healthy,Veg,Vegan,13.6,21,248.0,713.0,,1,1
+ORD10239,U1206,R531,Pasta Alfredo,Green Tea,1,3,Healthy,Non-Veg,Non-Veg,12.8,12,151.0,1268.0,3.2,0,1
+ORD10240,U1255,R519,Margherita Pizza,Mint Raita,1,2,Healthy,Veg,Non-Veg,12.5,10,198.0,778.0,,1,0
+ORD10241,U1135,R519,Oatmeal Bowl,Miso Soup,1,2,Balanced,Veg,Veg,11.3,20,218.0,549.0,4.7,0,0
+ORD10242,U1496,R535,Beef Burger,Filter Coffee,1,4,Junk,Veg,Veg,9.7,21,181.0,1196.0,3.6,0,0
+ORD10243,U1435,R517,Chicken Biryani,Healthy Quinoa Salad,1,3,Healthy,Non-Veg,Vegan,10.3,2,30.0,1303.0,3.6,1,0
+ORD10244,U1229,R509,Oatmeal Bowl,Green Tea,0,3,Healthy,Vegan,Non-Veg,12.2,15,56.0,718.0,3.6,0,0
+ORD10245,U1457,R528,Sushi Platter,Healthy Quinoa Salad,0,3,Healthy,Non-Veg,Vegan,10.1,1,36.0,1052.0,4.6,0,0
+ORD10246,U1148,R506,Chicken Biryani,Garlic Bread,0,7,,Vegan,Veg,5.3,0,22.0,229.0,4.7,1,0
+ORD10247,U1030,R505,Chicken Biryani,Garlic Bread,1,6,Junk,Vegan,Veg,6.0,9,90.0,865.0,3.7,0,0
+ORD10248,U1381,R541,Chicken Biryani,French Fries,0,2,Healthy,Veg,Veg,13.5,20,110.0,211.0,4.2,0,0
+ORD10249,U1208,R526,Masala Dosa,Mint Raita,1,0,Balanced,Veg,Veg,0.7,13,75.0,189.0,3.3,0,0
+ORD10250,U1105,R528,Sushi Platter,Filter Coffee,1,3,Balanced,Veg,Veg,10.6,2,35.0,977.0,3.9,0,0
+ORD10251,U1078,R509,Chicken Biryani,Extra Chutney,0,4,Junk,Non-Veg,Vegan,14.3,8,142.0,560.0,5.0,1,0
+ORD10252,U1378,R546,Beef Burger,Green Tea,1,1,Healthy,Non-Veg,Vegan,10.7,13,83.0,1152.0,3.3,0,1
+ORD10253,U1118,R542,Paneer Butter Masala,Green Tea,1,1,Healthy,Veg,Veg,14.9,21,203.0,1360.0,4.9,0,1
+ORD10254,U1405,R544,Chicken Biryani,French Fries,1,6,Balanced,Non-Veg,Non-Veg,10.5,21,22.0,338.0,4.6,0,0
+ORD10255,U1177,R544,Masala Dosa,Garlic Bread,1,8,Junk,Non-Veg,Non-Veg,1.0,13,214.0,1128.0,4.9,0,0
+ORD10256,U1254,R510,Oatmeal Bowl,French Fries,1,1,Balanced,Vegan,Non-Veg,12.5,10,240.0,845.0,3.4,1,0
+ORD10257,U1017,R516,Sushi Platter,Miso Soup,1,2,Junk,Non-Veg,Non-Veg,4.6,21,185.0,301.0,3.4,1,0
+ORD10258,U1483,R538,Pasta Alfredo,Filter Coffee,0,4,Junk,Vegan,Non-Veg,7.0,7,189.0,1030.0,3.0,0,0
+ORD10259,U1030,R515,Masala Dosa,Mint Raita,1,4,Junk,Veg,Veg,5.0,15,235.0,973.0,4.4,0,1
+ORD10260,U1115,R512,Chicken Biryani,Chocolate Brownie,1,4,Balanced,Non-Veg,Vegan,4.4,1,68.0,846.0,4.3,1,1
+ORD10261,U1172,R508,Sushi Platter,Butter Naan,0,2,Junk,Vegan,Veg,,1,249.0,1401.0,3.4,0,0
+ORD10262,U1426,R504,Paneer Butter Masala,Butter Naan,1,5,Balanced,Non-Veg,Non-Veg,6.0,7,198.0,853.0,,0,0
+ORD10263,U1248,R517,Chicken Biryani,French Fries,0,5,Balanced,Vegan,Non-Veg,9.7,0,187.0,1487.0,3.6,0,0
+ORD10264,U1475,R503,Masala Dosa,Miso Soup,1,2,Healthy,Vegan,Vegan,12.3,21,103.0,837.0,3.3,0,0
+ORD10265,U1315,R545,Margherita Pizza,Filter Coffee,0,2,Balanced,Non-Veg,Veg,4.8,7,146.0,306.0,3.8,1,0
+ORD10266,U1407,R530,Beef Burger,Extra Chutney,1,6,,Veg,Vegan,3.6,19,170.0,785.0,3.2,0,0
+ORD10267,U1308,R533,Pasta Alfredo,Butter Naan,1,7,,Vegan,Non-Veg,10.2,21,163.0,396.0,3.5,1,1
+ORD10268,U1225,R506,Oatmeal Bowl,Filter Coffee,1,2,Healthy,Veg,Non-Veg,10.2,15,182.0,956.0,,0,0
+ORD10269,U1082,R512,Masala Dosa,Mint Raita,1,3,Healthy,Non-Veg,Vegan,13.6,9,39.0,1086.0,4.7,0,0
+ORD10270,U1362,R522,Sushi Platter,Healthy Quinoa Salad,0,2,Junk,Non-Veg,Non-Veg,0.7,23,102.0,782.0,4.6,1,0
+ORD10271,U1205,R500,Pasta Alfredo,Miso Soup,1,6,Junk,Veg,Veg,12.9,9,120.0,282.0,3.9,1,1
+ORD10272,U1349,R527,Pasta Alfredo,Garlic Bread,0,1,Healthy,Non-Veg,Non-Veg,8.1,10,80.0,783.0,4.4,1,1
+ORD10273,U1305,R548,Pasta Alfredo,Filter Coffee,1,4,Junk,Vegan,Non-Veg,9.5,8,60.0,260.0,4.1,0,0
+ORD10274,U1220,R538,Chicken Biryani,Mint Raita,1,1,Healthy,Veg,Veg,1.8,13,52.0,1071.0,3.7,1,1
+ORD10275,U1148,R550,Beef Burger,Extra Chutney,1,1,Junk,Non-Veg,Non-Veg,6.8,1,104.0,1217.0,4.5,0,0
+ORD10276,U1017,R534,Chicken Biryani,Chocolate Brownie,1,3,Balanced,Non-Veg,Vegan,3.8,1,133.0,1449.0,4.4,0,0
+ORD10277,U1184,R548,Sushi Platter,Garlic Bread,1,4,Junk,Veg,Vegan,4.2,7,34.0,351.0,4.2,0,0
+ORD10278,U1272,R519,Chicken Biryani,Chocolate Brownie,1,5,Junk,Vegan,Non-Veg,7.8,22,238.0,869.0,4.2,0,0
+ORD10279,U1310,R527,Margherita Pizza,Extra Chutney,1,2,Balanced,Veg,Veg,12.3,7,196.0,916.0,4.4,1,0
+ORD10280,U1189,R507,Beef Burger,Mint Raita,1,4,Healthy,Non-Veg,Veg,11.3,7,188.0,1395.0,3.8,0,1
+ORD10281,U1193,R537,Beef Burger,Butter Naan,0,3,Junk,Non-Veg,Vegan,9.1,0,60.0,997.0,4.7,0,0
+ORD10282,U1306,R548,Sushi Platter,Chocolate Brownie,0,3,Junk,Veg,Non-Veg,8.3,7,159.0,346.0,3.3,0,0
+ORD10283,U1490,R521,Oatmeal Bowl,Garlic Bread,0,1,Balanced,Vegan,Veg,6.7,19,142.0,739.0,4.8,0,0
+ORD10284,U1110,R549,Margherita Pizza,French Fries,1,4,Balanced,Vegan,Veg,14.6,8,246.0,1034.0,3.7,0,0
+ORD10285,U1032,R548,Masala Dosa,Green Tea,0,1,Balanced,Vegan,Vegan,8.6,13,192.0,1095.0,3.3,0,0
+ORD10286,U1444,R517,Chicken Biryani,Filter Coffee,1,4,Balanced,Veg,Vegan,4.2,2,152.0,1315.0,4.2,0,0
+ORD10287,U1190,R533,Paneer Butter Masala,Butter Naan,0,1,Healthy,Vegan,Veg,3.8,22,216.0,394.0,3.8,0,0
+ORD10288,U1419,R545,Chicken Biryani,Chocolate Brownie,0,1,Junk,Vegan,Vegan,9.4,2,56.0,1435.0,,1,0
+ORD10289,U1216,R502,Pasta Alfredo,Healthy Quinoa Salad,1,2,Junk,Vegan,Veg,8.1,21,23.0,230.0,3.9,0,0
+ORD10290,U1129,R534,Chicken Biryani,Filter Coffee,1,0,Junk,Vegan,Non-Veg,0.6,8,179.0,1478.0,4.3,0,0
+ORD10291,U1158,R512,Masala Dosa,French Fries,0,1,Junk,Non-Veg,Vegan,12.5,14,43.0,1308.0,3.6,1,0
+ORD10292,U1193,R538,Chicken Biryani,Extra Chutney,1,2,Healthy,Veg,Vegan,10.7,9,47.0,1041.0,3.4,0,0
+ORD10293,U1094,R515,Margherita Pizza,Green Tea,0,2,Junk,Veg,Non-Veg,10.1,2,191.0,1142.0,3.8,1,0
+ORD10294,U1316,R542,Margherita Pizza,Mint Raita,1,0,,Vegan,Veg,1.5,0,82.0,248.0,4.2,0,0
+ORD10295,U1216,R543,Beef Burger,French Fries,1,3,Healthy,Veg,Veg,5.7,14,165.0,206.0,4.3,1,0
+ORD10296,U1426,R548,Sushi Platter,French Fries,0,3,Balanced,Veg,Vegan,14.1,12,231.0,287.0,,0,0
+ORD10297,U1467,R537,Oatmeal Bowl,Extra Chutney,1,3,Balanced,Non-Veg,Veg,13.0,19,93.0,268.0,5.0,0,1
+ORD10298,U1275,R541,Paneer Butter Masala,Miso Soup,1,1,Junk,Veg,Veg,4.6,0,70.0,889.0,,0,0
+ORD10299,U1052,R503,Pasta Alfredo,Extra Chutney,1,1,,Non-Veg,Non-Veg,2.8,1,45.0,441.0,4.9,0,0
+ORD10300,U1229,R517,Chicken Biryani,Miso Soup,0,6,Balanced,Veg,Non-Veg,7.0,2,50.0,1311.0,3.2,1,0
+ORD10301,U1093,R523,Chicken Biryani,Miso Soup,0,0,,Non-Veg,Non-Veg,5.7,9,34.0,752.0,3.1,0,1
+ORD10302,U1399,R536,Masala Dosa,Butter Naan,1,2,Balanced,Non-Veg,Vegan,10.4,7,40.0,1089.0,3.6,0,0
+ORD10303,U1363,R533,Sushi Platter,Butter Naan,0,4,Healthy,Veg,Non-Veg,14.5,7,119.0,1031.0,3.3,0,0
+ORD10304,U1241,R516,Margherita Pizza,Garlic Bread,1,5,Junk,Non-Veg,Non-Veg,5.8,22,94.0,582.0,,1,0
+ORD10305,U1103,R545,Paneer Butter Masala,Chocolate Brownie,1,3,Junk,Non-Veg,Veg,1.4,13,183.0,478.0,4.0,1,0
+ORD10306,U1469,R540,Beef Burger,Chocolate Brownie,1,2,Healthy,Veg,Non-Veg,13.5,9,220.0,612.0,4.2,0,0
+ORD10307,U1009,R538,Margherita Pizza,Mint Raita,0,2,Balanced,Non-Veg,Vegan,1.1,19,200.0,1225.0,4.5,0,1
+ORD10308,U1072,R519,Pasta Alfredo,Chocolate Brownie,0,4,Balanced,Non-Veg,Non-Veg,14.3,1,142.0,941.0,4.9,0,0
+ORD10309,U1027,R506,Sushi Platter,Butter Naan,1,4,Junk,Non-Veg,Vegan,10.1,10,44.0,492.0,4.8,0,0
+ORD10310,U1376,R501,Pasta Alfredo,Garlic Bread,0,1,Junk,Non-Veg,Veg,14.2,22,183.0,1254.0,3.2,0,0
+ORD10311,U1215,R547,Oatmeal Bowl,Garlic Bread,0,5,Junk,Non-Veg,Veg,3.4,20,103.0,224.0,3.7,0,0
+ORD10312,U1481,R545,Beef Burger,Miso Soup,0,1,Balanced,Vegan,Non-Veg,1.1,2,40.0,1094.0,3.5,1,1
+ORD10313,U1327,R531,Oatmeal Bowl,Extra Chutney,1,4,Balanced,Non-Veg,Veg,7.6,13,214.0,743.0,3.4,1,0
+ORD10314,U1339,R507,Masala Dosa,Mint Raita,1,2,Junk,Non-Veg,Non-Veg,7.0,9,98.0,1137.0,4.1,0,0
+ORD10315,U1425,R547,Pasta Alfredo,Miso Soup,0,5,Healthy,Non-Veg,Veg,5.3,23,70.0,1402.0,4.1,0,0
+ORD10316,U1069,R523,Masala Dosa,Extra Chutney,0,2,,Non-Veg,Vegan,14.4,12,220.0,1163.0,3.5,1,0
+ORD10317,U1358,R504,Chicken Biryani,Chocolate Brownie,0,6,Junk,Veg,Veg,12.4,20,227.0,747.0,4.4,0,0
+ORD10318,U1374,R521,Oatmeal Bowl,Miso Soup,1,2,Healthy,Vegan,Non-Veg,10.1,23,98.0,354.0,4.5,0,0
+ORD10319,U1424,R532,Sushi Platter,Filter Coffee,1,1,Balanced,Veg,Non-Veg,2.9,20,102.0,1239.0,3.0,1,0
+ORD10320,U1429,R534,Pasta Alfredo,Chocolate Brownie,1,3,Healthy,Vegan,Non-Veg,11.1,0,153.0,772.0,,0,1
+ORD10321,U1034,R543,Paneer Butter Masala,Extra Chutney,1,4,Healthy,Non-Veg,Vegan,11.0,1,189.0,252.0,4.8,0,0
+ORD10322,U1418,R504,Beef Burger,Mint Raita,1,3,Balanced,Non-Veg,Veg,6.7,9,35.0,1121.0,4.0,0,1
+ORD10323,U1043,R501,Margherita Pizza,Extra Chutney,1,5,Junk,Vegan,Non-Veg,13.9,2,156.0,544.0,3.7,0,0
+ORD10324,U1475,R550,Sushi Platter,Miso Soup,1,4,Healthy,Vegan,Vegan,2.9,0,239.0,216.0,3.5,0,0
+ORD10325,U1123,R524,Sushi Platter,Miso Soup,0,3,Junk,Veg,Vegan,4.4,9,80.0,1369.0,3.5,0,0
+ORD10326,U1333,R520,Masala Dosa,French Fries,0,1,Balanced,Vegan,Vegan,1.4,8,229.0,802.0,3.2,0,1
+ORD10327,U1205,R548,Oatmeal Bowl,Mint Raita,0,3,Healthy,Non-Veg,Veg,12.0,20,239.0,529.0,,1,0
+ORD10328,U1185,R502,Pasta Alfredo,Healthy Quinoa Salad,0,1,Healthy,Veg,Veg,9.5,13,82.0,1117.0,3.2,0,0
+ORD10329,U1002,R530,Pasta Alfredo,Chocolate Brownie,1,1,Healthy,Vegan,Veg,5.1,9,193.0,1346.0,3.6,0,0
+ORD10330,U1195,R513,Chicken Biryani,Garlic Bread,1,4,Healthy,Vegan,Vegan,2.9,8,75.0,150.0,3.1,0,0
+ORD10331,U1146,R532,Chicken Biryani,Mint Raita,0,3,Healthy,Veg,Veg,1.1,0,190.0,1079.0,4.6,0,1
+ORD10332,U1127,R526,Beef Burger,Garlic Bread,1,3,Balanced,Vegan,Non-Veg,2.9,22,203.0,1185.0,3.1,1,0
+ORD10333,U1406,R521,Masala Dosa,Mint Raita,1,2,Healthy,Non-Veg,Vegan,7.1,0,77.0,433.0,3.6,0,1
+ORD10334,U1286,R514,Sushi Platter,Mint Raita,0,6,Balanced,Veg,Veg,4.1,15,185.0,811.0,4.1,0,1
+ORD10335,U1349,R550,Pasta Alfredo,Extra Chutney,0,3,Junk,Vegan,Vegan,4.3,0,207.0,271.0,3.8,0,0
+ORD10336,U1283,R530,Paneer Butter Masala,Mint Raita,1,1,Balanced,Non-Veg,Vegan,13.2,10,102.0,1158.0,3.6,0,0
+ORD10337,U1225,R550,Masala Dosa,French Fries,1,4,Healthy,Vegan,Veg,8.0,9,59.0,1294.0,3.6,0,0
+ORD10338,U1036,R517,Beef Burger,Healthy Quinoa Salad,0,0,Junk,Veg,Vegan,11.1,21,41.0,296.0,,0,0
+ORD10339,U1414,R509,Beef Burger,Miso Soup,0,5,Balanced,Vegan,Veg,1.0,23,152.0,1252.0,4.9,0,0
+ORD10340,U1334,R511,Masala Dosa,Green Tea,1,5,Balanced,Vegan,Veg,5.8,8,245.0,1192.0,3.7,1,0
+ORD10341,U1249,R512,Beef Burger,Garlic Bread,0,1,Balanced,Vegan,Veg,7.4,23,209.0,618.0,3.1,1,0
+ORD10342,U1032,R525,Masala Dosa,Miso Soup,1,1,Healthy,Non-Veg,Vegan,3.2,7,120.0,1082.0,3.1,1,0
+ORD10343,U1080,R529,Margherita Pizza,Green Tea,1,2,,Non-Veg,Vegan,2.2,15,143.0,150.0,4.5,1,1
+ORD10344,U1199,R547,Masala Dosa,Healthy Quinoa Salad,0,4,Balanced,Vegan,Veg,,21,84.0,1408.0,4.1,1,0
+ORD10345,U1424,R542,Oatmeal Bowl,Healthy Quinoa Salad,1,3,Balanced,Vegan,Vegan,14.1,20,58.0,893.0,4.6,1,0
+ORD10346,U1313,R534,Masala Dosa,Garlic Bread,1,4,Junk,Veg,Veg,1.6,20,131.0,987.0,4.4,0,0
+ORD10347,U1459,R517,Beef Burger,Garlic Bread,0,4,Healthy,Vegan,Non-Veg,5.6,15,127.0,1047.0,4.8,0,0
+ORD10348,U1253,R514,Pasta Alfredo,Healthy Quinoa Salad,1,3,Healthy,Veg,Vegan,14.4,12,140.0,908.0,4.8,1,0
+ORD10349,U1256,R540,Oatmeal Bowl,Green Tea,1,1,Junk,Non-Veg,Vegan,1.7,15,239.0,1307.0,4.6,0,0
+ORD10350,U1074,R519,Beef Burger,Mint Raita,1,3,Balanced,Vegan,Non-Veg,9.8,12,159.0,973.0,4.0,0,0
+ORD10351,U1058,R544,Chicken Biryani,Chocolate Brownie,0,2,Balanced,Veg,Non-Veg,14.6,8,159.0,1375.0,3.6,0,0
+ORD10352,U1071,R516,Chicken Biryani,Filter Coffee,1,3,Junk,Non-Veg,Non-Veg,14.7,22,49.0,936.0,4.0,0,0
+ORD10353,U1451,R536,Pasta Alfredo,Miso Soup,1,4,Balanced,Veg,Veg,7.3,7,249.0,381.0,4.0,0,0
+ORD10354,U1265,R543,Pasta Alfredo,Extra Chutney,0,4,Balanced,Non-Veg,Veg,2.9,22,198.0,1383.0,4.2,0,0
+ORD10355,U1117,R535,Oatmeal Bowl,Miso Soup,0,4,Junk,Vegan,Non-Veg,3.4,1,222.0,1070.0,3.4,0,0
+ORD10356,U1439,R530,Margherita Pizza,Extra Chutney,0,0,Junk,Veg,Veg,13.4,10,115.0,1094.0,4.3,1,0
+ORD10357,U1355,R531,Pasta Alfredo,Green Tea,1,0,Junk,Vegan,Vegan,13.7,8,135.0,1480.0,3.9,1,0
+ORD10358,U1335,R518,Chicken Biryani,Extra Chutney,0,7,Balanced,Veg,Non-Veg,9.3,2,140.0,252.0,4.2,1,0
+ORD10359,U1334,R515,Masala Dosa,Garlic Bread,0,3,Junk,Non-Veg,Vegan,11.6,13,65.0,729.0,3.5,1,0
+ORD10360,U1273,R547,Beef Burger,Chocolate Brownie,1,4,Balanced,Veg,Veg,11.2,13,179.0,473.0,3.9,0,0
+ORD10361,U1071,R503,Chicken Biryani,Chocolate Brownie,0,4,Healthy,Veg,Non-Veg,10.1,15,228.0,1001.0,3.4,0,0
+ORD10362,U1251,R548,Chicken Biryani,Garlic Bread,0,3,Healthy,Vegan,Veg,12.5,22,58.0,1239.0,4.8,0,0
+ORD10363,U1423,R526,Margherita Pizza,French Fries,0,5,Junk,Vegan,Vegan,10.4,15,40.0,1455.0,4.0,1,0
+ORD10364,U1345,R548,Oatmeal Bowl,Green Tea,0,1,Balanced,Vegan,Veg,8.2,14,190.0,764.0,,0,0
+ORD10365,U1245,R548,Oatmeal Bowl,French Fries,0,4,Balanced,Non-Veg,Vegan,3.9,21,83.0,1211.0,3.1,1,0
+ORD10366,U1192,R502,Sushi Platter,French Fries,1,1,Balanced,Vegan,Veg,11.3,23,163.0,1388.0,4.4,0,0
+ORD10367,U1126,R528,Margherita Pizza,Miso Soup,0,4,Junk,Veg,Vegan,7.4,15,180.0,1072.0,3.4,1,1
+ORD10368,U1125,R533,Masala Dosa,Healthy Quinoa Salad,0,4,,Non-Veg,Veg,4.8,23,94.0,478.0,5.0,0,0
+ORD10369,U1204,R549,Oatmeal Bowl,Miso Soup,1,1,,Vegan,Non-Veg,12.1,12,207.0,971.0,4.1,1,0
+ORD10370,U1283,R522,Beef Burger,Healthy Quinoa Salad,1,2,Balanced,Veg,Non-Veg,10.6,0,146.0,1459.0,3.6,0,0
+ORD10371,U1306,R550,Pasta Alfredo,Filter Coffee,1,3,Healthy,Veg,Veg,14.1,19,220.0,1483.0,4.3,0,1
+ORD10372,U1163,R542,Margherita Pizza,Extra Chutney,1,2,Balanced,Non-Veg,Vegan,2.9,2,196.0,1017.0,3.6,0,0
+ORD10373,U1004,R547,Pasta Alfredo,Healthy Quinoa Salad,0,4,Healthy,Veg,Veg,9.9,1,220.0,1347.0,4.6,1,1
+ORD10374,U1184,R533,Chicken Biryani,Garlic Bread,1,2,Balanced,Vegan,Non-Veg,4.0,23,25.0,420.0,3.6,0,1
+ORD10375,U1355,R532,Beef Burger,Miso Soup,1,8,Balanced,Veg,Vegan,13.6,7,76.0,482.0,5.0,1,0
+ORD10376,U1498,R510,Beef Burger,Green Tea,0,4,Balanced,Vegan,Veg,246.77960727200352,1,41.0,1436.0,4.2,1,0
+ORD10377,U1436,R518,Chicken Biryani,Extra Chutney,1,4,Healthy,Vegan,Veg,10.0,19,122.0,333.0,4.7,1,1
+ORD10378,U1114,R512,Margherita Pizza,Filter Coffee,0,1,Balanced,Non-Veg,Vegan,12.0,15,225.0,408.0,3.1,0,0
+ORD10379,U1370,R542,Chicken Biryani,Healthy Quinoa Salad,1,3,Junk,Veg,Veg,5.6,12,128.0,718.0,3.7,0,0
+ORD10380,U1407,R531,Pasta Alfredo,Filter Coffee,0,3,Balanced,Non-Veg,Non-Veg,14.3,0,215.0,946.0,4.5,0,0
+ORD10381,U1088,R522,Sushi Platter,Green Tea,1,3,Healthy,Non-Veg,Non-Veg,12.8,7,95.0,965.0,4.3,1,0
+ORD10382,U1207,R542,Beef Burger,French Fries,1,7,Healthy,Non-Veg,Vegan,4.8,8,98.0,544.0,3.4,1,0
+ORD10383,U1389,R522,Paneer Butter Masala,Chocolate Brownie,1,3,Junk,Vegan,Veg,0.6,21,226.0,1393.0,3.7,1,0
+ORD10384,U1182,R510,Paneer Butter Masala,Green Tea,0,2,Junk,Vegan,Veg,4.8,14,118.0,1385.0,3.5,0,0
+ORD10385,U1108,R516,Pasta Alfredo,Butter Naan,1,1,Junk,Vegan,Non-Veg,4.6,7,202.0,679.0,4.2,0,1
+ORD10386,U1315,R519,Masala Dosa,Green Tea,1,3,Healthy,Vegan,Vegan,13.4,12,74.0,736.0,3.7,1,0
+ORD10387,U1500,R515,Oatmeal Bowl,Filter Coffee,1,3,Balanced,Veg,Vegan,14.5,1,238.0,1098.0,3.6,0,1
+ORD10388,U1043,R502,Chicken Biryani,Garlic Bread,1,0,Balanced,Veg,Vegan,1.5,13,152.0,1045.0,3.4,1,0
+ORD10389,U1095,R501,Chicken Biryani,Miso Soup,1,3,Junk,Vegan,Non-Veg,7.3,1,195.0,666.0,3.8,0,0
+ORD10390,U1351,R543,Masala Dosa,Garlic Bread,1,5,Junk,Vegan,Non-Veg,8.5,1,41.0,709.0,3.4,0,0
+ORD10391,U1377,R543,Masala Dosa,Filter Coffee,0,4,Balanced,Veg,Vegan,1.8,20,133.0,620.0,4.9,1,0
+ORD10392,U1107,R546,Pasta Alfredo,Miso Soup,1,4,Junk,Non-Veg,Vegan,6.0,1,227.0,468.0,3.3,0,1
+ORD10393,U1095,R549,Pasta Alfredo,Butter Naan,0,5,Balanced,Non-Veg,Veg,5.1,19,222.0,768.0,4.8,0,0
+ORD10394,U1099,R518,Masala Dosa,Chocolate Brownie,1,2,Balanced,Vegan,Veg,8.3,23,31.0,1077.0,3.9,1,1
+ORD10395,U1122,R529,Beef Burger,Extra Chutney,1,3,Balanced,Non-Veg,Vegan,10.1,14,90.0,1152.0,,0,0
+ORD10396,U1350,R541,Pasta Alfredo,Filter Coffee,1,3,,Vegan,Non-Veg,10.7,12,122.0,1201.0,3.5,1,0
+ORD10397,U1430,R530,Sushi Platter,Healthy Quinoa Salad,0,4,Healthy,Vegan,Non-Veg,2.5,2,60.0,656.0,4.3,1,0
+ORD10398,U1161,R512,Pasta Alfredo,Filter Coffee,1,1,,Vegan,Veg,12.3,14,188.0,1182.0,4.4,0,0
+ORD10399,U1426,R544,Chicken Biryani,Filter Coffee,1,2,Junk,Veg,Vegan,10.3,15,62.0,159.0,3.9,0,0
+ORD10400,U1114,R521,Pasta Alfredo,Miso Soup,1,3,Junk,Non-Veg,Non-Veg,13.4,21,100.0,794.0,3.1,0,0
+ORD10401,U1263,R543,Beef Burger,Mint Raita,1,2,Junk,Veg,Non-Veg,7.0,14,173.0,1222.0,4.8,0,0
+ORD10402,U1314,R550,Masala Dosa,Green Tea,0,3,Junk,Non-Veg,Non-Veg,13.5,22,131.0,1001.0,5.0,0,0
+ORD10403,U1135,R545,Chicken Biryani,Mint Raita,1,5,Healthy,Veg,Non-Veg,13.1,21,190.0,790.0,3.9,1,0
+ORD10404,U1216,R520,Pasta Alfredo,Butter Naan,1,1,Balanced,Veg,Veg,6.9,12,241.0,1020.0,4.2,0,0
+ORD10405,U1459,R506,Beef Burger,Healthy Quinoa Salad,0,1,Balanced,Vegan,Non-Veg,6.0,10,47.0,1374.0,3.9,0,1
+ORD10406,U1181,R540,Sushi Platter,Chocolate Brownie,0,1,Junk,Vegan,Non-Veg,14.0,14,183.0,915.0,3.6,0,0
+ORD10407,U1405,R537,Pasta Alfredo,French Fries,1,1,Junk,Veg,Vegan,10.9,7,73.0,1230.0,3.2,0,0
+ORD10408,U1166,R536,Beef Burger,Butter Naan,1,1,Junk,Non-Veg,Vegan,14.0,10,115.0,1474.0,3.9,0,0
+ORD10409,U1215,R548,Sushi Platter,French Fries,1,1,Balanced,Non-Veg,Veg,12.1,15,28.0,1103.0,4.6,1,0
+ORD10410,U1291,R538,Masala Dosa,French Fries,1,3,Healthy,Vegan,Veg,9.3,12,51.0,924.0,3.0,0,0
+ORD10411,U1355,R539,Pasta Alfredo,Chocolate Brownie,0,2,Healthy,Vegan,Veg,2.2,9,94.0,201.0,4.2,0,1
+ORD10412,U1275,R516,Sushi Platter,Garlic Bread,0,5,Healthy,Non-Veg,Veg,4.7,9,99.0,656.0,4.8,0,1
+ORD10413,U1066,R507,Chicken Biryani,Mint Raita,0,5,Healthy,Non-Veg,Non-Veg,14.5,2,227.0,913.0,3.4,0,0
+ORD10414,U1367,R516,Masala Dosa,Filter Coffee,0,2,Junk,Non-Veg,Vegan,5.1,8,191.0,1226.0,3.4,0,0
+ORD10415,U1129,R521,Chicken Biryani,Extra Chutney,0,2,Balanced,Vegan,Non-Veg,1.9,14,244.0,741.0,4.5,1,0
+ORD10416,U1364,R526,Paneer Butter Masala,French Fries,0,4,Junk,Non-Veg,Non-Veg,10.8,1,158.0,1446.0,3.5,0,1
+ORD10417,U1184,R500,Margherita Pizza,Healthy Quinoa Salad,1,0,Healthy,Vegan,Non-Veg,11.1,19,76.0,517.0,3.4,0,0
+ORD10418,U1418,R532,Pasta Alfredo,Butter Naan,1,2,Junk,Veg,Vegan,4.6,8,95.0,1155.0,3.8,0,0
+ORD10419,U1389,R541,Sushi Platter,Garlic Bread,1,3,Healthy,Veg,Veg,4.8,8,94.0,716.0,3.8,0,1
+ORD10420,U1093,R508,Margherita Pizza,French Fries,1,3,Balanced,Veg,Veg,7.3,10,95.0,806.0,4.7,0,0
+ORD10421,U1064,R547,Margherita Pizza,Garlic Bread,1,3,Healthy,Non-Veg,Vegan,0.8,23,175.0,1233.0,4.2,0,0
+ORD10422,U1205,R546,Sushi Platter,Garlic Bread,0,1,Junk,Vegan,Vegan,11.9,7,142.0,550.0,3.8,0,1
+ORD10423,U1279,R514,Masala Dosa,French Fries,0,3,Balanced,Non-Veg,Veg,5.1,21,109.0,281.0,4.1,0,1
+ORD10424,U1186,R500,Pasta Alfredo,Miso Soup,0,1,Healthy,Vegan,Non-Veg,12.9,15,54.0,852.0,,0,0
+ORD10425,U1414,R513,Paneer Butter Masala,Green Tea,0,2,Healthy,Non-Veg,Veg,12.1,9,25.0,864.0,3.2,0,0
+ORD10426,U1042,R545,Chicken Biryani,Healthy Quinoa Salad,1,2,Balanced,Veg,Vegan,10.1,13,70.0,1226.0,3.4,0,0
+ORD10427,U1080,R508,Beef Burger,Filter Coffee,0,1,Junk,Vegan,Veg,5.2,7,45.0,1457.0,4.9,1,1
+ORD10428,U1013,R530,Chicken Biryani,Filter Coffee,0,6,Balanced,Non-Veg,Veg,93.72649616657074,15,201.0,225.0,4.9,0,1
+ORD10429,U1075,R523,Beef Burger,Healthy Quinoa Salad,0,2,Junk,Vegan,Veg,7.0,21,46.0,949.0,3.4,1,0
+ORD10430,U1475,R535,Chicken Biryani,Miso Soup,1,7,Healthy,Vegan,Vegan,5.4,9,187.0,1070.0,3.3,0,0
+ORD10431,U1225,R504,Sushi Platter,Filter Coffee,1,8,Healthy,Non-Veg,Vegan,12.8,20,109.0,1481.0,,0,0
+ORD10432,U1157,R543,Paneer Butter Masala,Garlic Bread,1,2,Balanced,Non-Veg,Veg,7.5,19,37.0,1422.0,3.1,0,0
+ORD10433,U1143,R509,Pasta Alfredo,Chocolate Brownie,0,2,Healthy,Vegan,Veg,12.6,13,207.0,1112.0,4.3,1,0
+ORD10434,U1381,R515,Beef Burger,Butter Naan,1,6,Balanced,Vegan,Non-Veg,2.0,14,153.0,854.0,3.2,0,0
+ORD10435,U1100,R538,Pasta Alfredo,Mint Raita,1,3,Healthy,Veg,Non-Veg,2.5,19,74.0,368.0,3.1,0,0
+ORD10436,U1255,R541,Pasta Alfredo,Filter Coffee,1,1,Healthy,Vegan,Veg,14.7,23,226.0,669.0,4.0,0,0
+ORD10437,U1392,R510,Pasta Alfredo,Healthy Quinoa Salad,1,3,Junk,Veg,Vegan,9.0,0,30.0,940.0,4.9,0,1
+ORD10438,U1258,R536,Oatmeal Bowl,Chocolate Brownie,0,0,Balanced,Veg,Non-Veg,7.9,12,66.0,1129.0,3.9,0,0
+ORD10439,U1319,R549,Masala Dosa,French Fries,1,6,Balanced,Veg,Veg,8.1,0,193.0,1008.0,3.7,0,0
+ORD10440,U1057,R504,Chicken Biryani,Green Tea,1,2,Healthy,Vegan,Non-Veg,3.6,23,183.0,1114.0,,0,0
+ORD10441,U1146,R524,Pasta Alfredo,Healthy Quinoa Salad,0,1,Junk,Veg,Non-Veg,10.9,7,87.0,729.0,4.1,0,0
+ORD10442,U1268,R544,Chicken Biryani,Garlic Bread,1,3,Junk,Vegan,Non-Veg,1.7,2,34.0,1132.0,3.8,0,0
+ORD10443,U1186,R505,Pasta Alfredo,Green Tea,1,3,Balanced,Vegan,Vegan,8.8,7,217.0,344.0,3.8,0,0
+ORD10444,U1419,R550,Beef Burger,Butter Naan,0,5,Balanced,Non-Veg,Veg,8.8,21,92.0,369.0,3.4,0,0
+ORD10445,U1331,R545,Masala Dosa,Butter Naan,1,1,Healthy,Vegan,Vegan,13.8,10,65.0,370.0,4.0,0,0
+ORD10446,U1009,R538,Masala Dosa,Miso Soup,1,2,,Vegan,Vegan,8.1,20,139.0,1353.0,3.9,0,0
+ORD10447,U1191,R536,Sushi Platter,Extra Chutney,1,3,Healthy,Veg,Non-Veg,2.5,21,229.0,253.0,3.5,0,0
+ORD10448,U1317,R523,Oatmeal Bowl,Miso Soup,0,6,Junk,Vegan,Veg,8.8,13,30.0,1232.0,,0,0
+ORD10449,U1265,R518,Sushi Platter,Chocolate Brownie,1,2,Balanced,Vegan,Non-Veg,1.8,13,196.0,465.0,3.6,0,0
+ORD10450,U1110,R512,Sushi Platter,Green Tea,0,3,Junk,Non-Veg,Vegan,3.5,14,152.0,782.0,4.0,0,0
+ORD10451,U1284,R531,Sushi Platter,Extra Chutney,1,4,Junk,Non-Veg,Vegan,1.0,0,118.0,1387.0,3.1,0,0
+ORD10452,U1294,R505,Sushi Platter,French Fries,0,5,Healthy,Veg,Veg,7.9,22,191.0,941.0,3.3,0,0
+ORD10453,U1318,R546,Sushi Platter,Garlic Bread,1,1,Junk,Veg,Vegan,1.7,14,242.0,434.0,4.9,0,0
+ORD10454,U1452,R503,Paneer Butter Masala,Green Tea,1,4,,Non-Veg,Vegan,7.3,0,73.0,534.0,,0,0
+ORD10455,U1026,R510,Masala Dosa,Miso Soup,1,4,Healthy,Non-Veg,Veg,,13,53.0,1393.0,3.1,0,1
+ORD10456,U1183,R542,Sushi Platter,Mint Raita,1,1,Junk,Vegan,Non-Veg,10.9,7,230.0,727.0,4.4,1,0
+ORD10457,U1484,R538,Pasta Alfredo,Extra Chutney,1,6,Junk,Veg,Veg,1.6,19,174.0,942.0,3.1,0,0
+ORD10458,U1421,R502,Masala Dosa,Extra Chutney,1,5,Healthy,Veg,Vegan,3.8,20,121.0,771.0,4.5,0,0
+ORD10459,U1443,R504,Masala Dosa,Garlic Bread,0,5,Healthy,Vegan,Veg,10.3,21,152.0,661.0,4.5,0,0
+ORD10460,U1481,R507,Margherita Pizza,Filter Coffee,1,6,Junk,Vegan,Non-Veg,13.5,2,191.0,451.0,4.3,0,0
+ORD10461,U1020,R520,Paneer Butter Masala,Butter Naan,0,3,Healthy,Veg,Vegan,1.0,20,198.0,1076.0,4.5,1,0
+ORD10462,U1444,R506,Sushi Platter,Butter Naan,1,1,Healthy,Non-Veg,Non-Veg,12.3,13,232.0,1120.0,3.2,1,1
+ORD10463,U1498,R538,Chicken Biryani,Mint Raita,0,1,Balanced,Non-Veg,Non-Veg,8.6,8,118.0,521.0,4.5,1,0
+ORD10464,U1324,R526,Beef Burger,Chocolate Brownie,1,6,Balanced,Vegan,Veg,8.4,19,87.0,1215.0,3.3,1,0
+ORD10465,U1376,R535,Oatmeal Bowl,Chocolate Brownie,1,2,Balanced,Veg,Non-Veg,14.4,9,167.0,1304.0,,0,0
+ORD10466,U1307,R535,Pasta Alfredo,French Fries,1,4,Balanced,Vegan,Veg,11.3,0,116.0,1393.0,4.9,0,0
+ORD10467,U1388,R540,Chicken Biryani,Green Tea,0,3,Balanced,Non-Veg,Veg,12.8,23,157.0,368.0,4.0,1,0
+ORD10468,U1018,R503,Paneer Butter Masala,Healthy Quinoa Salad,1,7,Healthy,Non-Veg,Non-Veg,5.6,0,117.0,560.0,4.9,0,0
+ORD10469,U1191,R511,Beef Burger,Filter Coffee,1,2,Healthy,Vegan,Veg,8.5,20,55.0,1311.0,,1,1
+ORD10470,U1033,R507,Paneer Butter Masala,Miso Soup,1,4,Balanced,Non-Veg,Veg,9.4,21,128.0,418.0,4.0,0,1
+ORD10471,U1021,R511,Pasta Alfredo,Healthy Quinoa Salad,0,0,Junk,Veg,Non-Veg,5.2,23,179.0,155.0,3.1,0,0
+ORD10472,U1007,R522,Masala Dosa,Healthy Quinoa Salad,1,1,Balanced,Vegan,Vegan,8.8,10,204.0,1326.0,,1,0
+ORD10473,U1219,R507,Beef Burger,Extra Chutney,1,2,Junk,Vegan,Veg,3.9,14,133.0,591.0,3.2,0,0
+ORD10474,U1245,R515,Masala Dosa,Mint Raita,1,7,Healthy,Vegan,Veg,2.6,22,58.0,710.0,,1,0
+ORD10475,U1233,R501,Pasta Alfredo,Butter Naan,1,5,Junk,Non-Veg,Non-Veg,5.9,12,115.0,753.0,3.5,0,0
+ORD10476,U1178,R538,Chicken Biryani,French Fries,1,3,Healthy,Veg,Veg,11.2,23,201.0,1295.0,4.5,0,0
+ORD10477,U1248,R523,Pasta Alfredo,Chocolate Brownie,0,7,Junk,Vegan,Non-Veg,13.8,15,115.0,606.0,3.3,1,1
+ORD10478,U1416,R502,Chicken Biryani,Mint Raita,0,2,Healthy,Vegan,Vegan,7.1,12,180.0,1355.0,4.7,0,0
+ORD10479,U1264,R543,Beef Burger,Extra Chutney,0,3,Healthy,Non-Veg,Vegan,9.8,21,137.0,983.0,3.3,0,0
+ORD10480,U1037,R504,Beef Burger,Miso Soup,0,1,Balanced,Veg,Non-Veg,2.0,20,75.0,862.0,3.1,0,0
+ORD10481,U1383,R547,Sushi Platter,French Fries,1,3,Healthy,Vegan,Vegan,13.6,10,203.0,590.0,3.8,1,0
+ORD10482,U1230,R534,Paneer Butter Masala,Extra Chutney,1,3,Balanced,Non-Veg,Non-Veg,8.7,20,39.0,479.0,5.0,1,0
+ORD10483,U1419,R506,Sushi Platter,Butter Naan,0,4,Balanced,Vegan,Veg,11.8,15,141.0,992.0,3.2,0,0
+ORD10484,U1428,R537,Paneer Butter Masala,Butter Naan,1,3,Balanced,Non-Veg,Vegan,12.0,13,68.0,753.0,3.2,0,0
+ORD10485,U1098,R518,Sushi Platter,Butter Naan,0,4,Junk,Veg,Veg,4.2,0,35.0,1379.0,4.5,1,1
+ORD10486,U1215,R500,Masala Dosa,Mint Raita,1,2,Junk,Non-Veg,Veg,8.2,1,136.0,814.0,3.6,1,1
+ORD10487,U1411,R507,Beef Burger,Mint Raita,1,4,Healthy,Vegan,Non-Veg,14.4,20,135.0,841.0,4.4,0,0
+ORD10488,U1036,R546,Chicken Biryani,Chocolate Brownie,0,6,Balanced,Vegan,Vegan,1.8,2,183.0,713.0,3.4,0,0
+ORD10489,U1241,R532,Paneer Butter Masala,Chocolate Brownie,0,3,Balanced,Non-Veg,Vegan,10.4,20,191.0,1216.0,3.9,1,0
+ORD10490,U1350,R524,Pasta Alfredo,Miso Soup,1,4,Healthy,Veg,Veg,14.5,19,187.0,724.0,3.5,0,1
+ORD10491,U1372,R528,Paneer Butter Masala,French Fries,0,1,Balanced,Veg,Veg,4.9,20,114.0,514.0,3.9,1,0
+ORD10492,U1104,R531,Chicken Biryani,Garlic Bread,1,6,,Vegan,Non-Veg,13.0,8,165.0,1314.0,4.5,0,0
+ORD10493,U1415,R508,Sushi Platter,Garlic Bread,1,4,Balanced,Vegan,Vegan,14.0,7,153.0,956.0,4.5,0,0
+ORD10494,U1464,R514,Paneer Butter Masala,Extra Chutney,1,2,Junk,Non-Veg,Non-Veg,11.3,7,117.0,949.0,4.0,0,0
+ORD10495,U1038,R531,Oatmeal Bowl,Butter Naan,0,0,Healthy,Non-Veg,Non-Veg,3.9,22,157.0,975.0,4.9,1,0
+ORD10496,U1255,R523,Masala Dosa,French Fries,1,2,Healthy,Non-Veg,Non-Veg,5.3,12,238.0,1120.0,3.5,0,0
+ORD10497,U1418,R547,Beef Burger,Healthy Quinoa Salad,1,4,Junk,Veg,Vegan,1.0,12,64.0,573.0,3.5,0,0
+ORD10498,U1311,R516,Chicken Biryani,Mint Raita,1,3,Healthy,Veg,Non-Veg,12.6,15,228.0,196.0,4.2,0,0
+ORD10499,U1239,R549,Beef Burger,Green Tea,0,4,Junk,Vegan,Vegan,12.8,10,32.0,1244.0,4.2,1,0
+ORD10500,U1416,R537,Oatmeal Bowl,Filter Coffee,1,4,Balanced,Vegan,Non-Veg,9.7,0,91.0,324.0,3.1,0,0
+ORD10501,U1287,R501,Paneer Butter Masala,Miso Soup,1,6,Junk,Vegan,Veg,5.6,14,86.0,1124.0,4.2,0,0
+ORD10502,U1390,R535,Paneer Butter Masala,Butter Naan,1,3,Junk,Non-Veg,Non-Veg,1.6,22,164.0,261.0,3.7,0,0
+ORD10503,U1201,R529,Pasta Alfredo,Butter Naan,0,2,,Veg,Non-Veg,11.4,7,50.0,657.0,4.5,0,0
+ORD10504,U1498,R535,Oatmeal Bowl,Butter Naan,1,5,Balanced,Vegan,Vegan,11.0,0,223.0,235.0,4.6,0,0
+ORD10505,U1279,R548,Chicken Biryani,Mint Raita,0,5,Junk,Vegan,Veg,,23,211.0,855.0,4.1,0,0
+ORD10506,U1303,R527,Pasta Alfredo,Mint Raita,1,4,Balanced,Vegan,Veg,11.1,15,170.0,1032.0,3.0,0,0
+ORD10507,U1289,R510,Masala Dosa,Filter Coffee,1,2,Junk,Vegan,Vegan,12.5,21,125.0,381.0,,1,0
+ORD10508,U1026,R531,Pasta Alfredo,Healthy Quinoa Salad,1,1,Healthy,Vegan,Vegan,11.3,8,235.0,652.0,4.5,1,1
+ORD10509,U1073,R508,Margherita Pizza,French Fries,1,5,Junk,Vegan,Veg,9.6,2,211.0,1406.0,3.5,1,0
+ORD10510,U1424,R550,Chicken Biryani,Butter Naan,1,6,Junk,Veg,Vegan,6.7,2,135.0,747.0,3.9,0,0
+ORD10511,U1311,R533,Margherita Pizza,Garlic Bread,1,1,Balanced,Vegan,Veg,13.6,7,181.0,1233.0,4.9,1,1
+ORD10512,U1333,R545,Oatmeal Bowl,Chocolate Brownie,0,6,Junk,Veg,Non-Veg,9.9,1,150.0,1402.0,3.6,0,0
+ORD10513,U1313,R525,Sushi Platter,Garlic Bread,1,3,Healthy,Non-Veg,Non-Veg,214.42752510594005,10,155.0,1465.0,3.4,0,0
+ORD10514,U1485,R500,Margherita Pizza,Extra Chutney,1,4,Healthy,Veg,Veg,1.7,19,96.0,1363.0,3.4,0,0
+ORD10515,U1100,R531,Masala Dosa,Garlic Bread,1,3,Junk,Non-Veg,Veg,4.7,20,126.0,7325.626431223724,4.1,0,1
+ORD10516,U1099,R534,Pasta Alfredo,Extra Chutney,0,3,Junk,Veg,Non-Veg,8.4,7,38.0,1449.0,4.9,0,0
+ORD10517,U1259,R550,Sushi Platter,Green Tea,1,4,Balanced,Veg,Non-Veg,4.5,8,102.0,1247.0,4.2,0,0
+ORD10518,U1443,R522,Pasta Alfredo,Chocolate Brownie,1,1,Balanced,Vegan,Veg,3.7,19,180.0,1280.0,3.6,0,0
+ORD10519,U1154,R500,Margherita Pizza,Garlic Bread,0,5,Healthy,Veg,Vegan,8.1,21,239.0,170.0,4.3,0,1
+ORD10520,U1009,R517,Pasta Alfredo,Green Tea,1,2,,Veg,Vegan,3.0,23,242.0,1438.0,4.2,0,0
+ORD10521,U1373,R538,Oatmeal Bowl,Miso Soup,0,4,Junk,Vegan,Veg,12.1,1,148.0,1200.0,4.2,0,0
+ORD10522,U1425,R547,Sushi Platter,French Fries,0,5,Healthy,Non-Veg,Vegan,7.5,9,160.0,1187.0,3.3,0,0
+ORD10523,U1138,R530,Oatmeal Bowl,Green Tea,0,3,Balanced,Vegan,Non-Veg,8.8,13,63.0,260.0,4.3,0,0
+ORD10524,U1406,R522,Margherita Pizza,French Fries,0,3,Healthy,Vegan,Non-Veg,2.6,23,180.0,464.0,3.9,0,0
+ORD10525,U1415,R521,Oatmeal Bowl,Garlic Bread,1,4,Junk,Vegan,Vegan,5.2,12,36.0,1449.0,3.0,0,1
+ORD10526,U1117,R500,Masala Dosa,Healthy Quinoa Salad,0,2,Balanced,Non-Veg,Veg,6.4,12,85.0,826.0,4.1,0,0
+ORD10527,U1359,R508,Margherita Pizza,Green Tea,1,4,Junk,Veg,Non-Veg,12.2,1,174.0,687.0,5.0,1,0
+ORD10528,U1140,R523,Margherita Pizza,Chocolate Brownie,0,0,Junk,Veg,Non-Veg,11.7,22,91.0,1284.0,3.7,0,0
+ORD10529,U1361,R535,Margherita Pizza,Garlic Bread,1,0,,Vegan,Non-Veg,92.80803148875219,7,31.0,268.0,4.9,0,0
+ORD10530,U1247,R540,Chicken Biryani,Butter Naan,1,4,Healthy,Vegan,Vegan,9.4,12,211.0,713.0,3.2,1,0
+ORD10531,U1015,R502,Pasta Alfredo,Mint Raita,0,2,Healthy,Veg,Veg,,15,91.0,657.0,4.5,0,1
+ORD10532,U1419,R540,Chicken Biryani,Green Tea,0,2,Balanced,Veg,Vegan,14.8,0,35.0,622.0,3.2,0,0
+ORD10533,U1301,R535,Chicken Biryani,Chocolate Brownie,1,1,Balanced,Veg,Veg,14.3,12,37.0,565.0,3.5,0,0
+ORD10534,U1142,R516,Masala Dosa,Miso Soup,0,2,Healthy,Non-Veg,Veg,8.7,2,78.0,434.0,4.1,0,0
+ORD10535,U1096,R544,Sushi Platter,Butter Naan,1,5,Balanced,Non-Veg,Vegan,10.6,12,61.0,383.0,4.2,0,0
+ORD10536,U1254,R509,Pasta Alfredo,Miso Soup,0,2,Balanced,Vegan,Non-Veg,12.1,9,198.0,1015.0,4.6,1,0
+ORD10537,U1421,R533,Oatmeal Bowl,Garlic Bread,1,3,Healthy,Non-Veg,Veg,11.0,10,94.0,1391.0,,0,0
+ORD10538,U1391,R546,Paneer Butter Masala,Mint Raita,0,0,Junk,Vegan,Vegan,10.6,1,205.0,837.0,4.2,0,0
+ORD10539,U1448,R507,Margherita Pizza,Green Tea,1,2,Balanced,Veg,Non-Veg,14.4,22,60.0,552.0,4.8,0,0
+ORD10540,U1172,R540,Oatmeal Bowl,Green Tea,0,3,Balanced,Veg,Veg,9.1,0,133.0,365.0,3.9,1,0
+ORD10541,U1157,R517,Margherita Pizza,Healthy Quinoa Salad,1,4,Junk,Vegan,Veg,9.7,9,178.0,1271.0,3.5,1,0
+ORD10542,U1154,R501,Masala Dosa,Healthy Quinoa Salad,0,6,Junk,Veg,Non-Veg,12.8,19,170.0,1462.0,3.3,0,0
+ORD10543,U1343,R522,Margherita Pizza,Garlic Bread,1,4,Junk,Vegan,Veg,10.2,2,158.0,621.0,3.8,0,0
+ORD10544,U1403,R532,Chicken Biryani,Garlic Bread,1,3,Healthy,Vegan,Vegan,11.1,7,233.0,543.0,4.4,0,1
+ORD10545,U1031,R524,Pasta Alfredo,Mint Raita,0,2,Junk,Vegan,Veg,3.9,20,73.0,962.0,3.1,0,0
+ORD10546,U1181,R546,Paneer Butter Masala,Healthy Quinoa Salad,1,5,Healthy,Non-Veg,Veg,5.9,22,134.0,1197.0,3.3,0,0
+ORD10547,U1383,R516,Beef Burger,Chocolate Brownie,0,3,Junk,Vegan,Non-Veg,2.6,13,223.0,765.0,3.2,0,1
+ORD10548,U1423,R539,Margherita Pizza,Chocolate Brownie,1,3,Junk,Vegan,Vegan,7.8,2,38.0,1001.0,4.2,1,0
+ORD10549,U1124,R517,Oatmeal Bowl,Mint Raita,1,2,Healthy,Vegan,Non-Veg,7.1,1,33.0,1117.0,,0,0
+ORD10550,U1101,R544,Chicken Biryani,Chocolate Brownie,1,3,Healthy,Non-Veg,Vegan,15.0,23,74.0,1447.0,3.3,0,0
+ORD10551,U1096,R544,Beef Burger,Extra Chutney,0,6,Junk,Veg,Non-Veg,9.4,1,166.0,373.0,4.2,0,0
+ORD10552,U1282,R549,Paneer Butter Masala,French Fries,1,1,Junk,Non-Veg,Veg,11.9,1,80.0,1496.0,4.5,0,0
+ORD10553,U1238,R521,Beef Burger,Mint Raita,1,2,Junk,Vegan,Vegan,5.3,9,64.0,679.0,3.7,0,0
+ORD10554,U1312,R508,Chicken Biryani,Mint Raita,1,2,Balanced,Non-Veg,Vegan,12.6,1,126.0,1126.0,4.2,1,0
+ORD10555,U1089,R523,Pasta Alfredo,Filter Coffee,1,2,Junk,Veg,Veg,9.4,15,161.0,923.0,3.2,0,0
+ORD10556,U1009,R509,Pasta Alfredo,Butter Naan,1,7,Healthy,Veg,Non-Veg,10.6,23,77.0,807.0,4.9,1,0
+ORD10557,U1282,R523,Sushi Platter,Butter Naan,1,1,Balanced,Vegan,Vegan,4.8,10,89.0,1092.0,3.7,0,0
+ORD10558,U1288,R539,Pasta Alfredo,Extra Chutney,1,3,Healthy,Veg,Veg,55.13605277180695,10,161.0,684.0,5.0,0,0
+ORD10559,U1259,R519,Sushi Platter,Healthy Quinoa Salad,0,8,Balanced,Non-Veg,Veg,9.7,10,238.0,320.0,5.0,0,1
+ORD10560,U1086,R540,Beef Burger,Garlic Bread,1,1,Balanced,Non-Veg,Vegan,9.0,21,175.0,810.0,4.6,0,0
+ORD10561,U1257,R518,Masala Dosa,Garlic Bread,1,2,Healthy,Veg,Vegan,13.8,20,200.0,855.0,3.0,0,0
+ORD10562,U1116,R528,Oatmeal Bowl,Miso Soup,1,4,Balanced,Vegan,Vegan,13.5,1,104.0,423.0,4.1,0,1
+ORD10563,U1336,R535,Oatmeal Bowl,Extra Chutney,1,1,Healthy,Vegan,Veg,14.6,10,83.0,1413.0,3.2,0,0
+ORD10564,U1142,R549,Beef Burger,Mint Raita,1,4,Junk,Non-Veg,Non-Veg,10.2,14,124.0,457.0,4.8,1,0
+ORD10565,U1361,R505,Margherita Pizza,Extra Chutney,0,4,Balanced,Veg,Non-Veg,14.6,12,206.0,702.0,4.6,0,1
+ORD10566,U1330,R531,Margherita Pizza,Extra Chutney,1,4,Healthy,Non-Veg,Vegan,12.6,12,125.0,359.0,,0,1
+ORD10567,U1132,R550,Pasta Alfredo,Extra Chutney,1,2,Balanced,Non-Veg,Veg,4.4,21,215.0,873.0,4.2,0,0
+ORD10568,U1085,R501,Oatmeal Bowl,Butter Naan,1,5,Healthy,Non-Veg,Veg,6.7,1,247.0,565.0,4.0,0,0
+ORD10569,U1358,R525,Oatmeal Bowl,Extra Chutney,0,3,Junk,Vegan,Vegan,4.0,8,37.0,811.0,4.0,0,0
+ORD10570,U1049,R543,Sushi Platter,French Fries,0,3,Junk,Veg,Veg,0.6,21,30.0,453.0,3.8,0,1
+ORD10571,U1091,R532,Masala Dosa,Garlic Bread,0,3,Balanced,Veg,Veg,3.2,9,54.0,223.0,3.9,0,1
+ORD10572,U1025,R512,Chicken Biryani,Miso Soup,1,2,Balanced,Vegan,Veg,0.6,13,108.0,1202.0,4.3,0,0
+ORD10573,U1384,R508,Margherita Pizza,French Fries,0,3,Healthy,Non-Veg,Vegan,10.9,9,50.0,1015.0,4.9,1,0
+ORD10574,U1273,R519,Oatmeal Bowl,Miso Soup,1,0,Healthy,Non-Veg,Vegan,6.7,14,220.0,610.0,4.2,1,1
+ORD10575,U1226,R546,Sushi Platter,Filter Coffee,1,1,Balanced,Vegan,Vegan,5.0,9,25.0,214.0,4.7,0,0
+ORD10576,U1287,R549,Paneer Butter Masala,Miso Soup,0,1,Healthy,Veg,Non-Veg,11.5,14,93.0,1319.0,4.7,0,0
+ORD10577,U1105,R515,Sushi Platter,Garlic Bread,1,3,,Vegan,Non-Veg,12.6,14,62.0,379.0,4.0,1,0
+ORD10578,U1467,R516,Margherita Pizza,Garlic Bread,1,5,Healthy,Veg,Vegan,14.6,22,234.0,1407.0,3.7,0,0
+ORD10579,U1029,R514,Margherita Pizza,Extra Chutney,1,1,Balanced,Veg,Veg,9.8,9,174.0,796.0,4.3,0,1
+ORD10580,U1127,R540,Sushi Platter,Green Tea,1,7,Junk,Veg,Veg,7.2,13,230.0,610.0,3.9,1,1
+ORD10581,U1239,R527,Chicken Biryani,Filter Coffee,1,3,Junk,Non-Veg,Vegan,4.9,14,244.0,1151.0,3.2,0,0
+ORD10582,U1487,R520,Beef Burger,Mint Raita,1,2,Healthy,Non-Veg,Veg,3.7,10,134.0,1334.0,,1,0
+ORD10583,U1084,R549,Margherita Pizza,Chocolate Brownie,1,6,Balanced,Vegan,Veg,,0,74.0,650.0,5.0,0,0
+ORD10584,U1267,R532,Sushi Platter,Miso Soup,1,5,Healthy,Vegan,Non-Veg,6.4,0,65.0,700.0,,0,0
+ORD10585,U1202,R507,Oatmeal Bowl,Green Tea,0,4,Junk,Non-Veg,Veg,14.9,21,71.0,735.0,4.4,0,0
+ORD10586,U1336,R546,Sushi Platter,Extra Chutney,1,3,Healthy,Vegan,Veg,0.5,7,183.0,1395.0,4.7,1,0
+ORD10587,U1303,R543,Masala Dosa,Butter Naan,1,1,Junk,Non-Veg,Vegan,3.4,22,29.0,1085.0,4.3,0,0
+ORD10588,U1135,R540,Beef Burger,Mint Raita,1,4,Balanced,Non-Veg,Non-Veg,3.2,19,32.0,484.0,4.1,0,0
+ORD10589,U1210,R519,Paneer Butter Masala,Healthy Quinoa Salad,0,1,,Veg,Non-Veg,10.9,1,160.0,400.0,4.4,1,0
+ORD10590,U1111,R503,Chicken Biryani,Green Tea,1,1,Balanced,Veg,Veg,5.6,2,168.0,461.0,3.9,1,1
+ORD10591,U1130,R541,Pasta Alfredo,Butter Naan,0,5,Healthy,Non-Veg,Vegan,7.1,19,173.0,506.0,3.2,1,0
+ORD10592,U1117,R539,Paneer Butter Masala,Filter Coffee,1,2,Healthy,Veg,Non-Veg,2.7,10,106.0,461.0,4.9,0,0
+ORD10593,U1158,R537,Beef Burger,Extra Chutney,1,4,Healthy,Non-Veg,Non-Veg,6.4,21,205.0,1039.0,3.9,1,0
+ORD10594,U1172,R523,Beef Burger,Mint Raita,0,6,Healthy,Veg,Veg,2.0,10,143.0,307.0,4.3,0,0
+ORD10595,U1073,R503,Beef Burger,Mint Raita,1,3,Healthy,Vegan,Non-Veg,8.2,21,44.0,673.0,4.1,0,0
+ORD10596,U1198,R547,Paneer Butter Masala,Mint Raita,1,1,Balanced,Vegan,Vegan,1.9,19,203.0,994.0,3.1,1,0
+ORD10597,U1151,R506,Oatmeal Bowl,Filter Coffee,1,3,Balanced,Non-Veg,Vegan,12.0,2,239.0,543.0,4.9,0,1
+ORD10598,U1158,R524,Beef Burger,Miso Soup,0,2,Junk,Non-Veg,Non-Veg,8.7,20,34.0,238.0,4.6,0,0
+ORD10599,U1380,R525,Sushi Platter,Healthy Quinoa Salad,0,4,Healthy,Veg,Vegan,11.0,1,110.0,260.0,3.3,0,0
+ORD10600,U1015,R541,Paneer Butter Masala,Filter Coffee,0,2,Junk,Veg,Vegan,6.6,22,132.0,320.0,5.0,1,0
+ORD10601,U1446,R532,Pasta Alfredo,Chocolate Brownie,0,5,Balanced,Non-Veg,Veg,6.0,20,54.0,1278.0,4.5,0,0
+ORD10602,U1029,R529,Beef Burger,Healthy Quinoa Salad,1,3,Junk,Vegan,Non-Veg,1.9,20,220.0,1038.0,3.9,0,0
+ORD10603,U1142,R545,Sushi Platter,Garlic Bread,0,4,Balanced,Vegan,Non-Veg,8.1,0,85.0,237.0,4.2,0,1
+ORD10604,U1081,R543,Oatmeal Bowl,Extra Chutney,1,3,Healthy,Non-Veg,Veg,8.0,13,200.0,678.0,3.2,0,0
+ORD10605,U1052,R536,Masala Dosa,Filter Coffee,0,3,Junk,Vegan,Veg,7.3,14,174.0,526.0,4.1,1,0
+ORD10606,U1370,R504,Oatmeal Bowl,Butter Naan,1,0,Junk,Non-Veg,Veg,11.2,2,158.0,930.0,3.1,0,0
+ORD10607,U1383,R512,Pasta Alfredo,Healthy Quinoa Salad,1,3,Junk,Veg,Veg,12.6,13,64.0,856.0,4.1,0,1
+ORD10608,U1451,R536,Beef Burger,Chocolate Brownie,1,0,Junk,Vegan,Vegan,11.4,22,71.0,800.0,4.1,1,0
+ORD10609,U1033,R505,Pasta Alfredo,Garlic Bread,0,3,Healthy,Vegan,Vegan,2.6,22,31.0,575.0,4.7,0,0
+ORD10610,U1312,R531,Paneer Butter Masala,Miso Soup,1,5,Balanced,Veg,Veg,9.5,7,75.0,336.0,4.5,0,0
+ORD10611,U1002,R538,Margherita Pizza,Butter Naan,1,2,Balanced,Veg,Non-Veg,1.7,22,99.0,1152.0,,0,0
+ORD10612,U1405,R532,Beef Burger,Healthy Quinoa Salad,0,0,,Vegan,Non-Veg,10.6,14,212.0,1338.0,4.8,1,0
+ORD10613,U1085,R548,Margherita Pizza,Extra Chutney,0,5,Balanced,Vegan,Non-Veg,6.0,9,104.0,1425.0,4.1,0,0
+ORD10614,U1318,R518,Sushi Platter,Butter Naan,1,3,Junk,Non-Veg,Veg,2.4,20,194.0,229.0,4.2,0,0
+ORD10615,U1189,R522,Masala Dosa,Garlic Bread,1,2,Healthy,Non-Veg,Vegan,13.0,10,121.0,1149.0,3.3,0,0
+ORD10616,U1352,R519,Chicken Biryani,Butter Naan,1,3,Balanced,Vegan,Vegan,9.4,14,201.0,1131.0,4.7,0,0
+ORD10617,U1036,R525,Pasta Alfredo,French Fries,0,2,Healthy,Non-Veg,Vegan,5.6,21,245.0,1429.0,4.9,1,0
+ORD10618,U1471,R508,Oatmeal Bowl,Green Tea,1,3,Healthy,Veg,Vegan,0.9,9,75.0,491.0,4.5,1,0
+ORD10619,U1275,R527,Masala Dosa,Miso Soup,1,4,Balanced,Non-Veg,Non-Veg,8.3,0,218.0,1152.0,4.9,0,0
+ORD10620,U1169,R511,Beef Burger,Garlic Bread,1,1,Balanced,Non-Veg,Non-Veg,13.9,9,163.0,224.0,3.6,0,0
+ORD10621,U1383,R508,Margherita Pizza,Butter Naan,1,3,Healthy,Vegan,Vegan,9.1,15,208.0,1002.0,4.7,1,0
+ORD10622,U1088,R503,Oatmeal Bowl,Green Tea,1,2,Healthy,Non-Veg,Veg,14.6,21,170.0,624.0,4.0,0,0
+ORD10623,U1173,R543,Margherita Pizza,Green Tea,1,2,,Vegan,Vegan,2.5,9,118.0,1188.0,3.3,0,0
+ORD10624,U1174,R529,Paneer Butter Masala,Butter Naan,0,0,,Vegan,Vegan,8.7,8,72.0,1315.0,4.3,1,0
+ORD10625,U1231,R524,Margherita Pizza,Extra Chutney,1,3,Balanced,Vegan,Veg,12.1,2,36.0,643.0,4.4,0,0
+ORD10626,U1043,R535,Paneer Butter Masala,French Fries,0,3,Healthy,Veg,Vegan,8.1,14,143.0,860.0,,0,0
+ORD10627,U1193,R531,Sushi Platter,Filter Coffee,1,2,Healthy,Non-Veg,Non-Veg,1.8,2,248.0,308.0,3.1,0,0
+ORD10628,U1293,R511,Oatmeal Bowl,French Fries,1,1,Healthy,Non-Veg,Veg,,15,190.0,713.0,3.4,1,0
+ORD10629,U1044,R523,Oatmeal Bowl,Butter Naan,1,3,Balanced,Non-Veg,Veg,9.4,14,95.0,637.0,3.8,0,0
+ORD10630,U1186,R537,Chicken Biryani,Miso Soup,0,4,Junk,Vegan,Vegan,11.1,20,210.0,397.0,,1,0
+ORD10631,U1412,R519,Beef Burger,Filter Coffee,1,4,,Veg,Non-Veg,11.5,10,197.0,1358.0,3.4,1,0
+ORD10632,U1438,R536,Paneer Butter Masala,Garlic Bread,1,5,Healthy,Vegan,Non-Veg,11.7,12,85.0,350.0,3.8,1,0
+ORD10633,U1365,R530,Chicken Biryani,French Fries,0,5,Junk,Non-Veg,Non-Veg,10.1,21,23.0,1008.0,4.9,1,0
+ORD10634,U1020,R523,Margherita Pizza,Butter Naan,0,2,Junk,Vegan,Vegan,3.6,2,47.0,1352.0,4.5,0,1
+ORD10635,U1013,R529,Margherita Pizza,French Fries,0,3,Healthy,Vegan,Vegan,6.4,2,222.0,1381.0,3.6,1,0
+ORD10636,U1446,R550,Chicken Biryani,Filter Coffee,0,3,Balanced,Non-Veg,Non-Veg,11.8,10,212.0,1221.0,4.9,0,0
+ORD10637,U1264,R515,Oatmeal Bowl,Chocolate Brownie,0,2,Junk,Vegan,Vegan,14.3,14,88.0,388.0,4.3,1,0
+ORD10638,U1164,R541,Margherita Pizza,Healthy Quinoa Salad,0,2,Junk,Vegan,Non-Veg,1.6,19,86.0,1254.0,3.9,0,1
+ORD10639,U1226,R542,Pasta Alfredo,French Fries,0,4,Balanced,Veg,Vegan,8.3,10,202.0,523.0,3.9,0,0
+ORD10640,U1443,R513,Sushi Platter,Garlic Bread,1,1,Balanced,Vegan,Veg,5.0,15,236.0,1395.0,3.8,0,0
+ORD10641,U1049,R530,Sushi Platter,Garlic Bread,1,6,Junk,Veg,Veg,3.8,13,-50.0,1107.0,3.5,1,0
+ORD10642,U1378,R543,Pasta Alfredo,Mint Raita,1,1,Balanced,Non-Veg,Vegan,7.8,21,159.0,1210.0,3.8,0,1
+ORD10643,U1482,R525,Chicken Biryani,French Fries,1,4,Junk,Veg,Vegan,9.3,9,76.0,265.0,4.1,0,1
+ORD10644,U1287,R512,Pasta Alfredo,Healthy Quinoa Salad,1,2,Healthy,Vegan,Non-Veg,0.6,22,141.0,937.0,,1,0
+ORD10645,U1217,R546,Paneer Butter Masala,Extra Chutney,1,4,Balanced,Non-Veg,Veg,11.8,20,74.0,1259.0,4.5,0,0
+ORD10646,U1232,R526,Paneer Butter Masala,Green Tea,1,3,Junk,Vegan,Non-Veg,12.4,10,206.0,1313.0,3.7,0,0
+ORD10647,U1234,R527,Chicken Biryani,Healthy Quinoa Salad,1,5,Balanced,Vegan,Vegan,14.5,15,109.0,189.0,4.4,0,0
+ORD10648,U1180,R534,Pasta Alfredo,Green Tea,1,5,Balanced,Veg,Non-Veg,3.1,14,212.0,1418.0,,0,0
+ORD10649,U1386,R512,Paneer Butter Masala,Green Tea,0,1,,Vegan,Non-Veg,9.1,0,108.0,209.0,4.9,0,1
+ORD10650,U1212,R544,Oatmeal Bowl,Chocolate Brownie,0,4,Healthy,Veg,Vegan,6.7,10,210.0,980.0,3.8,1,0
+ORD10651,U1134,R504,Pasta Alfredo,Mint Raita,1,2,Junk,Non-Veg,Veg,5.4,1,97.0,1086.0,4.8,0,0
+ORD10652,U1183,R532,Oatmeal Bowl,Healthy Quinoa Salad,1,3,Balanced,Non-Veg,Non-Veg,8.7,10,121.0,295.0,4.6,0,0
+ORD10653,U1145,R533,Paneer Butter Masala,Healthy Quinoa Salad,0,1,Junk,Vegan,Vegan,11.8,2,162.0,215.0,4.3,0,0
+ORD10654,U1339,R548,Sushi Platter,Chocolate Brownie,1,4,Balanced,Veg,Non-Veg,0.8,13,36.0,1210.0,4.3,1,0
+ORD10655,U1478,R527,Paneer Butter Masala,French Fries,1,3,Junk,Vegan,Vegan,14.6,20,238.0,669.0,3.2,0,0
+ORD10656,U1111,R501,Oatmeal Bowl,French Fries,1,4,Healthy,Vegan,Vegan,12.2,8,152.0,295.0,4.9,0,0
+ORD10657,U1321,R507,Masala Dosa,French Fries,1,4,Healthy,Vegan,Vegan,11.4,10,137.0,1180.0,3.2,0,0
+ORD10658,U1348,R511,Beef Burger,Miso Soup,1,4,Healthy,Vegan,Veg,11.5,12,213.0,1296.0,4.1,1,0
+ORD10659,U1445,R501,Margherita Pizza,Green Tea,1,3,Healthy,Veg,Veg,6.1,20,219.0,943.0,3.7,1,0
+ORD10660,U1242,R546,Pasta Alfredo,Miso Soup,1,1,Junk,Vegan,Vegan,11.4,23,140.0,368.0,3.9,0,1
+ORD10661,U1384,R549,Masala Dosa,Mint Raita,0,5,Healthy,Non-Veg,Veg,6.1,23,233.0,171.0,4.2,0,0
+ORD10662,U1205,R535,Paneer Butter Masala,Chocolate Brownie,1,5,Junk,Veg,Non-Veg,13.5,19,35.0,1096.0,4.8,0,0
+ORD10663,U1326,R535,Sushi Platter,Healthy Quinoa Salad,1,4,Balanced,Vegan,Veg,3.1,1,46.0,893.0,3.9,0,0
+ORD10664,U1444,R546,Chicken Biryani,Green Tea,1,5,Balanced,Veg,Veg,4.7,15,157.0,1029.0,5.0,0,0
+ORD10665,U1021,R524,Paneer Butter Masala,Miso Soup,1,3,Balanced,Vegan,Non-Veg,8.5,0,101.0,1248.0,,0,0
+ORD10666,U1280,R534,Sushi Platter,Miso Soup,1,2,Healthy,Non-Veg,Non-Veg,5.1,10,127.0,736.0,3.3,0,0
+ORD10667,U1347,R533,Beef Burger,Butter Naan,1,5,Healthy,Non-Veg,Non-Veg,6.7,22,95.0,318.0,3.4,1,1
+ORD10668,U1257,R532,Paneer Butter Masala,Miso Soup,1,6,Healthy,Non-Veg,Vegan,7.6,9,113.0,1419.0,4.4,0,0
+ORD10669,U1387,R535,Oatmeal Bowl,Extra Chutney,1,3,Balanced,Veg,Non-Veg,12.9,9,209.0,886.0,3.1,0,0
+ORD10670,U1247,R529,Chicken Biryani,Healthy Quinoa Salad,1,0,Balanced,Non-Veg,Non-Veg,8.1,1,156.0,981.0,,0,0
+ORD10671,U1211,R500,Sushi Platter,Extra Chutney,1,3,Balanced,Vegan,Non-Veg,5.8,2,249.0,1410.0,3.3,0,0
+ORD10672,U1014,R513,Sushi Platter,Healthy Quinoa Salad,0,1,Balanced,Vegan,Vegan,4.1,7,201.0,1408.0,3.9,0,0
+ORD10673,U1485,R539,Sushi Platter,Chocolate Brownie,1,0,Junk,Vegan,Veg,6.4,2,83.0,922.0,4.5,0,0
+ORD10674,U1202,R511,Beef Burger,Healthy Quinoa Salad,1,1,Junk,Veg,Vegan,8.0,1,81.0,552.0,3.9,1,0
+ORD10675,U1042,R518,Paneer Butter Masala,Extra Chutney,1,4,Healthy,Veg,Veg,11.3,2,97.0,1496.0,3.3,1,0
+ORD10676,U1470,R534,Beef Burger,Healthy Quinoa Salad,1,2,Healthy,Non-Veg,Non-Veg,2.3,21,214.0,1069.0,3.5,1,0
+ORD10677,U1274,R532,Pasta Alfredo,Chocolate Brownie,1,8,,Veg,Vegan,3.7,9,26.0,701.0,3.7,0,0
+ORD10678,U1284,R534,Margherita Pizza,Chocolate Brownie,1,7,Junk,Vegan,Vegan,6.0,13,73.0,906.0,3.1,1,0
+ORD10679,U1370,R537,Margherita Pizza,Mint Raita,1,3,Junk,Vegan,Veg,5.7,7,228.0,711.0,4.2,0,0
+ORD10680,U1496,R532,Pasta Alfredo,Healthy Quinoa Salad,0,3,Healthy,Vegan,Vegan,6.2,9,167.0,1349.0,4.2,0,0
+ORD10681,U1460,R505,Paneer Butter Masala,Butter Naan,0,3,Junk,Veg,Vegan,12.0,0,72.0,801.0,3.1,0,0
+ORD10682,U1233,R510,Oatmeal Bowl,French Fries,0,0,Healthy,Vegan,Veg,5.2,19,70.0,1262.0,,0,0
+ORD10683,U1393,R540,Beef Burger,Garlic Bread,1,3,Balanced,Non-Veg,Vegan,7.8,9,218.0,1284.0,3.8,1,1
+ORD10684,U1098,R549,Chicken Biryani,Chocolate Brownie,1,3,Balanced,Veg,Vegan,9.5,19,226.0,1263.0,3.7,0,0
+ORD10685,U1253,R540,Sushi Platter,Filter Coffee,1,4,Healthy,Vegan,Non-Veg,3.9,23,79.0,1125.0,4.1,0,0
+ORD10686,U1474,R523,Sushi Platter,French Fries,1,1,Balanced,Vegan,Non-Veg,,2,117.0,1304.0,3.7,0,1
+ORD10687,U1174,R515,Paneer Butter Masala,Green Tea,1,3,Balanced,Veg,Non-Veg,8.4,13,212.0,673.0,3.8,1,0
+ORD10688,U1063,R522,Oatmeal Bowl,Healthy Quinoa Salad,0,4,Junk,Veg,Non-Veg,7.0,7,197.0,305.0,4.6,1,0
+ORD10689,U1450,R533,Margherita Pizza,Extra Chutney,1,4,Junk,Non-Veg,Non-Veg,12.2,10,207.0,1287.0,3.3,0,0
+ORD10690,U1240,R515,Margherita Pizza,Garlic Bread,1,2,Junk,Veg,Vegan,4.0,7,139.0,823.0,4.2,0,0
+ORD10691,U1129,R544,Sushi Platter,Filter Coffee,0,5,Junk,Vegan,Vegan,13.3,15,230.0,322.0,4.0,1,0
+ORD10692,U1062,R536,Paneer Butter Masala,French Fries,0,2,Junk,Non-Veg,Non-Veg,8.6,9,95.0,306.0,3.6,0,0
+ORD10693,U1292,R550,Beef Burger,Healthy Quinoa Salad,0,4,Healthy,Vegan,Veg,9.3,21,56.0,365.0,,0,0
+ORD10694,U1106,R536,Margherita Pizza,Mint Raita,0,3,Healthy,Vegan,Non-Veg,13.2,10,183.0,11451.562977985424,4.1,0,0
+ORD10695,U1033,R516,Beef Burger,Green Tea,1,3,Junk,Vegan,Vegan,12.4,1,144.0,1110.0,4.0,0,0
+ORD10696,U1204,R511,Oatmeal Bowl,Garlic Bread,0,2,Balanced,Veg,Veg,9.2,14,217.0,425.0,4.3,0,0
+ORD10697,U1311,R514,Margherita Pizza,Butter Naan,1,2,Balanced,Veg,Non-Veg,11.4,9,39.0,1293.0,4.6,0,0
+ORD10698,U1169,R533,Margherita Pizza,Mint Raita,1,1,Healthy,Vegan,Veg,6.8,12,214.0,530.0,4.9,0,0
+ORD10699,U1306,R517,Masala Dosa,Filter Coffee,1,3,Healthy,Veg,Non-Veg,8.4,22,87.0,1221.0,4.3,1,1
+ORD10700,U1160,R548,Margherita Pizza,Garlic Bread,1,5,Healthy,Vegan,Vegan,1.4,20,171.0,810.0,4.7,0,0
+ORD10701,U1407,R517,Pasta Alfredo,Mint Raita,1,1,Balanced,Veg,Non-Veg,1.8,20,29.0,1138.0,,0,0
+ORD10702,U1033,R544,Chicken Biryani,Green Tea,1,2,Healthy,Veg,Veg,12.5,22,160.0,665.0,4.1,0,1
+ORD10703,U1096,R533,Pasta Alfredo,Butter Naan,1,3,Balanced,Veg,Vegan,1.4,19,185.0,619.0,3.4,0,1
+ORD10704,U1390,R504,Paneer Butter Masala,Mint Raita,0,2,Healthy,Non-Veg,Non-Veg,3.0,9,105.0,1286.0,3.2,0,0
+ORD10705,U1104,R545,Paneer Butter Masala,Miso Soup,1,3,Balanced,Veg,Non-Veg,12.0,1,70.0,198.0,4.1,1,0
+ORD10706,U1311,R511,Beef Burger,Butter Naan,0,4,Healthy,Non-Veg,Non-Veg,0.5,7,144.0,1466.0,4.5,0,0
+ORD10707,U1403,R516,Pasta Alfredo,Filter Coffee,1,1,Healthy,Non-Veg,Non-Veg,4.6,0,212.0,1025.0,3.8,0,0
+ORD10708,U1301,R501,Pasta Alfredo,Green Tea,0,1,Balanced,Non-Veg,Vegan,9.0,22,94.0,734.0,4.3,0,0
+ORD10709,U1418,R505,Pasta Alfredo,Healthy Quinoa Salad,1,3,Healthy,Vegan,Vegan,9.1,10,78.0,998.0,4.0,0,0
+ORD10710,U1080,R522,Oatmeal Bowl,Extra Chutney,1,3,Junk,Veg,Non-Veg,11.8,12,84.0,316.0,3.9,1,0
+ORD10711,U1259,R539,Margherita Pizza,Extra Chutney,1,3,,Vegan,Vegan,7.8,14,238.0,844.0,3.6,0,0
+ORD10712,U1427,R515,Chicken Biryani,Extra Chutney,0,2,Healthy,Non-Veg,Veg,7.9,1,103.0,1480.0,3.8,1,0
+ORD10713,U1469,R511,Beef Burger,Garlic Bread,0,1,Balanced,Veg,Vegan,11.0,14,21.0,468.0,3.7,1,0
+ORD10714,U1179,R521,Pasta Alfredo,Filter Coffee,0,3,,Vegan,Veg,7.7,22,200.0,1125.0,4.3,0,0
+ORD10715,U1176,R541,Pasta Alfredo,Green Tea,0,5,Junk,Non-Veg,Veg,9.3,8,181.0,737.0,3.2,0,0
+ORD10716,U1482,R544,Masala Dosa,Butter Naan,1,0,,Vegan,Vegan,13.5,15,50.0,1031.0,3.2,0,0
+ORD10717,U1182,R527,Beef Burger,Garlic Bread,0,8,Healthy,Vegan,Non-Veg,6.3,12,247.0,427.0,4.3,1,0
+ORD10718,U1015,R528,Pasta Alfredo,Filter Coffee,1,4,Junk,Veg,Vegan,6.1,15,160.0,785.0,4.1,0,0
+ORD10719,U1017,R547,Beef Burger,Healthy Quinoa Salad,1,1,Balanced,Veg,Veg,0.6,12,135.0,1473.0,3.9,0,1
+ORD10720,U1487,R548,Margherita Pizza,Miso Soup,0,6,Healthy,Vegan,Veg,9.4,22,108.0,414.0,3.3,0,0
+ORD10721,U1271,R530,Masala Dosa,Green Tea,1,0,Healthy,Veg,Vegan,0.9,8,227.0,1009.0,3.8,0,0
+ORD10722,U1099,R537,Beef Burger,Extra Chutney,0,7,Junk,Veg,Veg,7.8,12,76.0,927.0,,1,1
+ORD10723,U1286,R543,Chicken Biryani,Mint Raita,0,1,Balanced,Vegan,Vegan,12.2,21,86.0,913.0,4.8,0,0
+ORD10724,U1148,R515,Chicken Biryani,Green Tea,0,3,Balanced,Veg,Vegan,8.5,9,48.0,980.0,4.4,0,1
+ORD10725,U1284,R503,Paneer Butter Masala,Chocolate Brownie,1,1,Junk,Veg,Non-Veg,4.4,22,195.0,828.0,3.1,0,0
+ORD10726,U1427,R537,Masala Dosa,Filter Coffee,1,1,Junk,Non-Veg,Veg,11.9,22,157.0,173.0,4.3,0,0
+ORD10727,U1380,R542,Masala Dosa,French Fries,1,2,Healthy,Veg,Vegan,4.4,8,160.0,1365.0,3.5,0,0
+ORD10728,U1435,R510,Paneer Butter Masala,Healthy Quinoa Salad,1,8,Junk,Non-Veg,Veg,11.1,20,70.0,1266.0,3.6,0,1
+ORD10729,U1389,R515,Beef Burger,Miso Soup,0,2,Junk,Vegan,Vegan,9.3,21,170.0,385.0,3.4,0,1
+ORD10730,U1117,R538,Masala Dosa,Healthy Quinoa Salad,1,6,Junk,Non-Veg,Vegan,3.0,15,196.0,708.0,4.6,0,0
+ORD10731,U1140,R521,Chicken Biryani,Green Tea,1,3,Balanced,Vegan,Non-Veg,13.6,7,102.0,1190.0,4.3,0,0
+ORD10732,U1136,R531,Chicken Biryani,French Fries,0,3,Junk,Veg,Vegan,3.4,8,204.0,1473.0,4.2,0,0
+ORD10733,U1448,R503,Pasta Alfredo,Chocolate Brownie,0,5,Healthy,Veg,Non-Veg,14.8,19,100.0,1434.0,4.3,1,0
+ORD10734,U1451,R534,Margherita Pizza,Butter Naan,1,8,,Non-Veg,Veg,0.6,7,194.0,1364.0,3.5,1,0
+ORD10735,U1178,R527,Masala Dosa,Mint Raita,0,3,Healthy,Vegan,Non-Veg,4.3,0,28.0,364.0,3.9,0,0
+ORD10736,U1455,R519,Beef Burger,French Fries,1,2,Junk,Veg,Non-Veg,3.4,2,147.0,1385.0,4.3,0,0
+ORD10737,U1185,R538,Paneer Butter Masala,Filter Coffee,0,2,Balanced,Non-Veg,Veg,0.7,12,243.0,1336.0,4.3,1,0
+ORD10738,U1103,R514,Paneer Butter Masala,Extra Chutney,0,3,Junk,Non-Veg,Non-Veg,11.1,10,246.0,12474.560942985998,4.6,0,0
+ORD10739,U1389,R536,Beef Burger,Chocolate Brownie,0,6,Junk,Non-Veg,Non-Veg,10.6,19,85.0,683.0,3.6,1,0
+ORD10740,U1063,R525,Oatmeal Bowl,Mint Raita,0,3,Healthy,Veg,Vegan,12.0,22,122.0,771.0,4.5,1,0
+ORD10741,U1408,R522,Sushi Platter,Miso Soup,1,4,Junk,Vegan,Non-Veg,4.2,10,34.0,1036.0,3.9,0,1
+ORD10742,U1421,R550,Margherita Pizza,Extra Chutney,1,4,Balanced,Veg,Vegan,6.9,15,221.0,502.0,4.3,0,0
+ORD10743,U1242,R511,Paneer Butter Masala,Green Tea,1,3,Healthy,Veg,Non-Veg,10.1,2,151.0,181.0,3.9,0,0
+ORD10744,U1031,R501,Masala Dosa,French Fries,1,4,Balanced,Vegan,Veg,6.9,13,109.0,341.0,4.9,0,0
+ORD10745,U1198,R540,Margherita Pizza,Mint Raita,1,5,Balanced,Non-Veg,Veg,10.6,23,46.0,744.0,3.4,1,1
+ORD10746,U1192,R538,Masala Dosa,Garlic Bread,1,6,Balanced,Veg,Non-Veg,9.7,22,238.0,531.0,4.4,1,0
+ORD10747,U1327,R510,Oatmeal Bowl,Butter Naan,0,3,Junk,Non-Veg,Vegan,2.2,9,142.0,1182.0,4.2,0,0
+ORD10748,U1291,R506,Chicken Biryani,Butter Naan,1,4,Junk,Non-Veg,Non-Veg,11.8,12,85.0,294.0,3.3,0,1
+ORD10749,U1196,R516,Margherita Pizza,Chocolate Brownie,1,6,Junk,Vegan,Vegan,10.9,12,101.0,1389.0,3.1,0,0
+ORD10750,U1018,R512,Pasta Alfredo,Miso Soup,0,2,Junk,Vegan,Non-Veg,10.0,2,82.0,1359.0,4.6,0,0
+ORD10751,U1499,R537,Paneer Butter Masala,Chocolate Brownie,1,8,Healthy,Vegan,Veg,2.7,7,158.0,1377.0,3.3,0,0
+ORD10752,U1041,R534,Margherita Pizza,Garlic Bread,0,3,Junk,Non-Veg,Veg,4.4,21,234.0,1148.0,3.4,1,1
+ORD10753,U1440,R502,Margherita Pizza,Filter Coffee,1,1,Healthy,Non-Veg,Vegan,6.2,9,217.0,294.0,5.0,0,0
+ORD10754,U1445,R508,Margherita Pizza,Miso Soup,1,4,Balanced,Veg,Non-Veg,4.6,1,126.0,741.0,4.4,0,0
+ORD10755,U1484,R536,Sushi Platter,Healthy Quinoa Salad,1,4,Healthy,Non-Veg,Vegan,3.8,19,210.0,327.0,3.5,0,0
+ORD10756,U1478,R549,Margherita Pizza,Filter Coffee,1,1,Junk,Vegan,Veg,12.2,19,117.0,1483.0,4.2,0,0
+ORD10757,U1228,R533,Masala Dosa,Miso Soup,1,1,Healthy,Vegan,Vegan,9.8,15,78.0,600.0,4.1,0,1
+ORD10758,U1039,R501,Chicken Biryani,Miso Soup,1,5,Junk,Vegan,Non-Veg,8.7,19,246.0,940.0,4.7,0,0
+ORD10759,U1291,R528,Oatmeal Bowl,Garlic Bread,1,4,Junk,Vegan,Vegan,3.8,23,90.0,1202.0,4.5,0,0
+ORD10760,U1049,R541,Beef Burger,Green Tea,0,3,Healthy,Non-Veg,Non-Veg,13.8,10,94.0,1393.0,4.7,1,1
+ORD10761,U1266,R546,Margherita Pizza,Garlic Bread,1,2,Healthy,Vegan,Non-Veg,3.3,1,248.0,1170.0,3.4,0,0
+ORD10762,U1207,R528,Paneer Butter Masala,Miso Soup,1,1,Balanced,Veg,Veg,12.0,15,51.0,1061.0,4.3,0,0
+ORD10763,U1104,R544,Margherita Pizza,Mint Raita,1,5,Balanced,Non-Veg,Non-Veg,14.5,8,195.0,779.0,3.1,1,0
+ORD10764,U1409,R542,Paneer Butter Masala,Filter Coffee,1,5,Balanced,Vegan,Non-Veg,11.0,19,235.0,967.0,,1,0
+ORD10765,U1072,R544,Masala Dosa,Garlic Bread,1,2,Balanced,Veg,Non-Veg,14.9,7,138.0,277.0,4.4,0,0
+ORD10766,U1400,R539,Paneer Butter Masala,Green Tea,1,4,Balanced,Vegan,Vegan,9.9,13,21.0,1343.0,3.0,0,0
+ORD10767,U1224,R546,Pasta Alfredo,French Fries,1,6,Healthy,Non-Veg,Veg,3.7,20,106.0,884.0,4.2,1,0
+ORD10768,U1012,R531,Beef Burger,Chocolate Brownie,1,2,Balanced,Non-Veg,Vegan,3.5,20,46.0,204.0,4.7,0,0
+ORD10769,U1120,R514,Chicken Biryani,Miso Soup,0,4,Healthy,Veg,Vegan,5.2,22,116.0,1392.0,3.8,0,0
+ORD10770,U1321,R528,Paneer Butter Masala,Healthy Quinoa Salad,1,3,Balanced,Non-Veg,Veg,0.6,1,202.0,811.0,3.1,0,0
+ORD10771,U1085,R511,Paneer Butter Masala,French Fries,1,4,Junk,Veg,Vegan,10.4,10,121.0,1323.0,4.4,0,0
+ORD10772,U1202,R518,Chicken Biryani,Butter Naan,1,5,Balanced,Vegan,Vegan,4.4,20,119.0,1307.0,4.9,0,0
+ORD10773,U1110,R527,Beef Burger,Extra Chutney,0,0,Junk,Non-Veg,Non-Veg,12.3,10,148.0,1251.0,4.4,0,0
+ORD10774,U1150,R548,Margherita Pizza,Green Tea,1,4,Healthy,Vegan,Vegan,5.7,23,154.0,233.0,4.2,1,1
+ORD10775,U1202,R500,Paneer Butter Masala,Healthy Quinoa Salad,1,1,Balanced,Vegan,Veg,7.5,10,217.0,484.0,3.5,1,1
+ORD10776,U1278,R508,Chicken Biryani,Extra Chutney,0,1,Healthy,Non-Veg,Vegan,14.5,0,91.0,1332.0,3.0,1,0
+ORD10777,U1093,R508,Pasta Alfredo,Green Tea,1,3,,Vegan,Non-Veg,4.0,12,209.0,1364.0,4.4,0,1
+ORD10778,U1177,R539,Pasta Alfredo,Mint Raita,1,2,Healthy,Veg,Vegan,11.0,1,150.0,768.0,3.5,0,1
+ORD10779,U1044,R506,Masala Dosa,Chocolate Brownie,1,1,Balanced,Veg,Veg,11.4,22,89.0,744.0,4.7,1,0
+ORD10780,U1331,R521,Chicken Biryani,French Fries,1,2,Balanced,Veg,Non-Veg,3.7,22,88.0,386.0,3.9,0,0
+ORD10781,U1196,R504,Masala Dosa,Filter Coffee,1,2,Junk,Non-Veg,Vegan,7.8,8,103.0,1457.0,4.1,0,1
+ORD10782,U1386,R520,Pasta Alfredo,Green Tea,1,4,Healthy,Vegan,Veg,5.6,1,163.0,438.0,4.5,0,0
+ORD10783,U1358,R522,Beef Burger,Filter Coffee,1,5,Healthy,Vegan,Veg,11.7,23,73.0,408.0,4.6,0,0
+ORD10784,U1046,R513,Margherita Pizza,Chocolate Brownie,0,3,Healthy,Vegan,Vegan,9.5,20,232.0,1042.0,4.3,0,0
+ORD10785,U1287,R543,Chicken Biryani,Miso Soup,0,3,Healthy,Vegan,Vegan,7.4,8,152.0,478.0,4.9,0,0
+ORD10786,U1450,R533,Oatmeal Bowl,Butter Naan,1,1,Healthy,Veg,Non-Veg,11.8,10,232.0,1417.0,5.0,1,0
+ORD10787,U1253,R543,Pasta Alfredo,French Fries,0,0,Junk,Non-Veg,Vegan,3.9,9,31.0,165.0,4.9,0,0
+ORD10788,U1180,R549,Pasta Alfredo,Chocolate Brownie,1,3,Balanced,Veg,Non-Veg,,20,99.0,158.0,4.6,1,0
+ORD10789,U1288,R529,Oatmeal Bowl,Chocolate Brownie,1,7,Junk,Veg,Vegan,13.0,22,25.0,832.0,4.4,1,0
+ORD10790,U1002,R549,Sushi Platter,Mint Raita,1,1,Healthy,Non-Veg,Veg,,19,83.0,809.0,4.3,0,1
+ORD10791,U1188,R548,Pasta Alfredo,Extra Chutney,1,8,Healthy,Non-Veg,Veg,11.9,8,218.0,371.0,3.2,1,0
+ORD10792,U1190,R546,Paneer Butter Masala,Butter Naan,1,4,Balanced,Veg,Veg,6.4,7,28.0,818.0,3.5,0,0
+ORD10793,U1306,R518,Beef Burger,French Fries,1,5,Junk,Vegan,Veg,14.7,12,120.0,706.0,3.0,0,0
+ORD10794,U1004,R538,Chicken Biryani,Miso Soup,1,3,Balanced,Non-Veg,Non-Veg,6.0,15,47.0,1352.0,3.3,0,0
+ORD10795,U1327,R542,Oatmeal Bowl,Miso Soup,0,4,Balanced,Non-Veg,Veg,9.8,21,116.0,162.0,3.9,0,1
+ORD10796,U1030,R541,Paneer Butter Masala,Garlic Bread,1,4,Junk,Veg,Non-Veg,2.8,12,213.0,1468.0,3.3,0,0
+ORD10797,U1259,R533,Oatmeal Bowl,Chocolate Brownie,1,3,Balanced,Vegan,Non-Veg,14.7,0,163.0,993.0,4.8,0,0
+ORD10798,U1082,R513,Chicken Biryani,Green Tea,1,4,Junk,Non-Veg,Non-Veg,10.7,14,189.0,355.0,4.6,0,0
+ORD10799,U1443,R504,Masala Dosa,Mint Raita,1,4,Junk,Veg,Vegan,11.4,1,100.0,213.0,3.1,0,0
+ORD10800,U1011,R514,Chicken Biryani,Butter Naan,0,4,Healthy,Non-Veg,Non-Veg,1.5,2,237.0,876.0,3.5,0,0
+ORD10801,U1035,R535,Sushi Platter,Miso Soup,1,3,Balanced,Vegan,Vegan,11.6,20,183.0,467.0,4.6,0,0
+ORD10802,U1474,R506,Chicken Biryani,French Fries,1,7,Healthy,Veg,Non-Veg,11.7,0,117.0,557.0,4.6,0,0
+ORD10803,U1126,R526,Chicken Biryani,Garlic Bread,1,3,Balanced,Veg,Vegan,10.2,15,118.0,481.0,4.9,1,0
+ORD10804,U1238,R538,Sushi Platter,French Fries,1,1,Balanced,Vegan,Vegan,4.7,2,231.0,1028.0,5.0,0,1
+ORD10805,U1199,R506,Beef Burger,Mint Raita,1,5,Healthy,Veg,Veg,7.6,14,153.0,897.0,5.0,1,0
+ORD10806,U1048,R519,Pasta Alfredo,Green Tea,1,3,,Vegan,Non-Veg,2.1,19,182.0,255.0,3.8,0,0
+ORD10807,U1219,R513,Chicken Biryani,Garlic Bread,1,4,Healthy,Veg,Vegan,7.3,12,116.0,861.0,,0,1
+ORD10808,U1045,R548,Sushi Platter,Garlic Bread,1,3,Junk,Vegan,Veg,4.0,23,71.0,1218.0,4.5,0,1
+ORD10809,U1245,R531,Paneer Butter Masala,Extra Chutney,1,3,Balanced,Non-Veg,Non-Veg,5.6,7,186.0,260.0,,0,0
+ORD10810,U1343,R550,Masala Dosa,Butter Naan,0,4,Junk,Non-Veg,Veg,2.9,20,160.0,1351.0,4.6,1,1
+ORD10811,U1142,R500,Masala Dosa,Garlic Bread,1,0,Balanced,Non-Veg,Vegan,3.8,20,135.0,931.0,4.1,0,0
+ORD10812,U1086,R531,Chicken Biryani,Extra Chutney,1,3,Balanced,Veg,Veg,1.6,10,164.0,1433.0,4.6,0,0
+ORD10813,U1375,R538,Beef Burger,Extra Chutney,0,5,Junk,Vegan,Veg,13.8,10,68.0,350.0,3.6,0,0
+ORD10814,U1118,R508,Beef Burger,Mint Raita,0,3,Junk,Vegan,Non-Veg,8.2,23,203.0,1491.0,4.0,0,0
+ORD10815,U1196,R541,Paneer Butter Masala,Filter Coffee,1,2,Balanced,Non-Veg,Vegan,6.3,15,238.0,1020.0,4.1,1,0
+ORD10816,U1079,R505,Chicken Biryani,French Fries,1,2,Healthy,Non-Veg,Non-Veg,8.3,8,225.0,916.0,4.9,0,0
+ORD10817,U1232,R511,Masala Dosa,Green Tea,1,4,Healthy,Non-Veg,Non-Veg,9.6,19,94.0,846.0,3.5,1,0
+ORD10818,U1220,R518,Beef Burger,Healthy Quinoa Salad,1,5,Healthy,Vegan,Veg,13.9,23,113.0,182.0,4.9,0,1
+ORD10819,U1221,R518,Chicken Biryani,French Fries,0,6,Healthy,Non-Veg,Vegan,3.1,0,206.0,1419.0,4.6,0,0
+ORD10820,U1292,R523,Oatmeal Bowl,Garlic Bread,0,4,Balanced,Veg,Non-Veg,4.8,14,157.0,1019.0,4.5,0,0
+ORD10821,U1128,R532,Beef Burger,Green Tea,0,3,Healthy,Non-Veg,Vegan,14.6,7,146.0,274.0,4.6,0,0
+ORD10822,U1393,R507,Sushi Platter,Miso Soup,0,7,Healthy,Non-Veg,Non-Veg,5.9,10,233.0,178.0,4.2,1,0
+ORD10823,U1318,R512,Oatmeal Bowl,Filter Coffee,0,2,Healthy,Vegan,Veg,0.8,21,143.0,219.0,3.5,0,0
+ORD10824,U1095,R510,Pasta Alfredo,Miso Soup,1,2,Balanced,Veg,Non-Veg,2.6,8,138.0,973.0,3.4,0,0
+ORD10825,U1072,R548,Beef Burger,Miso Soup,1,3,Junk,Vegan,Non-Veg,0.9,1,30.0,979.0,4.7,1,0
+ORD10826,U1245,R547,Masala Dosa,Butter Naan,0,2,Healthy,Veg,Non-Veg,14.9,21,36.0,825.0,4.5,0,0
+ORD10827,U1201,R531,Margherita Pizza,French Fries,0,3,Balanced,Veg,Vegan,4.5,12,22.0,564.0,3.4,0,0
+ORD10828,U1087,R549,Oatmeal Bowl,Healthy Quinoa Salad,1,2,Balanced,Non-Veg,Veg,13.9,1,230.0,868.0,4.2,0,0
+ORD10829,U1278,R521,Pasta Alfredo,Mint Raita,0,2,Healthy,Non-Veg,Vegan,14.9,15,114.0,847.0,3.9,0,0
+ORD10830,U1466,R550,Paneer Butter Masala,Healthy Quinoa Salad,1,3,Junk,Vegan,Non-Veg,9.2,12,128.0,176.0,3.3,0,0
+ORD10831,U1448,R520,Paneer Butter Masala,Miso Soup,1,6,Junk,Vegan,Veg,1.0,20,214.0,12935.080355863163,4.1,0,1
+ORD10832,U1201,R533,Masala Dosa,Garlic Bread,1,2,Junk,Vegan,Vegan,1.7,15,160.0,222.0,3.6,1,0
+ORD10833,U1378,R514,Beef Burger,Filter Coffee,0,7,Balanced,Veg,Non-Veg,7.5,23,160.0,1365.0,3.2,0,1
+ORD10834,U1007,R537,Chicken Biryani,Chocolate Brownie,0,3,Healthy,Vegan,Veg,6.4,1,88.0,1129.0,3.9,1,0
+ORD10835,U1314,R519,Beef Burger,Healthy Quinoa Salad,1,4,Healthy,Veg,Veg,9.3,15,212.0,1495.0,4.2,0,0
+ORD10836,U1058,R542,Masala Dosa,Miso Soup,1,1,Balanced,Veg,Non-Veg,6.9,23,58.0,558.0,3.1,0,0
+ORD10837,U1382,R529,Paneer Butter Masala,Filter Coffee,1,0,Healthy,Veg,Veg,14.0,23,32.0,1336.0,3.8,1,0
+ORD10838,U1143,R542,Beef Burger,Green Tea,0,3,Healthy,Veg,Veg,8.3,8,64.0,964.0,3.5,1,1
+ORD10839,U1006,R527,Paneer Butter Masala,French Fries,1,4,Junk,Veg,Vegan,10.6,7,82.0,762.0,3.1,0,1
+ORD10840,U1199,R501,Oatmeal Bowl,Extra Chutney,1,2,Healthy,Non-Veg,Veg,13.5,0,85.0,450.0,3.3,0,0
+ORD10841,U1038,R511,Pasta Alfredo,Butter Naan,1,3,Healthy,Veg,Vegan,2.6,21,174.0,1147.0,3.3,1,0
+ORD10842,U1392,R536,Chicken Biryani,Filter Coffee,0,6,Balanced,Veg,Vegan,3.8,19,70.0,1371.0,3.4,1,1
+ORD10843,U1474,R513,Oatmeal Bowl,Garlic Bread,0,3,Balanced,Non-Veg,Vegan,2.1,12,176.0,468.0,4.6,1,0
+ORD10844,U1029,R515,Paneer Butter Masala,Garlic Bread,1,2,Junk,Non-Veg,Vegan,2.5,14,41.0,387.0,3.9,0,1
+ORD10845,U1064,R508,Paneer Butter Masala,Filter Coffee,1,1,Balanced,Non-Veg,Veg,7.9,23,54.0,1090.0,3.3,0,1
+ORD10846,U1122,R502,Margherita Pizza,Garlic Bread,1,3,Junk,Vegan,Veg,5.2,19,137.0,1469.0,3.2,0,0
+ORD10847,U1349,R526,Margherita Pizza,French Fries,1,4,Junk,Vegan,Vegan,6.6,2,232.0,1162.0,3.6,1,0
+ORD10848,U1471,R541,Oatmeal Bowl,Garlic Bread,1,3,Healthy,Veg,Veg,14.7,20,218.0,534.0,4.6,0,0
+ORD10849,U1040,R519,Sushi Platter,Healthy Quinoa Salad,1,2,Junk,Veg,Vegan,2.8,7,243.0,717.0,3.7,0,0
+ORD10850,U1389,R522,Oatmeal Bowl,Extra Chutney,1,3,Healthy,Veg,Vegan,8.3,7,170.0,669.0,3.3,1,0
+ORD10851,U1151,R512,Margherita Pizza,Garlic Bread,1,0,Junk,Veg,Vegan,1.9,8,175.0,1300.0,3.8,0,0
+ORD10852,U1179,R523,Paneer Butter Masala,Extra Chutney,1,2,Balanced,Non-Veg,Non-Veg,5.1,2,164.0,1191.0,4.1,1,0
+ORD10853,U1152,R521,Masala Dosa,Miso Soup,1,6,Balanced,Vegan,Veg,8.1,13,163.0,945.0,3.1,0,1
+ORD10854,U1430,R530,Oatmeal Bowl,Mint Raita,1,2,Balanced,Non-Veg,Veg,14.2,7,54.0,521.0,4.3,0,0
+ORD10855,U1030,R550,Paneer Butter Masala,French Fries,0,3,Junk,Vegan,Vegan,6.2,21,145.0,1416.0,3.8,0,0
+ORD10856,U1315,R516,Masala Dosa,Mint Raita,1,5,Junk,Non-Veg,Veg,1.4,14,109.0,1032.0,3.0,0,0
+ORD10857,U1328,R535,Masala Dosa,Miso Soup,0,3,Healthy,Veg,Vegan,6.1,22,122.0,1460.0,4.3,0,0
+ORD10858,U1211,R526,Margherita Pizza,French Fries,1,3,Healthy,Vegan,Veg,2.6,15,140.0,933.0,4.4,0,0
+ORD10859,U1453,R504,Oatmeal Bowl,Filter Coffee,1,2,,Veg,Vegan,3.8,23,50.0,1259.0,4.3,0,0
+ORD10860,U1250,R504,Beef Burger,Filter Coffee,0,3,Healthy,Vegan,Vegan,9.5,15,103.0,1248.0,3.7,1,0
+ORD10861,U1037,R547,Chicken Biryani,Extra Chutney,1,0,Junk,Vegan,Non-Veg,1.5,7,35.0,605.0,,0,0
+ORD10862,U1404,R508,Margherita Pizza,Miso Soup,1,2,Junk,Veg,Vegan,7.2,9,245.0,1451.0,3.8,0,1
+ORD10863,U1492,R519,Margherita Pizza,Extra Chutney,0,1,Healthy,Veg,Non-Veg,9.3,22,47.0,180.0,4.4,0,0
+ORD10864,U1489,R513,Beef Burger,Butter Naan,1,1,Junk,Veg,Veg,6.6,12,79.0,1188.0,4.2,0,0
+ORD10865,U1440,R549,Chicken Biryani,Garlic Bread,1,3,Junk,Non-Veg,Veg,0.8,20,225.0,1454.0,3.2,1,1
+ORD10866,U1129,R548,Paneer Butter Masala,Chocolate Brownie,1,7,Junk,Vegan,Non-Veg,14.8,10,131.0,608.0,4.3,0,1
+ORD10867,U1161,R536,Sushi Platter,Butter Naan,1,3,Junk,Vegan,Veg,5.8,7,51.0,6023.311472229222,4.4,0,0
+ORD10868,U1025,R542,Oatmeal Bowl,Garlic Bread,0,2,Healthy,Vegan,Non-Veg,11.8,7,108.0,909.0,3.7,1,0
+ORD10869,U1083,R520,Sushi Platter,French Fries,0,2,Healthy,Veg,Veg,5.2,8,47.0,1178.0,4.8,0,0
+ORD10870,U1407,R533,Paneer Butter Masala,Extra Chutney,1,3,Junk,Vegan,Non-Veg,7.4,14,66.0,1319.0,4.7,0,0
+ORD10871,U1396,R550,Pasta Alfredo,French Fries,1,6,Balanced,Vegan,Non-Veg,6.1,8,32.0,964.0,3.4,1,0
+ORD10872,U1201,R531,Margherita Pizza,French Fries,1,3,Healthy,Veg,Vegan,5.5,19,121.0,1251.0,4.8,1,0
+ORD10873,U1483,R544,Chicken Biryani,Garlic Bread,0,2,Healthy,Veg,Veg,0.8,0,206.0,572.0,,0,0
+ORD10874,U1315,R522,Margherita Pizza,Miso Soup,1,3,Balanced,Vegan,Vegan,5.7,20,155.0,459.0,4.4,0,0
+ORD10875,U1230,R525,Masala Dosa,Garlic Bread,0,6,Healthy,Non-Veg,Non-Veg,13.4,12,159.0,731.0,4.6,1,0
+ORD10876,U1118,R521,Margherita Pizza,Green Tea,0,1,Balanced,Veg,Vegan,10.5,14,66.0,1065.0,4.0,0,0
+ORD10877,U1182,R514,Margherita Pizza,Filter Coffee,1,2,Balanced,Non-Veg,Non-Veg,2.6,20,99.0,403.0,3.8,1,0
+ORD10878,U1071,R524,Paneer Butter Masala,Filter Coffee,1,5,Junk,Non-Veg,Veg,9.1,8,214.0,1068.0,4.8,1,0
+ORD10879,U1079,R529,Paneer Butter Masala,Butter Naan,1,4,Healthy,Non-Veg,Veg,13.4,2,40.0,682.0,3.5,0,1
+ORD10880,U1394,R542,Paneer Butter Masala,Filter Coffee,1,2,Balanced,Non-Veg,Veg,10.7,2,217.0,1224.0,3.5,0,0
+ORD10881,U1298,R544,Sushi Platter,Garlic Bread,1,2,Junk,Veg,Non-Veg,2.7,7,131.0,200.0,3.7,0,0
+ORD10882,U1421,R513,Masala Dosa,Healthy Quinoa Salad,1,3,Healthy,Vegan,Vegan,13.1,23,213.0,1052.0,4.7,0,0
+ORD10883,U1193,R524,Pasta Alfredo,Extra Chutney,1,3,Junk,Vegan,Veg,4.9,19,93.0,1027.0,4.9,0,0
+ORD10884,U1046,R536,Pasta Alfredo,Garlic Bread,1,3,Junk,Veg,Non-Veg,7.1,10,98.0,1420.0,3.4,1,0
+ORD10885,U1220,R533,Paneer Butter Masala,Garlic Bread,1,6,Balanced,Veg,Vegan,8.1,23,193.0,1113.0,4.7,0,0
+ORD10886,U1049,R538,Chicken Biryani,Chocolate Brownie,1,0,Healthy,Non-Veg,Non-Veg,12.8,8,201.0,1225.0,3.5,0,0
+ORD10887,U1097,R524,Sushi Platter,Extra Chutney,0,4,Junk,Non-Veg,Non-Veg,14.0,0,73.0,1371.0,4.9,1,0
+ORD10888,U1016,R504,Beef Burger,Green Tea,1,1,Balanced,Veg,Veg,14.0,21,244.0,1061.0,4.2,0,1
+ORD10889,U1248,R501,Chicken Biryani,Filter Coffee,0,4,Balanced,Vegan,Non-Veg,0.6,19,39.0,542.0,3.0,0,0
+ORD10890,U1350,R522,Oatmeal Bowl,Extra Chutney,1,1,Junk,Non-Veg,Non-Veg,13.9,20,36.0,1324.0,3.1,0,0
+ORD10891,U1372,R534,Oatmeal Bowl,Filter Coffee,1,1,Junk,Veg,Vegan,1.3,8,157.0,1159.0,3.3,0,0
+ORD10892,U1481,R519,Chicken Biryani,Butter Naan,0,3,Balanced,Veg,Veg,4.4,21,186.0,723.0,3.4,1,0
+ORD10893,U1027,R512,Paneer Butter Masala,Extra Chutney,0,2,Junk,Veg,Non-Veg,8.0,8,241.0,1109.0,4.5,0,0
+ORD10894,U1333,R516,Beef Burger,Filter Coffee,1,0,Junk,Non-Veg,Non-Veg,7.5,9,113.0,1321.0,,0,0
+ORD10895,U1481,R522,Beef Burger,Green Tea,1,2,Healthy,Veg,Vegan,9.3,21,26.0,1467.0,4.9,0,0
+ORD10896,U1368,R521,Sushi Platter,Mint Raita,0,3,,Vegan,Non-Veg,7.5,10,159.0,1436.0,4.3,1,0
+ORD10897,U1179,R507,Beef Burger,French Fries,1,3,Junk,Veg,Non-Veg,14.0,8,87.0,589.0,4.4,1,0
+ORD10898,U1293,R548,Oatmeal Bowl,French Fries,1,2,Balanced,Non-Veg,Non-Veg,4.0,22,120.0,719.0,3.4,0,0
+ORD10899,U1197,R540,Masala Dosa,Green Tea,1,10,Healthy,Vegan,Non-Veg,4.5,20,132.0,298.0,4.8,1,0
+ORD10900,U1337,R545,Paneer Butter Masala,Chocolate Brownie,1,4,Balanced,Vegan,Non-Veg,13.9,15,35.0,484.0,4.3,0,0
+ORD10901,U1104,R546,Beef Burger,Mint Raita,1,2,Balanced,Veg,Vegan,1.6,21,132.0,1341.0,4.7,0,1
+ORD10902,U1003,R543,Sushi Platter,Butter Naan,0,2,Balanced,Veg,Non-Veg,9.3,1,118.0,637.0,4.9,1,0
+ORD10903,U1147,R516,Oatmeal Bowl,Green Tea,1,3,Healthy,Vegan,Non-Veg,10.4,21,184.0,988.0,3.3,0,0
+ORD10904,U1437,R519,Masala Dosa,French Fries,1,3,Healthy,Veg,Non-Veg,7.8,1,169.0,1049.0,3.2,0,0
+ORD10905,U1093,R520,Margherita Pizza,French Fries,0,3,Balanced,Non-Veg,Non-Veg,10.6,20,63.0,1205.0,4.6,0,0
+ORD10906,U1351,R537,Margherita Pizza,French Fries,0,0,Balanced,Vegan,Veg,3.0,7,67.0,397.0,4.7,0,0
+ORD10907,U1047,R542,Masala Dosa,Miso Soup,0,0,Healthy,Veg,Veg,12.9,0,78.0,561.0,4.2,0,0
+ORD10908,U1446,R503,Oatmeal Bowl,Green Tea,1,4,Junk,Vegan,Veg,2.5,10,61.0,755.0,3.7,0,0
+ORD10909,U1025,R543,Sushi Platter,Garlic Bread,1,2,Healthy,Veg,Veg,6.3,20,171.0,643.0,4.3,0,0
+ORD10910,U1361,R508,Masala Dosa,Butter Naan,1,4,Balanced,Veg,Vegan,1.6,0,249.0,1477.0,3.6,0,1
+ORD10911,U1406,R537,Paneer Butter Masala,French Fries,1,2,Junk,Non-Veg,Veg,8.4,2,170.0,1277.0,3.5,0,0
+ORD10912,U1128,R502,Paneer Butter Masala,Filter Coffee,1,1,Junk,Veg,Vegan,10.2,14,160.0,798.0,4.0,0,0
+ORD10913,U1191,R509,Margherita Pizza,Green Tea,0,2,Junk,Veg,Veg,14.1,10,114.0,1337.0,3.4,1,0
+ORD10914,U1173,R516,Beef Burger,Miso Soup,0,2,Healthy,Veg,Vegan,11.2,15,92.0,619.0,4.0,0,0
+ORD10915,U1432,R510,Sushi Platter,Green Tea,1,4,Healthy,Non-Veg,Veg,8.3,19,230.0,1211.0,4.9,1,0
+ORD10916,U1204,R510,Margherita Pizza,Butter Naan,0,2,Healthy,Veg,Non-Veg,14.0,19,243.0,452.0,4.7,1,0
+ORD10917,U1412,R549,Beef Burger,Miso Soup,1,3,Healthy,Veg,Veg,7.4,9,134.0,1193.0,4.9,0,0
+ORD10918,U1040,R548,Beef Burger,Butter Naan,1,0,Balanced,Veg,Veg,8.6,22,87.0,766.0,4.6,0,0
+ORD10919,U1235,R518,Pasta Alfredo,Green Tea,0,2,Junk,Vegan,Veg,9.1,22,197.0,295.0,3.7,0,0
+ORD10920,U1381,R538,Paneer Butter Masala,Garlic Bread,1,1,,Non-Veg,Non-Veg,6.4,10,50.0,519.0,4.6,0,0
+ORD10921,U1294,R545,Oatmeal Bowl,Butter Naan,1,5,Healthy,Vegan,Vegan,,8,196.0,13233.999903762186,4.8,0,0
+ORD10922,U1040,R530,Chicken Biryani,Miso Soup,1,4,Healthy,Non-Veg,Vegan,3.2,23,208.0,1162.0,4.9,0,0
+ORD10923,U1474,R515,Oatmeal Bowl,Miso Soup,0,6,Balanced,Non-Veg,Non-Veg,8.5,12,49.0,249.0,4.4,0,0
+ORD10924,U1069,R536,Chicken Biryani,Butter Naan,1,3,Junk,Vegan,Veg,11.0,9,245.0,1040.0,3.4,1,0
+ORD10925,U1215,R533,Masala Dosa,Healthy Quinoa Salad,0,11,Junk,Non-Veg,Veg,13.6,19,247.0,1117.0,3.1,1,0
+ORD10926,U1447,R524,Paneer Butter Masala,Green Tea,1,1,Healthy,Non-Veg,Veg,13.3,7,235.0,1033.0,3.3,0,0
+ORD10927,U1458,R501,Beef Burger,Healthy Quinoa Salad,0,1,Healthy,Vegan,Vegan,7.9,21,134.0,1177.0,4.9,0,0
+ORD10928,U1435,R535,Sushi Platter,Chocolate Brownie,1,2,Healthy,Veg,Vegan,9.8,15,77.0,391.0,,0,0
+ORD10929,U1216,R532,Chicken Biryani,Green Tea,1,4,Healthy,Non-Veg,Non-Veg,6.2,0,154.0,943.0,4.7,0,0
+ORD10930,U1142,R501,Oatmeal Bowl,Butter Naan,1,2,Junk,Vegan,Non-Veg,7.3,1,117.0,1421.0,3.9,1,1
+ORD10931,U1347,R548,Beef Burger,Mint Raita,0,2,Balanced,Non-Veg,Vegan,13.6,19,67.0,975.0,4.3,1,0
+ORD10932,U1066,R512,Chicken Biryani,Butter Naan,0,2,Junk,Vegan,Veg,14.0,9,117.0,975.0,3.0,0,0
+ORD10933,U1458,R502,Chicken Biryani,Healthy Quinoa Salad,0,3,Balanced,Veg,Veg,13.5,7,173.0,1144.0,,0,0
+ORD10934,U1409,R535,Pasta Alfredo,Garlic Bread,0,1,Healthy,Non-Veg,Veg,2.5,2,36.0,600.0,3.9,0,0
+ORD10935,U1176,R511,Chicken Biryani,Butter Naan,0,0,Healthy,Veg,Veg,12.8,10,97.0,1096.0,4.3,1,0
+ORD10936,U1091,R529,Sushi Platter,Butter Naan,1,1,Balanced,Veg,Non-Veg,14.3,10,24.0,1387.0,3.3,0,0
+ORD10937,U1315,R539,Paneer Butter Masala,Garlic Bread,0,3,Healthy,Vegan,Non-Veg,5.7,23,192.0,165.0,4.5,0,0
+ORD10938,U1026,R529,Sushi Platter,Butter Naan,0,7,Junk,Non-Veg,Vegan,8.0,1,167.0,1325.0,3.7,1,0
+ORD10939,U1398,R501,Margherita Pizza,French Fries,1,4,Healthy,Non-Veg,Non-Veg,11.8,12,34.0,445.0,4.6,1,0
+ORD10940,U1061,R509,Beef Burger,Mint Raita,0,6,Healthy,Non-Veg,Veg,8.7,22,242.0,765.0,3.2,1,1
+ORD10941,U1361,R521,Paneer Butter Masala,Filter Coffee,0,5,Healthy,Non-Veg,Vegan,14.9,22,25.0,1301.0,4.4,0,0
+ORD10942,U1403,R526,Pasta Alfredo,Mint Raita,0,2,Healthy,Non-Veg,Non-Veg,7.1,15,156.0,1262.0,3.6,0,0
+ORD10943,U1263,R532,Paneer Butter Masala,Butter Naan,1,3,Junk,Vegan,Non-Veg,10.9,23,199.0,1354.0,4.6,0,0
+ORD10944,U1086,R509,Paneer Butter Masala,French Fries,0,5,Balanced,Non-Veg,Non-Veg,12.0,0,201.0,1420.0,3.8,1,1
+ORD10945,U1239,R541,Oatmeal Bowl,Green Tea,1,5,Healthy,Veg,Non-Veg,7.7,15,28.0,754.0,4.3,1,0
+ORD10946,U1200,R546,Paneer Butter Masala,Butter Naan,1,3,Healthy,Veg,Non-Veg,12.9,14,228.0,1036.0,4.9,1,0
+ORD10947,U1113,R532,Pasta Alfredo,Healthy Quinoa Salad,0,4,Junk,Non-Veg,Veg,8.4,10,231.0,677.0,3.0,0,1
+ORD10948,U1329,R503,Sushi Platter,French Fries,1,3,Junk,Vegan,Veg,6.5,23,149.0,623.0,3.0,1,1
+ORD10949,U1324,R511,Paneer Butter Masala,Garlic Bread,0,0,Junk,Vegan,Veg,2.1,14,131.0,733.0,,0,0
+ORD10950,U1429,R527,Masala Dosa,French Fries,0,7,Healthy,Non-Veg,Non-Veg,6.2,19,30.0,1153.0,4.3,0,0
+ORD10951,U1164,R533,Beef Burger,Garlic Bread,1,2,Balanced,Veg,Vegan,,0,149.0,827.0,3.6,0,0
+ORD10952,U1385,R540,Paneer Butter Masala,Chocolate Brownie,1,5,Junk,Non-Veg,Veg,13.9,20,114.0,1249.0,4.0,0,0
+ORD10953,U1149,R521,Beef Burger,Filter Coffee,1,1,Junk,Non-Veg,Veg,4.1,19,198.0,1156.0,3.1,0,0
+ORD10954,U1238,R516,Masala Dosa,Extra Chutney,0,1,Junk,Non-Veg,Non-Veg,5.7,22,113.0,178.0,3.4,1,0
+ORD10955,U1050,R540,Masala Dosa,French Fries,1,1,Balanced,Vegan,Vegan,179.19345100478844,21,177.0,1001.0,3.8,1,0
+ORD10956,U1456,R520,Beef Burger,Miso Soup,1,3,Healthy,Vegan,Veg,10.5,2,43.0,739.0,4.7,0,0
+ORD10957,U1056,R525,Chicken Biryani,Healthy Quinoa Salad,0,3,Healthy,Veg,Veg,14.4,23,51.0,766.0,4.0,0,0
+ORD10958,U1066,R544,Margherita Pizza,Butter Naan,0,1,Healthy,Veg,Vegan,9.8,23,52.0,1255.0,4.2,0,0
+ORD10959,U1149,R514,Oatmeal Bowl,Healthy Quinoa Salad,0,3,Junk,Non-Veg,Non-Veg,9.4,2,30.0,889.0,4.7,0,0
+ORD10960,U1283,R519,Chicken Biryani,Mint Raita,0,3,Healthy,Veg,Vegan,8.5,14,145.0,1346.0,3.6,0,0
+ORD10961,U1171,R502,Chicken Biryani,Extra Chutney,1,7,Junk,Non-Veg,Non-Veg,1.8,21,203.0,1112.0,4.4,1,0
+ORD10962,U1440,R509,Sushi Platter,Mint Raita,1,4,Balanced,Veg,Veg,11.1,1,160.0,896.0,4.7,0,0
+ORD10963,U1257,R520,Oatmeal Bowl,Chocolate Brownie,1,3,Balanced,Non-Veg,Vegan,9.2,21,152.0,1169.0,3.4,1,1
+ORD10964,U1429,R542,Oatmeal Bowl,Extra Chutney,0,3,Healthy,Vegan,Vegan,10.1,14,177.0,202.0,3.7,1,1
+ORD10965,U1337,R531,Chicken Biryani,Extra Chutney,1,1,Junk,Non-Veg,Veg,13.5,20,98.0,187.0,5.0,0,0
+ORD10966,U1045,R517,Paneer Butter Masala,Mint Raita,0,5,Junk,Vegan,Veg,11.9,8,103.0,263.0,5.0,0,0
+ORD10967,U1023,R544,Sushi Platter,Garlic Bread,0,2,Healthy,Vegan,Non-Veg,11.8,7,92.0,741.0,,1,0
+ORD10968,U1063,R538,Sushi Platter,Mint Raita,0,2,Balanced,Veg,Veg,13.9,20,184.0,468.0,3.1,0,0
+ORD10969,U1333,R541,Masala Dosa,Healthy Quinoa Salad,0,2,Balanced,Veg,Veg,14.9,9,57.0,1479.0,3.5,1,0
+ORD10970,U1387,R544,Pasta Alfredo,Garlic Bread,1,5,Balanced,Vegan,Vegan,8.9,1,23.0,882.0,3.8,1,0
+ORD10971,U1330,R527,Oatmeal Bowl,Healthy Quinoa Salad,1,2,Balanced,Non-Veg,Non-Veg,2.1,21,157.0,1044.0,3.9,0,0
+ORD10972,U1110,R527,Chicken Biryani,Chocolate Brownie,1,1,Balanced,Non-Veg,Veg,7.2,7,237.0,526.0,4.2,1,0
+ORD10973,U1382,R534,Masala Dosa,Butter Naan,0,7,Healthy,Veg,Vegan,11.9,19,160.0,584.0,4.8,0,1
+ORD10974,U1251,R513,Beef Burger,Green Tea,0,6,Healthy,Non-Veg,Veg,0.9,10,200.0,603.0,3.7,1,0
+ORD10975,U1321,R550,Margherita Pizza,Garlic Bread,0,2,Healthy,Non-Veg,Veg,1.3,0,175.0,1093.0,4.7,0,1
+ORD10976,U1160,R546,Pasta Alfredo,Chocolate Brownie,1,2,Balanced,Non-Veg,Veg,1.5,20,134.0,790.0,,1,0
+ORD10977,U1185,R546,Pasta Alfredo,Miso Soup,1,3,Balanced,Vegan,Veg,11.1,15,185.0,849.0,,0,0
+ORD10978,U1211,R521,Pasta Alfredo,Chocolate Brownie,1,4,Healthy,Vegan,Non-Veg,7.8,2,210.0,949.0,4.0,1,0
+ORD10979,U1082,R523,Sushi Platter,Mint Raita,0,2,Healthy,Non-Veg,Vegan,5.8,0,72.0,1188.0,3.1,0,0
+ORD10980,U1315,R510,Beef Burger,Mint Raita,1,2,Balanced,Veg,Vegan,2.0,1,97.0,272.0,3.8,0,1
+ORD10981,U1051,R528,Pasta Alfredo,Green Tea,1,2,Junk,Non-Veg,Veg,11.1,13,71.0,1199.0,4.8,0,1
+ORD10982,U1335,R542,Beef Burger,Chocolate Brownie,1,4,Healthy,Veg,Vegan,5.2,14,124.0,910.0,3.5,1,0
+ORD10983,U1070,R512,Paneer Butter Masala,Filter Coffee,1,5,Balanced,Vegan,Veg,4.3,23,224.0,1053.0,4.4,0,0
+ORD10984,U1164,R531,Pasta Alfredo,Butter Naan,1,3,Balanced,Non-Veg,Vegan,10.0,8,99.0,592.0,3.6,0,0
+ORD10985,U1498,R513,Margherita Pizza,Mint Raita,1,3,Healthy,Non-Veg,Non-Veg,8.6,20,106.0,703.0,3.1,1,0
+ORD10986,U1164,R506,Beef Burger,Green Tea,0,2,Junk,Veg,Non-Veg,5.8,7,218.0,20106.245865298122,4.1,1,0
+ORD10987,U1493,R546,Beef Burger,Butter Naan,1,5,Balanced,Veg,Vegan,9.8,19,139.0,1472.0,4.7,0,0
+ORD10988,U1351,R515,Margherita Pizza,Chocolate Brownie,0,2,,Non-Veg,Veg,4.4,7,143.0,821.0,3.8,1,1
+ORD10989,U1432,R548,Pasta Alfredo,Chocolate Brownie,1,3,Balanced,Non-Veg,Veg,12.0,12,218.0,1495.0,4.2,0,0
+ORD10990,U1410,R536,Margherita Pizza,Extra Chutney,1,3,Balanced,Veg,Veg,3.8,19,133.0,811.0,4.8,1,0
+ORD10991,U1185,R504,Beef Burger,Green Tea,1,2,Balanced,Vegan,Veg,2.8,2,177.0,447.0,4.6,1,1
+ORD10992,U1223,R511,Margherita Pizza,Mint Raita,1,1,Balanced,Veg,Non-Veg,11.8,22,40.0,835.0,3.4,0,0
+ORD10993,U1273,R550,Beef Burger,Filter Coffee,1,1,Junk,Non-Veg,Veg,10.8,19,61.0,203.0,4.5,0,0
+ORD10994,U1385,R509,Beef Burger,Chocolate Brownie,1,4,Healthy,Vegan,Veg,,23,113.0,1371.0,4.0,0,0
+ORD10995,U1366,R523,Paneer Butter Masala,Filter Coffee,1,1,Healthy,Vegan,Veg,2.2,19,134.0,1255.0,4.5,0,0
+ORD10996,U1095,R521,Chicken Biryani,Chocolate Brownie,1,3,Healthy,Vegan,Veg,12.7,7,242.0,1130.0,4.0,1,1
+ORD10997,U1388,R506,Beef Burger,Mint Raita,1,2,Healthy,Vegan,Non-Veg,11.8,1,243.0,973.0,3.3,0,1
+ORD10998,U1071,R518,Pasta Alfredo,Butter Naan,1,1,,Non-Veg,Vegan,5.2,9,216.0,933.0,4.1,1,0
+ORD10999,U1446,R501,Masala Dosa,French Fries,1,6,Junk,Vegan,Vegan,10.0,19,93.0,1496.0,4.0,0,0
+ORD11000,U1072,R506,Sushi Platter,Butter Naan,1,2,Balanced,Veg,Veg,2.3,23,242.0,525.0,4.0,1,0
+ORD11001,U1205,R547,Oatmeal Bowl,Chocolate Brownie,1,4,Balanced,Veg,Veg,7.9,13,179.0,1203.0,4.8,1,0
+ORD11002,U1066,R537,Chicken Biryani,Healthy Quinoa Salad,1,4,Healthy,Veg,Vegan,0.8,19,110.0,935.0,4.8,1,1
+ORD11003,U1128,R509,Chicken Biryani,French Fries,0,7,Balanced,Non-Veg,Non-Veg,6.2,7,181.0,1467.0,3.9,0,1
+ORD11004,U1234,R504,Chicken Biryani,French Fries,0,2,Balanced,Vegan,Non-Veg,1.6,15,24.0,1268.0,3.9,0,0
+ORD11005,U1023,R533,Paneer Butter Masala,Filter Coffee,1,8,Balanced,Veg,Non-Veg,7.4,9,54.0,1498.0,4.0,0,0
+ORD11006,U1407,R525,Beef Burger,Green Tea,0,3,Healthy,Veg,Non-Veg,6.6,7,211.0,944.0,4.0,0,0
+ORD11007,U1210,R500,Paneer Butter Masala,Filter Coffee,1,4,Healthy,Veg,Non-Veg,,21,168.0,426.0,4.9,0,0
+ORD11008,U1480,R547,Beef Burger,Filter Coffee,1,4,Junk,Vegan,Non-Veg,1.2,1,104.0,830.0,4.3,1,0
+ORD11009,U1373,R549,Pasta Alfredo,Healthy Quinoa Salad,1,5,Healthy,Veg,Non-Veg,5.7,20,135.0,1110.0,3.6,0,1
+ORD11010,U1288,R536,Paneer Butter Masala,Butter Naan,1,1,Junk,Vegan,Non-Veg,11.5,21,228.0,1195.0,4.1,0,0
+ORD11011,U1285,R504,Paneer Butter Masala,Butter Naan,1,3,Healthy,Vegan,Non-Veg,5.8,9,165.0,151.0,,0,1
+ORD11012,U1002,R541,Sushi Platter,Miso Soup,1,2,Balanced,Vegan,Veg,10.9,19,112.0,832.0,4.3,0,0
+ORD11013,U1124,R530,Masala Dosa,Chocolate Brownie,1,1,Junk,Non-Veg,Non-Veg,5.9,10,48.0,468.0,4.2,0,0
+ORD11014,U1143,R535,Paneer Butter Masala,Healthy Quinoa Salad,0,2,Junk,Non-Veg,Veg,6.6,7,88.0,1331.0,3.4,1,0
+ORD11015,U1042,R548,Sushi Platter,Miso Soup,1,3,Junk,Vegan,Vegan,8.7,19,245.0,356.0,3.1,0,1
+ORD11016,U1193,R545,Margherita Pizza,Mint Raita,0,7,,Vegan,Veg,14.3,15,121.0,1050.0,3.7,1,0
+ORD11017,U1431,R538,Masala Dosa,Chocolate Brownie,1,4,Junk,Non-Veg,Vegan,2.1,10,129.0,509.0,3.9,0,0
+ORD11018,U1254,R545,Pasta Alfredo,Chocolate Brownie,1,1,Healthy,Non-Veg,Veg,1.0,20,135.0,631.0,3.1,1,0
+ORD11019,U1093,R544,Paneer Butter Masala,Extra Chutney,0,1,Junk,Vegan,Vegan,9.3,15,223.0,1420.0,4.6,0,0
+ORD11020,U1371,R501,Oatmeal Bowl,Extra Chutney,1,1,Healthy,Non-Veg,Veg,14.3,12,159.0,475.0,,1,1
+ORD11021,U1038,R508,Chicken Biryani,Garlic Bread,1,4,Junk,Veg,Veg,14.9,15,180.0,278.0,4.8,0,0
+ORD11022,U1119,R500,Margherita Pizza,Garlic Bread,0,6,Balanced,Vegan,Vegan,7.5,2,110.0,244.0,3.3,0,1
+ORD11023,U1199,R509,Margherita Pizza,Filter Coffee,1,6,Balanced,Vegan,Non-Veg,7.3,22,27.0,831.0,3.1,0,0
+ORD11024,U1011,R519,Pasta Alfredo,Mint Raita,0,0,Junk,Non-Veg,Non-Veg,9.9,1,234.0,1016.0,4.0,1,0
+ORD11025,U1418,R514,Sushi Platter,French Fries,0,8,Healthy,Veg,Non-Veg,8.6,8,238.0,592.0,3.4,1,0
+ORD11026,U1021,R514,Margherita Pizza,French Fries,1,3,Healthy,Non-Veg,Non-Veg,9.7,1,238.0,1082.0,4.9,0,1
+ORD11027,U1338,R517,Masala Dosa,Extra Chutney,1,4,Healthy,Veg,Non-Veg,13.2,14,237.0,232.0,3.0,0,0
+ORD11028,U1321,R531,Paneer Butter Masala,Extra Chutney,1,2,Balanced,Veg,Veg,11.3,8,208.0,1307.0,3.8,0,0
+ORD11029,U1310,R526,Paneer Butter Masala,Extra Chutney,1,2,Balanced,Vegan,Non-Veg,7.7,14,177.0,1252.0,4.9,0,0
+ORD11030,U1457,R516,Oatmeal Bowl,Healthy Quinoa Salad,1,2,Balanced,Veg,Veg,7.2,22,214.0,1480.0,3.8,0,0
+ORD11031,U1284,R503,Pasta Alfredo,Green Tea,1,0,Healthy,Vegan,Vegan,9.8,20,158.0,1414.0,3.2,0,0
+ORD11032,U1052,R542,Chicken Biryani,Garlic Bread,0,6,Healthy,Veg,Non-Veg,7.1,9,51.0,631.0,3.6,1,0
+ORD11033,U1294,R513,Sushi Platter,Healthy Quinoa Salad,0,4,Healthy,Vegan,Non-Veg,,12,110.0,689.0,4.0,1,1
+ORD11034,U1222,R521,Chicken Biryani,Butter Naan,0,3,Junk,Veg,Non-Veg,0.7,9,243.0,1157.0,3.4,0,0
+ORD11035,U1128,R546,Margherita Pizza,French Fries,0,3,Junk,Non-Veg,Non-Veg,3.0,7,101.0,331.0,3.9,0,0
+ORD11036,U1217,R510,Pasta Alfredo,Chocolate Brownie,1,1,,Veg,Veg,7.6,2,220.0,574.0,4.7,0,1
+ORD11037,U1219,R528,Oatmeal Bowl,Garlic Bread,0,5,Balanced,Non-Veg,Veg,145.85702093996656,23,41.0,310.0,4.7,0,0
+ORD11038,U1286,R521,Chicken Biryani,Miso Soup,0,3,Balanced,Veg,Veg,4.5,21,97.0,764.0,3.1,0,0
+ORD11039,U1258,R527,Masala Dosa,Butter Naan,0,4,Healthy,Veg,Vegan,8.1,21,101.0,895.0,3.3,0,1
+ORD11040,U1314,R544,Paneer Butter Masala,Garlic Bread,1,2,Junk,Vegan,Veg,5.5,1,32.0,435.0,3.6,1,1
+ORD11041,U1347,R541,Margherita Pizza,Healthy Quinoa Salad,1,0,Healthy,Veg,Non-Veg,,20,47.0,186.0,4.2,1,0
+ORD11042,U1230,R526,Oatmeal Bowl,Mint Raita,1,1,Junk,Veg,Vegan,14.4,0,64.0,1121.0,,0,0
+ORD11043,U1249,R510,Chicken Biryani,Chocolate Brownie,1,1,Junk,Veg,Vegan,12.9,1,213.0,177.0,4.7,0,0
+ORD11044,U1135,R514,Sushi Platter,Garlic Bread,1,4,Healthy,Non-Veg,Non-Veg,1.6,1,35.0,1464.0,4.4,1,1
+ORD11045,U1015,R547,Masala Dosa,Green Tea,1,0,Healthy,Vegan,Non-Veg,10.9,22,89.0,449.0,3.2,1,0
+ORD11046,U1316,R522,Masala Dosa,Extra Chutney,0,2,Junk,Vegan,Non-Veg,5.5,8,22.0,1046.0,4.2,0,0
+ORD11047,U1037,R500,Chicken Biryani,Extra Chutney,1,3,Junk,Veg,Non-Veg,14.9,13,180.0,737.0,3.2,1,0
+ORD11048,U1216,R505,Paneer Butter Masala,Chocolate Brownie,1,3,Balanced,Veg,Veg,4.9,0,163.0,231.0,3.5,0,0
+ORD11049,U1096,R519,Chicken Biryani,Healthy Quinoa Salad,1,3,Healthy,Non-Veg,Vegan,,7,168.0,787.0,3.4,0,0
+ORD11050,U1400,R506,Margherita Pizza,Extra Chutney,1,1,Healthy,Veg,Non-Veg,8.7,14,106.0,848.0,3.3,0,0
+ORD11051,U1267,R534,Chicken Biryani,Garlic Bread,1,2,Healthy,Vegan,Veg,12.6,10,68.0,1304.0,,1,0
+ORD11052,U1359,R535,Masala Dosa,Miso Soup,1,3,Healthy,Vegan,Non-Veg,3.3,15,186.0,1139.0,4.1,0,1
+ORD11053,U1342,R537,Oatmeal Bowl,French Fries,1,4,Junk,Non-Veg,Veg,10.8,21,207.0,257.0,3.4,0,0
+ORD11054,U1480,R511,Chicken Biryani,French Fries,0,4,Balanced,Non-Veg,Non-Veg,1.4,14,52.0,432.0,5.0,1,0
+ORD11055,U1402,R517,Paneer Butter Masala,Butter Naan,1,1,Healthy,Vegan,Non-Veg,13.8,2,132.0,571.0,3.8,1,1
+ORD11056,U1235,R544,Pasta Alfredo,Filter Coffee,1,0,Junk,Non-Veg,Non-Veg,1.7,12,77.0,307.0,3.2,1,0
+ORD11057,U1475,R512,Oatmeal Bowl,Mint Raita,1,3,Junk,Veg,Veg,13.8,2,59.0,767.0,3.2,0,0
+ORD11058,U1026,R545,Sushi Platter,Chocolate Brownie,1,4,Junk,Veg,Non-Veg,7.6,23,189.0,1479.0,4.2,1,1
+ORD11059,U1166,R504,Beef Burger,Butter Naan,0,0,Junk,Non-Veg,Veg,7.0,12,144.0,845.0,5.0,0,0
+ORD11060,U1377,R520,Chicken Biryani,Filter Coffee,1,1,Junk,Vegan,Veg,14.6,20,70.0,1152.0,4.1,0,1
+ORD11061,U1171,R519,Paneer Butter Masala,Healthy Quinoa Salad,0,4,Healthy,Non-Veg,Vegan,14.9,1,91.0,1072.0,4.9,0,0
+ORD11062,U1417,R517,Oatmeal Bowl,Green Tea,1,2,Healthy,Vegan,Veg,9.9,8,242.0,1297.0,3.9,0,0
+ORD11063,U1092,R531,Paneer Butter Masala,Green Tea,1,5,Balanced,Non-Veg,Veg,2.3,7,215.0,441.0,3.9,0,0
+ORD11064,U1370,R549,Sushi Platter,Mint Raita,1,5,Healthy,Non-Veg,Veg,7.8,15,222.0,1168.0,4.0,1,0
+ORD11065,U1307,R505,Masala Dosa,Extra Chutney,0,4,Junk,Non-Veg,Veg,8.2,13,126.0,1340.0,4.4,0,1
+ORD11066,U1484,R522,Paneer Butter Masala,Garlic Bread,1,2,Balanced,Veg,Veg,8.0,2,163.0,382.0,3.7,0,0
+ORD11067,U1366,R521,Oatmeal Bowl,Butter Naan,0,5,Junk,Veg,Vegan,8.8,19,107.0,618.0,4.7,0,0
+ORD11068,U1310,R539,Paneer Butter Masala,Butter Naan,1,6,Junk,Vegan,Non-Veg,0.8,15,38.0,1460.0,3.1,0,0
+ORD11069,U1326,R524,Paneer Butter Masala,Chocolate Brownie,1,1,Healthy,Non-Veg,Vegan,10.8,8,112.0,1204.0,3.9,0,0
+ORD11070,U1078,R532,Paneer Butter Masala,Chocolate Brownie,1,2,Junk,Veg,Vegan,10.8,23,157.0,531.0,4.0,1,0
+ORD11071,U1430,R542,Margherita Pizza,Green Tea,1,2,Healthy,Non-Veg,Non-Veg,2.2,14,86.0,911.0,,1,0
+ORD11072,U1494,R537,Margherita Pizza,Green Tea,1,2,Junk,Vegan,Veg,8.8,13,215.0,696.0,3.6,1,1
+ORD11073,U1375,R530,Masala Dosa,Miso Soup,0,3,Balanced,Veg,Non-Veg,8.7,20,55.0,811.0,3.9,0,0
+ORD11074,U1077,R533,Chicken Biryani,Miso Soup,0,1,Junk,Vegan,Veg,10.4,9,104.0,629.0,4.0,0,0
+ORD11075,U1121,R510,Paneer Butter Masala,Extra Chutney,1,4,Healthy,Veg,Non-Veg,1.7,23,49.0,527.0,4.4,0,0
+ORD11076,U1114,R519,Sushi Platter,Miso Soup,1,2,Junk,Non-Veg,Vegan,9.6,1,113.0,1061.0,4.5,1,1
+ORD11077,U1322,R539,Chicken Biryani,Garlic Bread,1,0,Healthy,Vegan,Veg,4.6,0,29.0,1201.0,4.5,0,0
+ORD11078,U1378,R521,Sushi Platter,Garlic Bread,0,1,Healthy,Veg,Vegan,7.9,19,83.0,1330.0,3.7,0,0
+ORD11079,U1026,R548,Chicken Biryani,Butter Naan,1,5,Balanced,Veg,Veg,11.7,15,112.0,360.0,,0,0
+ORD11080,U1409,R508,Masala Dosa,French Fries,1,5,Healthy,Non-Veg,Non-Veg,10.7,0,130.0,1261.0,4.7,0,0
+ORD11081,U1495,R532,Paneer Butter Masala,Garlic Bread,1,3,Balanced,Vegan,Non-Veg,2.2,10,145.0,494.0,3.5,0,0
+ORD11082,U1146,R523,Paneer Butter Masala,Filter Coffee,0,2,Balanced,Vegan,Non-Veg,9.1,21,83.0,727.0,3.4,0,0
+ORD11083,U1400,R531,Beef Burger,Green Tea,0,1,Junk,Vegan,Non-Veg,14.6,19,140.0,1367.0,3.6,1,0
+ORD11084,U1349,R511,Sushi Platter,Chocolate Brownie,1,2,Balanced,Non-Veg,Non-Veg,2.8,1,137.0,764.0,,1,0
+ORD11085,U1082,R520,Chicken Biryani,Miso Soup,1,3,Healthy,Veg,Vegan,12.9,10,93.0,416.0,4.7,0,0
+ORD11086,U1337,R510,Chicken Biryani,Butter Naan,0,3,Healthy,Veg,Vegan,10.7,0,211.0,366.0,4.6,0,0
+ORD11087,U1029,R506,Pasta Alfredo,Mint Raita,1,5,Balanced,Vegan,Veg,11.7,7,145.0,789.0,,1,0
+ORD11088,U1208,R530,Pasta Alfredo,Chocolate Brownie,1,3,Junk,Veg,Vegan,,14,96.0,1180.0,3.5,0,0
+ORD11089,U1117,R550,Margherita Pizza,Filter Coffee,1,2,Balanced,Vegan,Veg,4.7,22,238.0,1496.0,4.2,0,0
+ORD11090,U1462,R502,Beef Burger,Miso Soup,1,5,Balanced,Non-Veg,Veg,13.6,22,214.0,1213.0,3.6,1,0
+ORD11091,U1450,R506,Oatmeal Bowl,Filter Coffee,0,3,Healthy,Non-Veg,Vegan,5.7,20,246.0,1334.0,3.2,0,0
+ORD11092,U1187,R550,Pasta Alfredo,Green Tea,0,4,Junk,Non-Veg,Vegan,1.4,15,179.0,1160.0,4.4,0,0
+ORD11093,U1043,R532,Oatmeal Bowl,Green Tea,1,4,Junk,Vegan,Veg,9.2,7,107.0,1359.0,3.3,0,0
+ORD11094,U1034,R528,Margherita Pizza,Extra Chutney,1,4,Junk,Veg,Vegan,2.3,22,-50.0,253.0,4.3,0,0
+ORD11095,U1334,R521,Margherita Pizza,Butter Naan,0,5,Junk,Non-Veg,Vegan,12.1,8,173.0,1405.0,4.3,0,1
+ORD11096,U1342,R518,Margherita Pizza,Chocolate Brownie,0,4,Healthy,Vegan,Vegan,9.8,21,246.0,685.0,4.6,0,1
+ORD11097,U1288,R540,Sushi Platter,Healthy Quinoa Salad,1,4,Junk,Vegan,Non-Veg,13.2,23,164.0,1394.0,3.3,0,1
+ORD11098,U1195,R529,Sushi Platter,Healthy Quinoa Salad,0,0,Junk,Non-Veg,Non-Veg,11.9,21,223.0,252.0,4.6,0,0
+ORD11099,U1248,R515,Masala Dosa,Chocolate Brownie,0,4,Junk,Non-Veg,Veg,2.1,14,96.0,1116.0,5.0,0,0
+ORD11100,U1498,R538,Masala Dosa,Mint Raita,0,2,Healthy,Non-Veg,Vegan,6.0,22,114.0,1143.0,4.7,0,1
+ORD11101,U1307,R509,Margherita Pizza,Butter Naan,0,5,Healthy,Veg,Veg,11.7,22,228.0,1496.0,4.5,0,0
+ORD11102,U1438,R520,Beef Burger,Filter Coffee,1,5,Junk,Veg,Vegan,6.6,0,194.0,1188.0,4.3,0,0
+ORD11103,U1468,R534,Chicken Biryani,Mint Raita,1,2,Healthy,Vegan,Non-Veg,14.6,10,246.0,666.0,,0,0
+ORD11104,U1160,R515,Sushi Platter,French Fries,1,4,Balanced,Non-Veg,Vegan,11.2,15,198.0,902.0,4.5,0,0
+ORD11105,U1179,R542,Beef Burger,Chocolate Brownie,0,0,Junk,Non-Veg,Vegan,0.7,1,123.0,645.0,4.4,0,1
+ORD11106,U1175,R500,Paneer Butter Masala,Filter Coffee,0,2,Healthy,Veg,Vegan,13.3,19,142.0,415.0,4.3,0,0
+ORD11107,U1466,R514,Sushi Platter,Healthy Quinoa Salad,1,0,Junk,Non-Veg,Non-Veg,2.0,22,227.0,485.0,4.6,0,0
+ORD11108,U1482,R544,Sushi Platter,Garlic Bread,1,6,Junk,Vegan,Non-Veg,2.5,23,147.0,450.0,3.9,0,1
+ORD11109,U1300,R528,Masala Dosa,Extra Chutney,1,4,Healthy,Non-Veg,Non-Veg,11.2,15,79.0,891.0,3.2,1,0
+ORD11110,U1058,R538,Chicken Biryani,Healthy Quinoa Salad,0,5,Balanced,Veg,Veg,,22,120.0,1373.0,4.1,0,0
+ORD11111,U1011,R531,Chicken Biryani,Butter Naan,1,6,Junk,Vegan,Vegan,8.3,20,139.0,1382.0,3.5,0,0
+ORD11112,U1399,R548,Pasta Alfredo,Green Tea,0,5,Balanced,Vegan,Non-Veg,4.7,15,42.0,224.0,3.8,0,0
+ORD11113,U1233,R509,Oatmeal Bowl,Garlic Bread,1,5,Healthy,Non-Veg,Veg,5.6,20,191.0,258.0,3.0,1,0
+ORD11114,U1325,R509,Oatmeal Bowl,Extra Chutney,1,2,Junk,Vegan,Non-Veg,5.5,1,45.0,481.0,3.8,0,0
+ORD11115,U1234,R548,Oatmeal Bowl,Extra Chutney,1,3,Healthy,Non-Veg,Vegan,5.2,12,113.0,494.0,4.6,0,1
+ORD11116,U1010,R538,Oatmeal Bowl,French Fries,0,9,Healthy,Non-Veg,Veg,4.0,22,205.0,278.0,4.1,0,0
+ORD11117,U1338,R519,Paneer Butter Masala,French Fries,1,0,Healthy,Veg,Non-Veg,9.3,13,128.0,674.0,3.0,0,0
+ORD11118,U1303,R513,Paneer Butter Masala,Miso Soup,1,1,Healthy,Vegan,Non-Veg,13.6,9,214.0,943.0,3.9,1,0
+ORD11119,U1182,R503,Sushi Platter,Healthy Quinoa Salad,0,3,Junk,Non-Veg,Veg,5.0,15,99.0,931.0,3.6,1,0
+ORD11120,U1052,R537,Margherita Pizza,Healthy Quinoa Salad,0,6,Balanced,Non-Veg,Veg,3.2,0,240.0,884.0,4.0,0,0
+ORD11121,U1014,R533,Masala Dosa,Healthy Quinoa Salad,0,1,Balanced,Non-Veg,Veg,12.7,0,68.0,607.0,3.8,0,1
+ORD11122,U1328,R504,Masala Dosa,Miso Soup,1,5,Junk,Vegan,Veg,11.3,21,29.0,1104.0,4.9,1,0
+ORD11123,U1166,R547,Oatmeal Bowl,Mint Raita,0,3,Junk,Vegan,Veg,14.0,15,221.0,1266.0,3.1,0,0
+ORD11124,U1154,R512,Sushi Platter,Extra Chutney,1,5,Balanced,Vegan,Non-Veg,2.9,10,193.0,617.0,4.4,0,0
+ORD11125,U1293,R544,Pasta Alfredo,Garlic Bread,1,7,Balanced,Non-Veg,Veg,2.6,12,73.0,265.0,4.7,1,0
+ORD11126,U1412,R536,Beef Burger,Butter Naan,1,5,Junk,Vegan,Veg,8.4,2,246.0,550.0,4.9,0,0
+ORD11127,U1267,R502,Margherita Pizza,Extra Chutney,1,6,Healthy,Non-Veg,Vegan,9.4,13,136.0,335.0,3.4,1,0
+ORD11128,U1292,R512,Sushi Platter,French Fries,1,1,Junk,Vegan,Non-Veg,7.5,7,239.0,781.0,4.1,0,0
+ORD11129,U1334,R512,Margherita Pizza,Filter Coffee,0,2,Balanced,Vegan,Vegan,9.2,7,136.0,361.0,3.1,0,0
+ORD11130,U1050,R521,Margherita Pizza,Green Tea,0,1,Healthy,Non-Veg,Non-Veg,3.1,2,129.0,775.0,4.0,0,0
+ORD11131,U1231,R508,Margherita Pizza,Miso Soup,0,5,Balanced,Vegan,Non-Veg,7.5,12,123.0,448.0,3.3,1,0
+ORD11132,U1274,R514,Sushi Platter,Chocolate Brownie,1,2,Healthy,Non-Veg,Non-Veg,10.0,13,97.0,1147.0,4.7,0,0
+ORD11133,U1215,R517,Oatmeal Bowl,Filter Coffee,0,2,,Vegan,Veg,6.8,0,143.0,187.0,,0,0
+ORD11134,U1187,R514,Masala Dosa,Butter Naan,0,2,Healthy,Vegan,Vegan,10.4,1,124.0,899.0,4.0,1,0
+ORD11135,U1403,R537,Masala Dosa,Healthy Quinoa Salad,1,2,Junk,Vegan,Non-Veg,7.0,0,28.0,379.0,4.0,0,1
+ORD11136,U1184,R542,Oatmeal Bowl,French Fries,1,2,Junk,Vegan,Non-Veg,5.3,21,80.0,151.0,4.9,0,0
+ORD11137,U1009,R520,Margherita Pizza,French Fries,0,2,Healthy,Veg,Non-Veg,4.9,7,69.0,1323.0,4.3,0,0
+ORD11138,U1148,R519,Beef Burger,French Fries,0,6,Healthy,Non-Veg,Vegan,,14,220.0,1057.0,3.6,0,0
+ORD11139,U1029,R521,Chicken Biryani,Healthy Quinoa Salad,0,0,Junk,Veg,Non-Veg,0.8,10,158.0,284.0,3.5,0,0
+ORD11140,U1134,R504,Sushi Platter,Chocolate Brownie,1,1,Junk,Vegan,Vegan,10.2,21,196.0,1046.0,3.3,0,0
+ORD11141,U1095,R549,Chicken Biryani,Miso Soup,1,4,Healthy,Vegan,Vegan,12.8,10,240.0,976.0,4.5,1,1
+ORD11142,U1169,R545,Pasta Alfredo,Filter Coffee,0,6,Healthy,Non-Veg,Veg,5.6,19,168.0,789.0,4.4,0,0
+ORD11143,U1019,R540,Oatmeal Bowl,Healthy Quinoa Salad,0,3,Junk,Non-Veg,Non-Veg,1.2,9,246.0,716.0,4.2,1,0
+ORD11144,U1139,R535,Beef Burger,Butter Naan,0,3,Balanced,Non-Veg,Non-Veg,14.8,20,92.0,1348.0,3.1,0,0
+ORD11145,U1152,R531,Sushi Platter,Miso Soup,0,3,Junk,Non-Veg,Vegan,4.3,15,63.0,481.0,4.5,1,0
+ORD11146,U1120,R509,Oatmeal Bowl,Butter Naan,1,4,Healthy,Vegan,Vegan,2.3,23,113.0,688.0,,0,0
+ORD11147,U1422,R538,Margherita Pizza,Miso Soup,1,1,Healthy,Non-Veg,Veg,5.9,8,128.0,594.0,,0,0
+ORD11148,U1171,R504,Masala Dosa,Chocolate Brownie,1,4,Balanced,Veg,Non-Veg,11.2,15,226.0,1191.0,4.2,0,0
+ORD11149,U1460,R521,Chicken Biryani,Green Tea,1,4,Junk,Non-Veg,Vegan,4.8,7,149.0,1387.0,3.6,0,0
+ORD11150,U1477,R522,Paneer Butter Masala,Butter Naan,0,4,Healthy,Non-Veg,Non-Veg,8.8,19,87.0,1297.0,3.8,0,1
+ORD11151,U1447,R538,Paneer Butter Masala,Healthy Quinoa Salad,1,1,Junk,Veg,Non-Veg,6.5,20,191.0,1227.0,3.4,0,0
+ORD11152,U1143,R514,Beef Burger,Miso Soup,1,2,Healthy,Veg,Non-Veg,2.2,23,136.0,1482.0,4.4,0,0
+ORD11153,U1076,R517,Margherita Pizza,French Fries,0,1,Balanced,Veg,Vegan,5.3,21,57.0,1091.0,4.4,0,0
+ORD11154,U1485,R539,Pasta Alfredo,Extra Chutney,1,2,,Veg,Non-Veg,11.0,12,153.0,1164.0,3.4,0,0
+ORD11155,U1465,R544,Chicken Biryani,French Fries,0,2,Junk,Non-Veg,Vegan,9.4,10,230.0,1477.0,3.3,1,0
+ORD11156,U1253,R514,Margherita Pizza,Mint Raita,0,3,Balanced,Veg,Veg,2.2,15,214.0,159.0,3.2,1,0
+ORD11157,U1437,R502,Chicken Biryani,Green Tea,0,2,,Vegan,Veg,2.9,15,155.0,1006.0,4.8,0,0
+ORD11158,U1464,R530,Beef Burger,Green Tea,1,5,Healthy,Non-Veg,Vegan,9.8,14,107.0,1148.0,3.5,0,0
+ORD11159,U1057,R502,Beef Burger,French Fries,1,5,Junk,Vegan,Non-Veg,12.3,0,40.0,1389.0,3.7,0,0
+ORD11160,U1307,R518,Pasta Alfredo,Filter Coffee,1,3,Balanced,Non-Veg,Veg,5.6,9,128.0,1343.0,3.6,1,1
+ORD11161,U1394,R504,Paneer Butter Masala,Chocolate Brownie,1,5,Junk,Non-Veg,Veg,9.1,21,193.0,23235.047133289754,3.8,1,0
+ORD11162,U1181,R545,Margherita Pizza,Butter Naan,1,3,Junk,Vegan,Vegan,3.0,1,103.0,1427.0,4.4,0,0
+ORD11163,U1178,R534,Sushi Platter,Healthy Quinoa Salad,1,8,Healthy,Veg,Vegan,5.0,7,74.0,875.0,4.7,0,0
+ORD11164,U1419,R517,Paneer Butter Masala,Green Tea,0,8,Healthy,Veg,Vegan,0.8,8,234.0,159.0,3.4,0,0
+ORD11165,U1191,R522,Margherita Pizza,French Fries,1,4,Healthy,Vegan,Vegan,11.6,12,209.0,165.0,4.4,0,0
+ORD11166,U1208,R535,Paneer Butter Masala,French Fries,0,1,Healthy,Veg,Vegan,6.3,9,167.0,885.0,3.7,0,0
+ORD11167,U1229,R523,Sushi Platter,Chocolate Brownie,1,0,Healthy,Non-Veg,Vegan,12.3,15,51.0,738.0,5.0,0,0
+ORD11168,U1349,R545,Masala Dosa,Chocolate Brownie,1,3,Balanced,Non-Veg,Vegan,10.8,1,53.0,759.0,3.6,0,1
+ORD11169,U1444,R519,Masala Dosa,Garlic Bread,0,4,Junk,Non-Veg,Non-Veg,12.5,8,44.0,691.0,3.0,0,0
+ORD11170,U1140,R538,Pasta Alfredo,Garlic Bread,1,3,Balanced,Veg,Non-Veg,4.6,22,162.0,1389.0,,1,0
+ORD11171,U1237,R527,Masala Dosa,Filter Coffee,1,6,Junk,Veg,Non-Veg,,8,47.0,635.0,3.3,0,0
+ORD11172,U1337,R533,Masala Dosa,Filter Coffee,1,4,Healthy,Vegan,Non-Veg,14.6,9,214.0,1306.0,3.1,0,0
+ORD11173,U1293,R519,Oatmeal Bowl,Mint Raita,0,4,Balanced,Non-Veg,Veg,10.9,0,248.0,1369.0,4.4,0,1
+ORD11174,U1492,R529,Chicken Biryani,Filter Coffee,0,3,Junk,Vegan,Non-Veg,12.6,12,104.0,824.0,4.5,0,0
+ORD11175,U1340,R538,Oatmeal Bowl,Miso Soup,0,2,Healthy,Veg,Veg,0.7,2,124.0,753.0,3.9,1,0
+ORD11176,U1328,R523,Oatmeal Bowl,Chocolate Brownie,0,5,,Vegan,Veg,5.6,8,184.0,1177.0,4.4,0,1
+ORD11177,U1039,R545,Pasta Alfredo,Healthy Quinoa Salad,0,4,Balanced,Veg,Veg,11.3,10,236.0,1106.0,4.1,0,1
+ORD11178,U1012,R540,Oatmeal Bowl,Miso Soup,1,3,,Non-Veg,Vegan,1.6,2,226.0,594.0,4.3,0,0
+ORD11179,U1073,R512,Masala Dosa,Butter Naan,0,5,Balanced,Non-Veg,Veg,8.7,21,33.0,288.0,,0,1
+ORD11180,U1264,R522,Sushi Platter,French Fries,1,2,Healthy,Veg,Veg,6.7,14,59.0,508.0,,1,0
+ORD11181,U1029,R526,Pasta Alfredo,Filter Coffee,1,2,Junk,Veg,Veg,0.8,22,194.0,327.0,3.4,0,0
+ORD11182,U1106,R504,Pasta Alfredo,French Fries,1,2,Junk,Veg,Vegan,3.9,20,178.0,548.0,3.5,0,0
+ORD11183,U1396,R500,Beef Burger,Green Tea,1,3,Balanced,Non-Veg,Non-Veg,,22,51.0,503.0,3.9,0,0
+ORD11184,U1172,R545,Pasta Alfredo,Mint Raita,1,3,Junk,Veg,Non-Veg,2.1,9,135.0,1011.0,3.9,0,0
+ORD11185,U1261,R549,Beef Burger,Green Tea,1,3,Healthy,Non-Veg,Veg,9.7,8,200.0,1439.0,4.5,0,1
+ORD11186,U1174,R512,Pasta Alfredo,Mint Raita,0,0,Junk,Vegan,Veg,4.0,10,70.0,1076.0,3.7,0,0
+ORD11187,U1436,R529,Chicken Biryani,Garlic Bread,0,4,Healthy,Non-Veg,Non-Veg,4.5,14,220.0,1401.0,3.3,0,1
+ORD11188,U1413,R545,Masala Dosa,French Fries,1,4,Balanced,Vegan,Non-Veg,13.5,22,32.0,1209.0,3.5,1,0
+ORD11189,U1197,R515,Pasta Alfredo,Mint Raita,0,2,Junk,Non-Veg,Non-Veg,7.3,15,200.0,1133.0,3.4,0,0
+ORD11190,U1154,R541,Masala Dosa,Extra Chutney,0,4,Healthy,Non-Veg,Non-Veg,6.2,2,162.0,709.0,4.5,0,0
+ORD11191,U1276,R519,Masala Dosa,Miso Soup,0,2,Balanced,Veg,Veg,11.0,20,92.0,588.0,3.9,0,0
+ORD11192,U1213,R536,Paneer Butter Masala,Mint Raita,0,1,Balanced,Non-Veg,Veg,13.7,21,186.0,1292.0,4.4,0,0
+ORD11193,U1185,R501,Pasta Alfredo,Mint Raita,1,1,Balanced,Veg,Veg,0.9,1,200.0,1372.0,3.8,0,0
+ORD11194,U1153,R518,Margherita Pizza,Miso Soup,0,1,Balanced,Veg,Non-Veg,7.0,7,235.0,760.0,4.8,0,0
+ORD11195,U1006,R548,Paneer Butter Masala,French Fries,1,1,Junk,Veg,Vegan,9.4,2,105.0,162.0,5.0,0,1
+ORD11196,U1416,R504,Margherita Pizza,French Fries,1,2,Healthy,Non-Veg,Non-Veg,5.1,22,178.0,1220.0,4.3,1,0
+ORD11197,U1058,R528,Masala Dosa,Miso Soup,1,1,Junk,Veg,Non-Veg,11.7,7,159.0,535.0,4.7,0,0
+ORD11198,U1308,R517,Masala Dosa,Green Tea,1,5,Healthy,Vegan,Vegan,14.6,10,141.0,163.0,4.0,1,0
+ORD11199,U1193,R531,Paneer Butter Masala,Extra Chutney,1,2,Balanced,Vegan,Vegan,14.2,8,225.0,1237.0,4.9,1,0
+ORD11200,U1474,R511,Paneer Butter Masala,Healthy Quinoa Salad,0,1,Junk,Non-Veg,Non-Veg,4.4,7,21.0,849.0,4.7,1,0
+ORD11201,U1030,R503,Margherita Pizza,Butter Naan,1,3,Balanced,Veg,Vegan,3.8,21,85.0,1075.0,5.0,0,0
+ORD11202,U1442,R523,Beef Burger,Extra Chutney,1,5,Healthy,Vegan,Vegan,14.4,22,144.0,1385.0,4.2,1,1
+ORD11203,U1306,R506,Margherita Pizza,French Fries,1,3,Balanced,Non-Veg,Vegan,7.2,9,61.0,881.0,4.6,1,0
+ORD11204,U1416,R536,Paneer Butter Masala,Healthy Quinoa Salad,1,3,,Non-Veg,Non-Veg,,10,229.0,829.0,4.1,0,0
+ORD11205,U1182,R504,Sushi Platter,Garlic Bread,0,1,Junk,Non-Veg,Non-Veg,10.8,19,169.0,542.0,3.5,0,1
+ORD11206,U1301,R546,Paneer Butter Masala,Filter Coffee,1,2,Healthy,Non-Veg,Vegan,4.6,21,130.0,562.0,3.7,0,1
+ORD11207,U1386,R530,Sushi Platter,Mint Raita,1,3,Healthy,Non-Veg,Veg,4.4,15,207.0,1225.0,4.8,0,1
+ORD11208,U1108,R540,Chicken Biryani,Miso Soup,0,2,Junk,Veg,Vegan,13.2,8,124.0,756.0,3.1,0,0
+ORD11209,U1203,R522,Paneer Butter Masala,Miso Soup,1,4,Junk,Veg,Vegan,2.9,19,148.0,371.0,,0,0
+ORD11210,U1123,R527,Chicken Biryani,Mint Raita,0,4,Junk,Veg,Non-Veg,1.4,10,21.0,278.0,,1,0
+ORD11211,U1058,R518,Beef Burger,Filter Coffee,0,4,Junk,Veg,Veg,4.4,2,104.0,788.0,3.8,0,1
+ORD11212,U1378,R539,Margherita Pizza,Butter Naan,0,2,Healthy,Non-Veg,Vegan,9.3,10,52.0,778.0,4.8,1,1
+ORD11213,U1114,R525,Sushi Platter,Filter Coffee,0,3,Junk,Non-Veg,Veg,2.3,19,179.0,1032.0,4.7,0,0
+ORD11214,U1160,R527,Margherita Pizza,Healthy Quinoa Salad,1,1,Healthy,Vegan,Non-Veg,7.3,22,130.0,786.0,4.2,0,0
+ORD11215,U1377,R525,Chicken Biryani,Filter Coffee,0,3,Junk,Vegan,Veg,9.6,2,89.0,344.0,3.5,0,0
+ORD11216,U1030,R525,Sushi Platter,Healthy Quinoa Salad,1,2,Junk,Veg,Non-Veg,,21,-50.0,836.0,4.0,0,0
+ORD11217,U1212,R503,Margherita Pizza,Filter Coffee,1,0,Balanced,Non-Veg,Vegan,3.8,9,68.0,1374.0,3.8,1,0
+ORD11218,U1217,R507,Paneer Butter Masala,Butter Naan,0,3,Balanced,Vegan,Non-Veg,12.4,23,233.0,365.0,,0,0
+ORD11219,U1192,R511,Masala Dosa,Butter Naan,1,4,Junk,Vegan,Veg,3.9,12,32.0,1081.0,,0,1
+ORD11220,U1184,R533,Chicken Biryani,French Fries,1,1,Healthy,Vegan,Veg,10.3,20,219.0,952.0,4.1,1,0
+ORD11221,U1471,R522,Margherita Pizza,Mint Raita,1,2,Junk,Vegan,Veg,6.7,22,138.0,1161.0,3.6,0,0
+ORD11222,U1427,R516,Chicken Biryani,Butter Naan,0,5,Balanced,Veg,Vegan,2.2,9,162.0,22837.29023304854,4.3,1,0
+ORD11223,U1176,R547,Oatmeal Bowl,Healthy Quinoa Salad,1,0,Junk,Non-Veg,Veg,10.9,14,90.0,1421.0,,0,0
+ORD11224,U1055,R540,Chicken Biryani,Butter Naan,1,1,Balanced,Veg,Veg,3.7,15,242.0,988.0,3.9,0,0
+ORD11225,U1021,R550,Sushi Platter,French Fries,0,2,Junk,Vegan,Veg,3.1,2,85.0,1294.0,,0,1
+ORD11226,U1461,R539,Oatmeal Bowl,Miso Soup,0,2,Junk,Vegan,Non-Veg,5.7,19,155.0,483.0,5.0,1,0
+ORD11227,U1052,R521,Pasta Alfredo,Healthy Quinoa Salad,1,2,Healthy,Non-Veg,Veg,10.0,8,248.0,1148.0,4.0,0,0
+ORD11228,U1033,R533,Sushi Platter,French Fries,0,4,Balanced,Non-Veg,Non-Veg,3.9,13,223.0,1204.0,3.0,1,0
+ORD11229,U1301,R540,Masala Dosa,Green Tea,1,3,Balanced,Veg,Veg,3.2,12,143.0,687.0,4.1,1,0
+ORD11230,U1300,R545,Oatmeal Bowl,Green Tea,0,3,Balanced,Non-Veg,Non-Veg,0.6,23,248.0,668.0,4.7,0,0
+ORD11231,U1297,R526,Pasta Alfredo,Garlic Bread,1,2,Healthy,Veg,Non-Veg,7.3,9,181.0,1038.0,4.5,0,0
+ORD11232,U1121,R507,Paneer Butter Masala,Filter Coffee,1,3,Junk,Veg,Vegan,6.7,23,68.0,276.0,4.4,1,0
+ORD11233,U1483,R516,Chicken Biryani,Mint Raita,0,1,Healthy,Vegan,Vegan,3.9,13,-50.0,1143.0,3.3,0,0
+ORD11234,U1291,R539,Margherita Pizza,Chocolate Brownie,0,2,,Veg,Non-Veg,1.3,1,97.0,208.0,4.3,0,0
+ORD11235,U1089,R506,Beef Burger,Extra Chutney,1,0,Healthy,Vegan,Non-Veg,6.7,20,99.0,407.0,4.5,0,1
+ORD11236,U1413,R517,Chicken Biryani,French Fries,1,4,Healthy,Veg,Vegan,11.9,15,195.0,5177.174182962769,4.1,1,0
+ORD11237,U1073,R528,Pasta Alfredo,Miso Soup,1,4,Balanced,Veg,Non-Veg,10.9,13,154.0,283.0,4.8,1,0
+ORD11238,U1081,R532,Chicken Biryani,Extra Chutney,0,6,Healthy,Non-Veg,Vegan,13.0,14,29.0,1462.0,3.6,0,0
+ORD11239,U1069,R550,Masala Dosa,Miso Soup,0,3,Junk,Non-Veg,Vegan,0.6,20,222.0,1322.0,3.5,0,0
+ORD11240,U1151,R548,Paneer Butter Masala,Extra Chutney,0,4,Healthy,Vegan,Veg,14.5,14,88.0,996.0,4.7,1,0
+ORD11241,U1081,R528,Beef Burger,French Fries,1,1,Healthy,Non-Veg,Veg,5.5,9,249.0,1256.0,4.3,0,1
+ORD11242,U1472,R526,Oatmeal Bowl,Chocolate Brownie,0,3,Junk,Veg,Vegan,14.9,23,239.0,1348.0,3.0,1,0
+ORD11243,U1252,R514,Oatmeal Bowl,Extra Chutney,1,1,Balanced,Vegan,Vegan,4.2,13,236.0,500.0,,0,0
+ORD11244,U1394,R550,Oatmeal Bowl,French Fries,1,3,Junk,Vegan,Non-Veg,7.3,19,207.0,1297.0,,1,1
+ORD11245,U1067,R545,Pasta Alfredo,Butter Naan,1,2,Junk,Vegan,Vegan,5.6,7,71.0,413.0,3.1,1,0
+ORD11246,U1265,R515,Sushi Platter,Chocolate Brownie,0,5,Junk,Veg,Vegan,5.7,8,143.0,708.0,3.0,0,0
+ORD11247,U1165,R529,Sushi Platter,Healthy Quinoa Salad,0,4,Healthy,Non-Veg,Veg,12.7,1,72.0,904.0,3.6,0,0
+ORD11248,U1161,R542,Margherita Pizza,Miso Soup,1,1,Healthy,Vegan,Vegan,11.3,2,80.0,1114.0,4.8,0,0
+ORD11249,U1446,R512,Beef Burger,Green Tea,1,4,Junk,Veg,Non-Veg,14.9,0,161.0,191.0,4.8,0,0
+ORD11250,U1034,R504,Oatmeal Bowl,Filter Coffee,0,2,Junk,Non-Veg,Vegan,9.4,7,29.0,542.0,4.0,0,0
+ORD11251,U1274,R527,Sushi Platter,Green Tea,1,1,Balanced,Non-Veg,Veg,7.2,19,243.0,972.0,4.1,0,0
+ORD11252,U1298,R535,Pasta Alfredo,Chocolate Brownie,1,6,Healthy,Vegan,Veg,1.8,1,231.0,632.0,3.7,0,0
+ORD11253,U1056,R501,Margherita Pizza,Healthy Quinoa Salad,0,1,Healthy,Veg,Veg,15.0,19,108.0,1196.0,3.5,0,0
+ORD11254,U1111,R512,Paneer Butter Masala,Miso Soup,0,4,Healthy,Non-Veg,Veg,8.5,22,139.0,1030.0,4.6,1,0
+ORD11255,U1379,R541,Margherita Pizza,Healthy Quinoa Salad,1,4,Healthy,Veg,Vegan,10.7,23,127.0,466.0,3.2,0,0
+ORD11256,U1207,R521,Sushi Platter,Extra Chutney,1,6,Junk,Non-Veg,Non-Veg,6.4,1,223.0,347.0,4.0,0,0
+ORD11257,U1137,R505,Masala Dosa,Miso Soup,0,6,Junk,Vegan,Non-Veg,8.4,0,178.0,999.0,4.3,0,0
+ORD11258,U1274,R546,Pasta Alfredo,Extra Chutney,1,1,Balanced,Vegan,Non-Veg,14.2,14,84.0,758.0,3.2,1,0
+ORD11259,U1123,R544,Masala Dosa,French Fries,1,4,Healthy,Non-Veg,Vegan,2.9,19,123.0,378.0,4.0,0,0
+ORD11260,U1412,R504,Oatmeal Bowl,Chocolate Brownie,0,6,Healthy,Veg,Vegan,4.7,1,119.0,591.0,4.2,0,0
+ORD11261,U1189,R505,Masala Dosa,French Fries,1,6,Junk,Non-Veg,Vegan,2.7,7,241.0,559.0,4.5,0,0
+ORD11262,U1495,R545,Oatmeal Bowl,Garlic Bread,1,2,Balanced,Veg,Non-Veg,12.0,9,60.0,296.0,3.5,1,0
+ORD11263,U1397,R513,Oatmeal Bowl,Healthy Quinoa Salad,0,4,Junk,Non-Veg,Vegan,1.4,20,41.0,888.0,3.6,1,0
+ORD11264,U1077,R542,Sushi Platter,Extra Chutney,0,4,Healthy,Vegan,Vegan,1.7,19,223.0,1181.0,4.1,0,0
+ORD11265,U1437,R523,Masala Dosa,Butter Naan,1,3,Healthy,Veg,Veg,4.8,10,226.0,927.0,5.0,0,1
+ORD11266,U1452,R525,Oatmeal Bowl,French Fries,1,2,Balanced,Vegan,Veg,8.0,10,220.0,1265.0,3.4,0,1
+ORD11267,U1305,R511,Beef Burger,Garlic Bread,1,0,Junk,Veg,Non-Veg,6.4,10,138.0,322.0,5.0,1,1
+ORD11268,U1476,R510,Paneer Butter Masala,Mint Raita,1,3,Healthy,Non-Veg,Veg,1.1,22,172.0,738.0,4.4,0,1
+ORD11269,U1176,R534,Margherita Pizza,Green Tea,1,0,Healthy,Vegan,Veg,14.4,7,150.0,973.0,4.7,0,0
+ORD11270,U1282,R504,Margherita Pizza,Miso Soup,1,1,Balanced,Vegan,Veg,14.3,19,36.0,1063.0,3.2,0,0
+ORD11271,U1296,R541,Sushi Platter,Garlic Bread,1,3,Healthy,Veg,Vegan,4.6,8,157.0,5944.727437265252,3.6,1,0
+ORD11272,U1195,R529,Masala Dosa,Chocolate Brownie,0,3,Healthy,Veg,Veg,11.1,21,23.0,1134.0,3.1,0,0
+ORD11273,U1377,R502,Masala Dosa,French Fries,0,1,,Veg,Veg,8.9,23,95.0,1029.0,3.7,0,0
+ORD11274,U1176,R515,Oatmeal Bowl,Chocolate Brownie,0,8,Balanced,Vegan,Veg,3.9,15,234.0,277.0,5.0,0,0
+ORD11275,U1246,R529,Pasta Alfredo,Green Tea,1,3,Balanced,Non-Veg,Vegan,4.3,19,90.0,1089.0,,0,0
+ORD11276,U1117,R547,Chicken Biryani,Butter Naan,0,1,Balanced,Veg,Non-Veg,7.6,2,236.0,1128.0,4.1,0,0
+ORD11277,U1023,R525,Oatmeal Bowl,Healthy Quinoa Salad,1,2,Junk,Non-Veg,Vegan,6.6,0,78.0,1491.0,3.0,0,0
+ORD11278,U1181,R504,Paneer Butter Masala,Healthy Quinoa Salad,0,3,Balanced,Veg,Vegan,4.7,21,92.0,1086.0,4.4,0,0
+ORD11279,U1495,R523,Beef Burger,Chocolate Brownie,0,1,Healthy,Non-Veg,Veg,12.2,12,165.0,1077.0,3.4,0,0
+ORD11280,U1453,R537,Margherita Pizza,Extra Chutney,1,3,Balanced,Veg,Non-Veg,7.5,14,195.0,845.0,3.3,0,1
+ORD11281,U1389,R549,Oatmeal Bowl,Butter Naan,1,3,Healthy,Non-Veg,Veg,10.0,15,135.0,1322.0,3.7,0,1
+ORD11282,U1073,R541,Chicken Biryani,Healthy Quinoa Salad,0,5,Balanced,Vegan,Veg,3.2,10,223.0,1496.0,,0,0
+ORD11283,U1350,R535,Chicken Biryani,Butter Naan,0,5,Balanced,Veg,Non-Veg,8.2,21,29.0,1202.0,3.2,0,0
+ORD11284,U1102,R529,Oatmeal Bowl,Garlic Bread,1,6,Junk,Veg,Non-Veg,5.1,13,232.0,977.0,3.5,0,1
+ORD11285,U1188,R529,Sushi Platter,Butter Naan,0,4,Balanced,Vegan,Vegan,8.1,21,65.0,257.0,,0,0
+ORD11286,U1469,R527,Margherita Pizza,Filter Coffee,0,1,Balanced,Veg,Non-Veg,11.8,14,223.0,1131.0,4.9,0,1
+ORD11287,U1264,R508,Sushi Platter,Green Tea,1,1,Junk,Veg,Vegan,11.6,7,112.0,1107.0,4.2,0,0
+ORD11288,U1015,R538,Beef Burger,Healthy Quinoa Salad,0,5,Healthy,Vegan,Vegan,5.6,19,212.0,1197.0,4.4,0,0
+ORD11289,U1463,R504,Chicken Biryani,Butter Naan,1,4,Balanced,Vegan,Veg,10.6,22,174.0,318.0,4.3,1,0
+ORD11290,U1335,R539,Chicken Biryani,Chocolate Brownie,0,3,Balanced,Non-Veg,Veg,14.1,19,60.0,1033.0,3.3,0,0
+ORD11291,U1116,R529,Paneer Butter Masala,Mint Raita,0,1,Healthy,Vegan,Veg,9.6,8,231.0,549.0,4.2,0,0
+ORD11292,U1369,R510,Beef Burger,Filter Coffee,0,1,Junk,Vegan,Non-Veg,2.7,8,76.0,1176.0,3.3,0,0
+ORD11293,U1428,R530,Chicken Biryani,Filter Coffee,0,1,Balanced,Veg,Non-Veg,10.4,20,76.0,475.0,3.8,0,0
+ORD11294,U1205,R535,Beef Burger,Extra Chutney,0,1,Junk,Vegan,Vegan,2.0,10,207.0,1073.0,4.1,0,0
+ORD11295,U1052,R544,Margherita Pizza,Butter Naan,0,2,Healthy,Veg,Vegan,13.1,20,44.0,548.0,4.1,1,0
+ORD11296,U1170,R514,Masala Dosa,Extra Chutney,1,0,Healthy,Vegan,Vegan,8.0,13,71.0,162.0,3.2,0,0
+ORD11297,U1224,R542,Chicken Biryani,Extra Chutney,0,0,Junk,Vegan,Non-Veg,6.1,12,136.0,1005.0,3.1,0,0
+ORD11298,U1215,R505,Paneer Butter Masala,Mint Raita,1,2,Healthy,Non-Veg,Vegan,1.3,10,211.0,303.0,4.6,1,0
+ORD11299,U1052,R543,Margherita Pizza,Garlic Bread,1,0,Healthy,Vegan,Vegan,6.0,21,54.0,1040.0,4.5,0,0
+ORD11300,U1351,R528,Oatmeal Bowl,Butter Naan,1,5,Balanced,Vegan,Non-Veg,13.6,0,146.0,1400.0,3.2,0,0
+ORD11301,U1333,R503,Beef Burger,French Fries,0,4,Junk,Veg,Veg,0.8,19,184.0,1458.0,3.3,0,0
+ORD11302,U1304,R535,Oatmeal Bowl,Healthy Quinoa Salad,1,2,Balanced,Veg,Non-Veg,7.4,14,218.0,468.0,,0,0
+ORD11303,U1031,R547,Sushi Platter,Extra Chutney,0,1,Junk,Non-Veg,Vegan,14.0,20,235.0,1242.0,4.5,0,0
+ORD11304,U1205,R509,Margherita Pizza,Green Tea,0,2,Balanced,Vegan,Veg,6.2,9,200.0,627.0,5.0,0,1
+ORD11305,U1007,R541,Oatmeal Bowl,Miso Soup,1,1,Healthy,Veg,Non-Veg,6.7,14,170.0,1366.0,3.5,0,1
+ORD11306,U1314,R507,Pasta Alfredo,Green Tea,1,2,Junk,Vegan,Veg,8.9,22,120.0,1213.0,4.0,1,0
+ORD11307,U1136,R515,Pasta Alfredo,Mint Raita,1,5,Junk,Non-Veg,Veg,7.2,22,46.0,250.0,3.5,1,0
+ORD11308,U1395,R542,Chicken Biryani,Mint Raita,0,6,Junk,Veg,Vegan,2.9,13,183.0,700.0,,1,0
+ORD11309,U1150,R533,Beef Burger,Chocolate Brownie,1,4,Junk,Veg,Non-Veg,0.8,20,248.0,605.0,3.2,1,0
+ORD11310,U1359,R550,Masala Dosa,Garlic Bread,0,2,Healthy,Non-Veg,Vegan,9.3,10,189.0,1210.0,3.3,0,0
+ORD11311,U1237,R532,Margherita Pizza,Healthy Quinoa Salad,1,3,Healthy,Vegan,Non-Veg,13.9,0,24.0,704.0,3.1,0,1
+ORD11312,U1067,R500,Chicken Biryani,Extra Chutney,0,4,Healthy,Veg,Non-Veg,2.0,13,134.0,1074.0,4.4,0,0
+ORD11313,U1407,R511,Paneer Butter Masala,Green Tea,1,1,Balanced,Veg,Non-Veg,3.6,2,161.0,963.0,4.0,1,0
+ORD11314,U1013,R517,Sushi Platter,Miso Soup,1,0,Healthy,Non-Veg,Veg,5.9,21,179.0,1467.0,4.2,0,0
+ORD11315,U1489,R527,Beef Burger,Mint Raita,1,7,Balanced,Non-Veg,Veg,12.2,13,186.0,1416.0,4.8,0,0
+ORD11316,U1197,R514,Margherita Pizza,Mint Raita,1,2,Balanced,Non-Veg,Vegan,4.4,7,148.0,727.0,4.5,1,0
+ORD11317,U1127,R542,Pasta Alfredo,Garlic Bread,1,6,Healthy,Vegan,Non-Veg,13.3,22,71.0,1127.0,3.9,1,0
+ORD11318,U1386,R543,Margherita Pizza,Miso Soup,0,2,Healthy,Vegan,Non-Veg,1.3,13,237.0,1270.0,5.0,1,0
+ORD11319,U1217,R545,Masala Dosa,Miso Soup,0,3,Healthy,Vegan,Veg,14.1,20,180.0,1363.0,3.9,0,0
+ORD11320,U1355,R518,Pasta Alfredo,Garlic Bread,0,6,Balanced,Non-Veg,Non-Veg,8.6,22,74.0,242.0,3.2,0,0
+ORD11321,U1146,R538,Masala Dosa,Mint Raita,1,4,Junk,Veg,Vegan,10.1,12,-50.0,558.0,5.0,0,0
+ORD11322,U1156,R546,Paneer Butter Masala,Healthy Quinoa Salad,1,2,Healthy,Vegan,Non-Veg,5.8,23,232.0,582.0,3.0,0,0
+ORD11323,U1193,R546,Sushi Platter,Butter Naan,1,7,Balanced,Non-Veg,Non-Veg,11.8,10,224.0,737.0,4.1,0,0
+ORD11324,U1334,R504,Paneer Butter Masala,Butter Naan,0,5,Balanced,Vegan,Veg,2.9,7,113.0,379.0,3.6,0,0
+ORD11325,U1254,R501,Chicken Biryani,Garlic Bread,0,5,Healthy,Veg,Non-Veg,1.2,13,29.0,820.0,4.0,0,0
+ORD11326,U1336,R516,Chicken Biryani,Miso Soup,1,0,Balanced,Veg,Vegan,6.2,7,31.0,1045.0,4.1,0,1
+ORD11327,U1207,R519,Paneer Butter Masala,Extra Chutney,1,2,Healthy,Non-Veg,Vegan,12.9,0,85.0,821.0,3.5,1,0
+ORD11328,U1352,R502,Sushi Platter,Garlic Bread,1,1,Balanced,Veg,Vegan,11.4,9,165.0,1049.0,,1,0
+ORD11329,U1403,R550,Paneer Butter Masala,Healthy Quinoa Salad,1,5,Junk,Non-Veg,Vegan,8.0,7,154.0,240.0,4.5,0,0
+ORD11330,U1016,R544,Sushi Platter,Garlic Bread,0,3,Balanced,Non-Veg,Veg,8.8,14,166.0,1333.0,3.5,0,0
+ORD11331,U1051,R544,Sushi Platter,Filter Coffee,1,8,Healthy,Non-Veg,Non-Veg,2.4,2,185.0,1418.0,3.8,0,0
+ORD11332,U1399,R510,Oatmeal Bowl,Green Tea,1,2,Junk,Non-Veg,Veg,12.7,19,24.0,984.0,3.5,0,0
+ORD11333,U1334,R516,Pasta Alfredo,Miso Soup,0,3,Healthy,Veg,Vegan,11.9,8,44.0,1340.0,4.6,1,0
+ORD11334,U1392,R523,Beef Burger,Chocolate Brownie,0,2,Balanced,Veg,Non-Veg,10.0,23,103.0,327.0,4.4,1,0
+ORD11335,U1379,R516,Sushi Platter,Chocolate Brownie,0,3,,Veg,Veg,7.3,2,56.0,1227.0,4.7,1,0
+ORD11336,U1300,R509,Masala Dosa,Miso Soup,1,5,Junk,Veg,Non-Veg,14.5,15,37.0,311.0,3.3,0,0
+ORD11337,U1080,R537,Sushi Platter,Healthy Quinoa Salad,1,8,Balanced,Non-Veg,Vegan,13.2,13,167.0,701.0,3.1,1,0
+ORD11338,U1073,R531,Sushi Platter,Filter Coffee,1,3,Junk,Non-Veg,Vegan,9.8,19,208.0,587.0,3.2,0,0
+ORD11339,U1447,R532,Sushi Platter,Filter Coffee,1,3,Junk,Veg,Non-Veg,5.9,9,193.0,941.0,3.3,0,0
+ORD11340,U1221,R519,Oatmeal Bowl,Mint Raita,1,5,Junk,Vegan,Non-Veg,9.5,22,208.0,557.0,4.1,0,0
+ORD11341,U1404,R535,Pasta Alfredo,Green Tea,0,2,Healthy,Vegan,Vegan,8.8,2,173.0,1010.0,4.9,1,0
+ORD11342,U1188,R503,Oatmeal Bowl,Butter Naan,1,4,Healthy,Vegan,Veg,6.2,8,189.0,646.0,3.7,0,0
+ORD11343,U1283,R532,Chicken Biryani,French Fries,1,3,Junk,Veg,Vegan,4.9,12,83.0,1312.0,4.9,0,0
+ORD11344,U1059,R536,Oatmeal Bowl,Healthy Quinoa Salad,1,5,Balanced,Non-Veg,Non-Veg,6.4,21,248.0,1006.0,3.1,0,0
+ORD11345,U1062,R538,Masala Dosa,French Fries,1,4,Balanced,Non-Veg,Veg,8.8,23,62.0,441.0,4.9,0,0
+ORD11346,U1450,R500,Masala Dosa,French Fries,1,4,Healthy,Vegan,Vegan,68.94771986050394,12,69.0,604.0,3.4,0,0
+ORD11347,U1046,R538,Oatmeal Bowl,Miso Soup,0,2,Balanced,Vegan,Non-Veg,4.3,9,86.0,1294.0,4.8,0,1
+ORD11348,U1213,R538,Pasta Alfredo,Chocolate Brownie,1,4,Junk,Non-Veg,Non-Veg,11.5,8,244.0,672.0,3.1,0,0
+ORD11349,U1099,R534,Paneer Butter Masala,Chocolate Brownie,0,5,,Vegan,Non-Veg,8.2,22,247.0,873.0,4.9,0,0
+ORD11350,U1026,R527,Beef Burger,Butter Naan,0,3,Healthy,Vegan,Veg,1.5,8,203.0,1026.0,3.4,0,0
+ORD11351,U1148,R534,Pasta Alfredo,Miso Soup,0,0,Healthy,Non-Veg,Veg,5.8,0,165.0,620.0,3.6,0,0
+ORD11352,U1128,R546,Oatmeal Bowl,French Fries,0,3,Junk,Vegan,Veg,13.3,23,140.0,547.0,4.0,0,0
+ORD11353,U1292,R505,Sushi Platter,Extra Chutney,0,6,Healthy,Vegan,Veg,11.5,1,243.0,792.0,3.8,1,0
+ORD11354,U1304,R529,Margherita Pizza,Chocolate Brownie,1,5,Healthy,Veg,Non-Veg,5.2,22,180.0,440.0,,0,1
+ORD11355,U1379,R548,Beef Burger,Healthy Quinoa Salad,1,3,Healthy,Vegan,Non-Veg,14.1,19,237.0,534.0,4.9,0,0
+ORD11356,U1385,R509,Beef Burger,Healthy Quinoa Salad,0,1,Balanced,Veg,Veg,1.6,15,93.0,234.0,4.2,0,0
+ORD11357,U1267,R525,Masala Dosa,Mint Raita,0,6,Healthy,Non-Veg,Veg,14.4,7,97.0,560.0,4.4,0,0
+ORD11358,U1423,R517,Beef Burger,Garlic Bread,0,3,Balanced,Veg,Non-Veg,4.1,9,217.0,583.0,3.2,1,0
+ORD11359,U1105,R515,Oatmeal Bowl,Extra Chutney,0,2,Healthy,Non-Veg,Vegan,0.6,15,54.0,1448.0,4.3,0,0
+ORD11360,U1313,R542,Sushi Platter,Chocolate Brownie,0,3,Healthy,Veg,Vegan,6.8,10,238.0,946.0,3.9,0,0
+ORD11361,U1352,R517,Sushi Platter,Filter Coffee,1,6,Balanced,Veg,Non-Veg,5.7,0,137.0,1213.0,4.8,0,1
+ORD11362,U1118,R539,Chicken Biryani,Chocolate Brownie,0,1,Balanced,Veg,Veg,8.3,23,233.0,211.0,3.8,0,0
+ORD11363,U1300,R536,Sushi Platter,Mint Raita,1,3,Junk,Vegan,Veg,12.1,12,97.0,294.0,4.4,0,0
+ORD11364,U1016,R550,Pasta Alfredo,Healthy Quinoa Salad,0,1,Junk,Vegan,Non-Veg,12.7,19,185.0,1250.0,3.5,1,0
+ORD11365,U1498,R521,Sushi Platter,French Fries,1,4,Balanced,Vegan,Vegan,6.3,0,131.0,992.0,3.5,1,1
+ORD11366,U1248,R533,Masala Dosa,Filter Coffee,1,1,Healthy,Vegan,Non-Veg,6.7,13,164.0,408.0,3.8,0,0
+ORD11367,U1329,R543,Sushi Platter,Miso Soup,1,2,Junk,Vegan,Non-Veg,2.6,22,136.0,696.0,3.6,0,1
+ORD11368,U1093,R515,Chicken Biryani,Green Tea,1,5,Balanced,Veg,Non-Veg,1.2,7,242.0,877.0,3.5,1,0
+ORD11369,U1101,R543,Margherita Pizza,French Fries,0,2,Balanced,Vegan,Veg,9.8,19,179.0,1289.0,3.1,0,0
+ORD11370,U1160,R501,Oatmeal Bowl,Green Tea,0,3,Healthy,Non-Veg,Veg,1.4,22,78.0,232.0,4.7,0,0
+ORD11371,U1469,R505,Masala Dosa,Extra Chutney,1,4,Balanced,Veg,Veg,11.1,10,229.0,956.0,3.1,0,1
+ORD11372,U1157,R531,Pasta Alfredo,Garlic Bread,0,3,Junk,Veg,Vegan,8.3,15,88.0,1118.0,4.8,0,0
+ORD11373,U1265,R509,Margherita Pizza,Filter Coffee,1,6,Healthy,Non-Veg,Non-Veg,3.4,21,105.0,1470.0,3.3,1,0
+ORD11374,U1316,R513,Masala Dosa,Butter Naan,0,3,,Vegan,Non-Veg,8.3,9,43.0,1240.0,3.1,1,0
+ORD11375,U1105,R521,Paneer Butter Masala,Filter Coffee,0,3,Balanced,Non-Veg,Vegan,3.2,22,227.0,523.0,4.1,1,0
+ORD11376,U1073,R522,Beef Burger,Chocolate Brownie,1,3,Healthy,Veg,Veg,207.92321394339962,20,86.0,1108.0,4.0,0,0
+ORD11377,U1167,R537,Paneer Butter Masala,Healthy Quinoa Salad,1,2,Healthy,Veg,Non-Veg,12.1,13,80.0,1180.0,4.0,1,1
+ORD11378,U1256,R506,Sushi Platter,Chocolate Brownie,1,3,Healthy,Veg,Vegan,7.2,23,232.0,1135.0,4.1,0,0
+ORD11379,U1414,R538,Margherita Pizza,Chocolate Brownie,0,4,Junk,Non-Veg,Veg,2.7,21,205.0,1257.0,3.6,0,0
+ORD11380,U1118,R511,Sushi Platter,Extra Chutney,1,3,Junk,Vegan,Veg,11.0,1,52.0,1370.0,,0,0
+ORD11381,U1427,R525,Beef Burger,French Fries,0,3,Balanced,Veg,Non-Veg,3.2,22,197.0,283.0,4.0,0,0
+ORD11382,U1469,R509,Masala Dosa,Butter Naan,0,3,Balanced,Vegan,Veg,11.2,22,230.0,291.0,3.7,0,0
+ORD11383,U1283,R507,Beef Burger,Butter Naan,1,2,Healthy,Veg,Vegan,7.5,15,38.0,1225.0,4.7,1,1
+ORD11384,U1265,R525,Chicken Biryani,Chocolate Brownie,0,5,Balanced,Vegan,Veg,72.60150961805428,10,210.0,491.0,4.5,0,1
+ORD11385,U1458,R524,Beef Burger,Green Tea,0,4,Balanced,Non-Veg,Non-Veg,12.8,15,146.0,229.0,3.8,0,0
+ORD11386,U1027,R543,Chicken Biryani,Extra Chutney,0,0,Healthy,Veg,Vegan,10.8,8,174.0,692.0,4.7,1,0
+ORD11387,U1116,R535,Beef Burger,Chocolate Brownie,0,2,Junk,Veg,Veg,1.0,20,133.0,1257.0,4.8,1,0
+ORD11388,U1388,R525,Oatmeal Bowl,Garlic Bread,0,5,Junk,Veg,Veg,4.8,10,180.0,321.0,4.1,0,0
+ORD11389,U1110,R505,Chicken Biryani,Healthy Quinoa Salad,0,3,Junk,Non-Veg,Veg,13.1,0,28.0,1057.0,3.4,0,1
+ORD11390,U1290,R543,Margherita Pizza,French Fries,0,1,Balanced,Non-Veg,Vegan,0.8,15,195.0,155.0,,1,0
+ORD11391,U1170,R525,Sushi Platter,Miso Soup,0,1,Healthy,Vegan,Veg,8.4,15,28.0,298.0,3.4,1,0
+ORD11392,U1195,R545,Pasta Alfredo,Garlic Bread,1,2,Junk,Non-Veg,Non-Veg,11.1,14,125.0,624.0,3.1,0,0
+ORD11393,U1288,R514,Sushi Platter,Green Tea,0,2,Balanced,Veg,Vegan,9.5,13,55.0,263.0,3.7,0,0
+ORD11394,U1003,R511,Paneer Butter Masala,Filter Coffee,0,5,Healthy,Vegan,Vegan,11.5,0,209.0,1292.0,4.5,0,0
+ORD11395,U1033,R501,Sushi Platter,Filter Coffee,0,3,Junk,Non-Veg,Veg,11.0,21,92.0,1316.0,4.8,1,1
+ORD11396,U1237,R524,Masala Dosa,Garlic Bread,1,7,Junk,Vegan,Vegan,,8,124.0,1170.0,4.3,0,0
+ORD11397,U1321,R530,Oatmeal Bowl,Chocolate Brownie,1,5,Healthy,Vegan,Non-Veg,12.4,21,119.0,477.0,4.9,0,1
+ORD11398,U1069,R519,Beef Burger,Miso Soup,1,3,Balanced,Vegan,Vegan,9.9,12,198.0,856.0,3.2,1,0
+ORD11399,U1216,R537,Paneer Butter Masala,Mint Raita,1,6,Balanced,Veg,Non-Veg,6.3,0,131.0,399.0,3.1,0,0
+ORD11400,U1148,R527,Masala Dosa,Mint Raita,1,4,Junk,Veg,Veg,7.3,10,201.0,530.0,4.2,1,0
+ORD11401,U1105,R546,Masala Dosa,Green Tea,1,2,Healthy,Non-Veg,Vegan,10.9,1,37.0,847.0,4.9,0,0
+ORD11402,U1228,R526,Chicken Biryani,Chocolate Brownie,1,1,Balanced,Veg,Non-Veg,13.2,10,64.0,1142.0,4.0,0,0
+ORD11403,U1033,R529,Sushi Platter,Butter Naan,0,3,Healthy,Vegan,Veg,4.4,10,147.0,278.0,3.1,0,0
+ORD11404,U1482,R532,Margherita Pizza,Butter Naan,0,2,Healthy,Vegan,Non-Veg,5.5,13,238.0,551.0,3.4,1,0
+ORD11405,U1329,R540,Pasta Alfredo,French Fries,0,4,Junk,Veg,Vegan,14.0,9,37.0,1401.0,3.5,1,0
+ORD11406,U1247,R532,Margherita Pizza,Miso Soup,1,6,Healthy,Vegan,Vegan,8.9,7,30.0,729.0,3.7,1,0
+ORD11407,U1494,R532,Paneer Butter Masala,Miso Soup,1,2,Healthy,Veg,Non-Veg,3.1,10,56.0,1417.0,3.1,0,0
+ORD11408,U1122,R550,Oatmeal Bowl,Filter Coffee,1,3,Healthy,Vegan,Veg,10.1,10,167.0,1488.0,4.8,0,1
+ORD11409,U1390,R512,Margherita Pizza,Extra Chutney,0,2,Balanced,Non-Veg,Veg,14.9,7,112.0,861.0,4.0,0,1
+ORD11410,U1381,R519,Beef Burger,Green Tea,1,6,Junk,Non-Veg,Veg,12.4,1,210.0,539.0,4.3,0,0
+ORD11411,U1415,R547,Margherita Pizza,Mint Raita,0,1,Junk,Veg,Veg,11.3,20,37.0,1218.0,3.1,0,0
+ORD11412,U1408,R502,Paneer Butter Masala,Green Tea,0,8,Healthy,Veg,Non-Veg,3.5,15,65.0,365.0,3.1,1,0
+ORD11413,U1173,R536,Pasta Alfredo,Butter Naan,1,3,Healthy,Veg,Vegan,13.2,13,89.0,490.0,4.2,0,0
+ORD11414,U1185,R510,Margherita Pizza,Butter Naan,1,6,Balanced,Veg,Non-Veg,8.1,21,164.0,1210.0,4.8,1,0
+ORD11415,U1228,R512,Beef Burger,Garlic Bread,0,1,Junk,Veg,Vegan,13.4,12,178.0,735.0,4.1,1,0
+ORD11416,U1452,R521,Chicken Biryani,French Fries,1,4,Balanced,Vegan,Vegan,5.3,8,49.0,422.0,4.8,0,0
+ORD11417,U1180,R510,Oatmeal Bowl,Miso Soup,0,1,Junk,Non-Veg,Non-Veg,1.4,21,237.0,1029.0,4.6,1,0
+ORD11418,U1191,R540,Paneer Butter Masala,Healthy Quinoa Salad,1,0,Balanced,Vegan,Non-Veg,7.4,8,98.0,1139.0,3.2,0,0
+ORD11419,U1237,R537,Chicken Biryani,Green Tea,0,0,Healthy,Non-Veg,Veg,4.4,0,184.0,15536.059157536914,3.4,1,0
+ORD11420,U1118,R532,Chicken Biryani,Butter Naan,0,4,Balanced,Vegan,Vegan,10.9,15,141.0,524.0,4.3,0,0
+ORD11421,U1456,R545,Chicken Biryani,Extra Chutney,0,4,Healthy,Vegan,Veg,14.4,13,71.0,449.0,,0,0
+ORD11422,U1391,R532,Masala Dosa,Filter Coffee,0,4,Junk,Vegan,Veg,10.5,15,215.0,663.0,3.6,0,0
+ORD11423,U1358,R526,Oatmeal Bowl,Mint Raita,0,2,Junk,Veg,Non-Veg,13.4,21,208.0,1181.0,3.8,1,0
+ORD11424,U1135,R535,Pasta Alfredo,French Fries,1,3,Healthy,Non-Veg,Veg,7.1,14,111.0,1114.0,3.9,1,1
+ORD11425,U1009,R535,Sushi Platter,Extra Chutney,1,3,Junk,Veg,Veg,11.7,15,155.0,1044.0,4.8,0,0
+ORD11426,U1124,R504,Oatmeal Bowl,French Fries,1,4,Balanced,Veg,Veg,12.7,12,79.0,158.0,3.2,1,0
+ORD11427,U1429,R518,Masala Dosa,Garlic Bread,0,7,Healthy,Vegan,Non-Veg,10.8,8,179.0,342.0,3.6,0,0
+ORD11428,U1070,R528,Sushi Platter,Healthy Quinoa Salad,1,0,Junk,Non-Veg,Veg,7.9,14,91.0,451.0,4.1,1,0
+ORD11429,U1073,R535,Oatmeal Bowl,Butter Naan,0,3,Balanced,Non-Veg,Veg,9.6,9,214.0,517.0,4.4,0,0
+ORD11430,U1017,R540,Chicken Biryani,Filter Coffee,0,4,Balanced,Non-Veg,Non-Veg,10.7,19,70.0,348.0,4.3,0,0
+ORD11431,U1029,R543,Paneer Butter Masala,Extra Chutney,1,4,Junk,Non-Veg,Non-Veg,4.2,14,23.0,704.0,4.9,0,0
+ORD11432,U1416,R538,Sushi Platter,French Fries,1,3,Junk,Veg,Non-Veg,12.2,15,82.0,251.0,4.6,0,0
+ORD11433,U1085,R545,Beef Burger,Miso Soup,0,3,Balanced,Veg,Vegan,14.3,23,64.0,1163.0,4.1,0,0
+ORD11434,U1308,R530,Beef Burger,Garlic Bread,0,3,Healthy,Non-Veg,Non-Veg,7.2,14,137.0,1213.0,3.4,0,0
+ORD11435,U1345,R510,Margherita Pizza,Miso Soup,1,2,Junk,Veg,Vegan,10.7,23,67.0,925.0,3.9,0,0
+ORD11436,U1454,R522,Sushi Platter,Filter Coffee,0,2,Junk,Non-Veg,Non-Veg,11.2,12,196.0,271.0,4.4,0,0
+ORD11437,U1095,R505,Paneer Butter Masala,Extra Chutney,1,4,Healthy,Veg,Non-Veg,10.1,9,76.0,1352.0,,1,0
+ORD11438,U1228,R538,Pasta Alfredo,Garlic Bread,1,2,Healthy,Vegan,Non-Veg,8.4,14,183.0,1454.0,4.9,0,0
+ORD11439,U1218,R524,Masala Dosa,Extra Chutney,0,4,Junk,Vegan,Vegan,13.3,21,153.0,423.0,4.2,0,0
+ORD11440,U1467,R532,Chicken Biryani,Butter Naan,0,4,Healthy,Non-Veg,Veg,7.0,7,247.0,1101.0,4.1,0,0
+ORD11441,U1180,R510,Margherita Pizza,Chocolate Brownie,0,4,Balanced,Non-Veg,Non-Veg,1.4,2,250.0,1287.0,3.0,0,1
+ORD11442,U1163,R504,Beef Burger,Garlic Bread,1,4,Balanced,Veg,Vegan,12.7,10,220.0,879.0,3.1,1,0
+ORD11443,U1435,R509,Masala Dosa,Miso Soup,1,4,Balanced,Non-Veg,Non-Veg,10.3,20,195.0,586.0,3.3,1,0
+ORD11444,U1264,R538,Masala Dosa,Filter Coffee,1,2,,Non-Veg,Veg,12.8,1,109.0,796.0,3.1,0,0
+ORD11445,U1167,R513,Chicken Biryani,Healthy Quinoa Salad,1,2,Healthy,Veg,Vegan,2.5,10,193.0,842.0,3.8,0,0
+ORD11446,U1255,R537,Pasta Alfredo,Butter Naan,1,4,Balanced,Non-Veg,Non-Veg,0.9,0,240.0,691.0,3.7,1,0
+ORD11447,U1123,R517,Pasta Alfredo,Chocolate Brownie,1,4,Healthy,Non-Veg,Non-Veg,14.0,20,25.0,1405.0,4.3,1,0
+ORD11448,U1020,R504,Sushi Platter,Healthy Quinoa Salad,1,7,Balanced,Vegan,Non-Veg,2.6,14,144.0,1154.0,4.1,0,0
+ORD11449,U1107,R528,Beef Burger,Mint Raita,1,3,Healthy,Vegan,Veg,12.2,8,70.0,476.0,4.2,0,0
+ORD11450,U1281,R504,Pasta Alfredo,Butter Naan,1,2,,Vegan,Vegan,12.4,22,148.0,941.0,3.9,0,0
+ORD11451,U1131,R504,Paneer Butter Masala,Filter Coffee,1,2,Balanced,Non-Veg,Non-Veg,10.8,13,127.0,1080.0,3.6,0,1
+ORD11452,U1242,R501,Pasta Alfredo,French Fries,1,1,Balanced,Veg,Non-Veg,2.4,20,152.0,339.0,4.9,1,0
+ORD11453,U1281,R545,Masala Dosa,Garlic Bread,0,0,Balanced,Vegan,Vegan,10.2,22,147.0,634.0,3.2,0,0
+ORD11454,U1055,R546,Chicken Biryani,Extra Chutney,1,3,Balanced,Non-Veg,Veg,13.4,20,241.0,1372.0,4.9,0,0
+ORD11455,U1282,R549,Paneer Butter Masala,Filter Coffee,0,2,Balanced,Vegan,Veg,6.7,0,147.0,916.0,3.6,0,0
+ORD11456,U1426,R500,Sushi Platter,Garlic Bread,0,2,Balanced,Veg,Veg,6.5,12,215.0,443.0,4.0,0,0
+ORD11457,U1264,R543,Beef Burger,Healthy Quinoa Salad,0,1,,Veg,Veg,6.9,13,94.0,316.0,3.2,0,1
+ORD11458,U1065,R532,Sushi Platter,Extra Chutney,1,0,Balanced,Veg,Veg,1.7,13,121.0,850.0,3.1,0,0
+ORD11459,U1317,R549,Masala Dosa,Green Tea,1,4,Healthy,Veg,Non-Veg,13.4,12,128.0,889.0,3.9,1,0
+ORD11460,U1002,R515,Paneer Butter Masala,Miso Soup,0,1,Healthy,Veg,Non-Veg,13.1,23,84.0,601.0,4.5,0,0
+ORD11461,U1105,R517,Paneer Butter Masala,Mint Raita,1,4,Junk,Veg,Non-Veg,15.0,7,107.0,1001.0,3.5,0,0
+ORD11462,U1303,R502,Paneer Butter Masala,Butter Naan,1,6,Balanced,Non-Veg,Vegan,9.0,21,158.0,243.0,4.1,0,0
+ORD11463,U1293,R512,Masala Dosa,Filter Coffee,0,1,Healthy,Vegan,Veg,11.4,21,153.0,346.0,3.6,0,0
+ORD11464,U1429,R501,Masala Dosa,Mint Raita,1,3,Healthy,Veg,Vegan,3.4,10,166.0,887.0,3.8,0,0
+ORD11465,U1430,R512,Sushi Platter,French Fries,1,2,Healthy,Vegan,Veg,10.2,0,101.0,233.0,4.8,0,1
+ORD11466,U1226,R518,Margherita Pizza,Garlic Bread,1,5,Healthy,Vegan,Veg,9.9,10,93.0,1339.0,,1,0
+ORD11467,U1123,R538,Sushi Platter,Garlic Bread,1,3,Healthy,Non-Veg,Vegan,13.6,9,161.0,342.0,4.0,0,1
+ORD11468,U1089,R514,Beef Burger,Filter Coffee,1,1,Healthy,Veg,Non-Veg,12.5,8,51.0,1060.0,3.5,1,0
+ORD11469,U1446,R524,Chicken Biryani,Chocolate Brownie,0,1,Junk,Veg,Vegan,14.1,0,78.0,678.0,3.4,0,0
+ORD11470,U1058,R517,Paneer Butter Masala,Chocolate Brownie,0,3,Healthy,Non-Veg,Non-Veg,13.1,12,30.0,690.0,4.9,0,0
+ORD11471,U1436,R516,Margherita Pizza,Green Tea,0,2,Junk,Non-Veg,Veg,13.1,14,37.0,1183.0,3.4,0,0
+ORD11472,U1184,R512,Chicken Biryani,Miso Soup,1,4,Junk,Non-Veg,Non-Veg,1.4,0,76.0,824.0,4.6,0,0
+ORD11473,U1492,R534,Margherita Pizza,Extra Chutney,0,5,Balanced,Non-Veg,Veg,12.8,23,24.0,1130.0,3.7,0,0
+ORD11474,U1214,R517,Pasta Alfredo,French Fries,0,3,Balanced,Non-Veg,Veg,9.3,0,76.0,8283.425700883774,5.0,0,0
+ORD11475,U1385,R501,Pasta Alfredo,Mint Raita,1,2,Balanced,Vegan,Non-Veg,6.0,21,171.0,950.0,3.7,0,0
+ORD11476,U1145,R527,Oatmeal Bowl,Chocolate Brownie,1,4,,Non-Veg,Veg,1.3,22,34.0,1177.0,3.7,0,0
+ORD11477,U1068,R542,Pasta Alfredo,Green Tea,1,1,Balanced,Veg,Non-Veg,10.3,2,120.0,970.0,4.3,0,1
+ORD11478,U1191,R510,Sushi Platter,Green Tea,0,4,Healthy,Veg,Vegan,5.3,20,230.0,981.0,4.9,1,0
+ORD11479,U1034,R511,Pasta Alfredo,Filter Coffee,0,2,Healthy,Non-Veg,Veg,7.3,12,202.0,1215.0,5.0,1,0
+ORD11480,U1294,R527,Masala Dosa,French Fries,0,3,Balanced,Non-Veg,Veg,10.4,23,90.0,1431.0,4.4,0,1
+ORD11481,U1451,R536,Paneer Butter Masala,Healthy Quinoa Salad,0,3,Balanced,Non-Veg,Vegan,13.7,12,233.0,659.0,4.5,0,0
+ORD11482,U1354,R507,Sushi Platter,Extra Chutney,0,1,Junk,Non-Veg,Veg,12.5,21,96.0,929.0,4.1,0,0
+ORD11483,U1312,R520,Chicken Biryani,Miso Soup,1,2,Junk,Non-Veg,Vegan,7.0,22,37.0,266.0,4.5,0,0
+ORD11484,U1149,R506,Oatmeal Bowl,Butter Naan,1,2,Healthy,Veg,Vegan,6.1,10,249.0,634.0,4.7,1,1
+ORD11485,U1107,R513,Oatmeal Bowl,Filter Coffee,0,4,Healthy,Vegan,Veg,4.0,8,220.0,706.0,,0,0
+ORD11486,U1442,R511,Oatmeal Bowl,Extra Chutney,1,3,Balanced,Non-Veg,Vegan,5.9,22,127.0,1278.0,4.2,0,0
+ORD11487,U1197,R519,Chicken Biryani,Butter Naan,1,2,Balanced,Non-Veg,Vegan,2.1,12,173.0,843.0,4.1,1,0
+ORD11488,U1377,R523,Chicken Biryani,Butter Naan,0,2,Junk,Non-Veg,Vegan,14.6,1,174.0,1137.0,4.1,1,1
+ORD11489,U1483,R502,Chicken Biryani,French Fries,1,3,Balanced,Veg,Veg,8.8,12,65.0,176.0,4.8,1,1
+ORD11490,U1431,R517,Chicken Biryani,French Fries,0,2,Healthy,Veg,Vegan,2.4,19,66.0,777.0,3.7,1,0
+ORD11491,U1406,R550,Oatmeal Bowl,Mint Raita,0,3,Balanced,Vegan,Non-Veg,5.6,15,128.0,1367.0,3.4,1,1
+ORD11492,U1399,R506,Oatmeal Bowl,Green Tea,1,4,Junk,Vegan,Non-Veg,8.4,1,230.0,453.0,3.9,0,0
+ORD11493,U1063,R521,Margherita Pizza,Extra Chutney,0,2,Healthy,Vegan,Vegan,8.2,14,22.0,9969.996352410912,3.4,0,0
+ORD11494,U1337,R519,Sushi Platter,Filter Coffee,1,2,Junk,Vegan,Non-Veg,1.0,23,200.0,735.0,4.0,0,1
+ORD11495,U1276,R522,Paneer Butter Masala,Garlic Bread,0,1,Junk,Veg,Veg,14.3,8,33.0,1101.0,4.8,0,0
+ORD11496,U1391,R506,Pasta Alfredo,Filter Coffee,1,3,Healthy,Vegan,Vegan,4.5,15,130.0,764.0,4.2,1,0
+ORD11497,U1497,R510,Pasta Alfredo,Mint Raita,1,3,Junk,Non-Veg,Veg,0.7,20,167.0,771.0,4.7,0,0
+ORD11498,U1135,R539,Masala Dosa,Miso Soup,0,3,Balanced,Veg,Non-Veg,1.6,7,178.0,1054.0,3.3,0,0
+ORD11499,U1266,R548,Oatmeal Bowl,Green Tea,0,4,Balanced,Veg,Non-Veg,8.9,22,33.0,493.0,4.8,0,1
+ORD11500,U1039,R522,Masala Dosa,Garlic Bread,1,3,Junk,Veg,Non-Veg,2.5,20,116.0,1165.0,4.2,0,1
+ORD11501,U1162,R504,Sushi Platter,Chocolate Brownie,1,2,Balanced,Non-Veg,Non-Veg,1.1,0,154.0,357.0,3.1,1,0
+ORD11502,U1357,R550,Sushi Platter,Miso Soup,1,3,Junk,Veg,Veg,6.0,8,35.0,684.0,4.3,0,1
+ORD11503,U1071,R523,Masala Dosa,French Fries,1,4,,Non-Veg,Vegan,9.5,10,51.0,1036.0,4.9,0,0
+ORD11504,U1216,R538,Oatmeal Bowl,Butter Naan,1,6,Junk,Vegan,Veg,2.1,0,173.0,1268.0,3.2,0,0
+ORD11505,U1066,R510,Masala Dosa,Chocolate Brownie,1,3,Balanced,Veg,Vegan,5.0,1,140.0,1219.0,4.2,0,0
+ORD11506,U1447,R524,Pasta Alfredo,Filter Coffee,1,3,Healthy,Non-Veg,Non-Veg,6.6,19,57.0,1124.0,4.8,1,0
+ORD11507,U1328,R532,Margherita Pizza,Filter Coffee,1,3,Healthy,Veg,Non-Veg,2.8,22,143.0,635.0,3.0,0,0
+ORD11508,U1127,R534,Pasta Alfredo,French Fries,1,3,Balanced,Vegan,Non-Veg,7.8,21,230.0,315.0,4.3,1,0
+ORD11509,U1303,R550,Beef Burger,Mint Raita,1,5,Junk,Veg,Non-Veg,1.7,13,24.0,443.0,3.9,1,0
+ORD11510,U1493,R528,Oatmeal Bowl,Extra Chutney,0,4,Balanced,Vegan,Veg,1.2,19,168.0,1318.0,,1,0
+ORD11511,U1360,R501,Oatmeal Bowl,Chocolate Brownie,1,1,Junk,Veg,Vegan,8.0,8,37.0,1307.0,4.3,0,0
+ORD11512,U1377,R541,Paneer Butter Masala,Chocolate Brownie,1,3,Balanced,Non-Veg,Vegan,4.1,21,21.0,1435.0,3.1,1,0
+ORD11513,U1213,R544,Chicken Biryani,Healthy Quinoa Salad,0,4,Balanced,Vegan,Non-Veg,1.9,20,55.0,253.0,4.5,0,0
+ORD11514,U1441,R522,Beef Burger,Miso Soup,0,2,Healthy,Veg,Veg,6.6,10,117.0,875.0,3.0,1,0
+ORD11515,U1016,R540,Sushi Platter,Green Tea,0,2,Junk,Vegan,Non-Veg,13.8,1,205.0,1026.0,3.6,1,0
+ORD11516,U1477,R545,Oatmeal Bowl,Miso Soup,1,1,Junk,Vegan,Vegan,11.0,10,85.0,1109.0,4.0,1,0
+ORD11517,U1161,R529,Masala Dosa,Extra Chutney,1,4,Junk,Non-Veg,Vegan,12.3,23,164.0,1019.0,3.8,1,0
+ORD11518,U1402,R535,Beef Burger,Filter Coffee,0,1,Junk,Non-Veg,Veg,13.1,10,115.0,1190.0,3.6,0,1
+ORD11519,U1396,R504,Paneer Butter Masala,Filter Coffee,1,3,Junk,Non-Veg,Vegan,14.6,10,74.0,635.0,4.7,0,0
+ORD11520,U1097,R507,Sushi Platter,Filter Coffee,1,2,Healthy,Non-Veg,Veg,,8,138.0,392.0,4.9,0,0
+ORD11521,U1438,R504,Chicken Biryani,Healthy Quinoa Salad,0,0,Balanced,Vegan,Non-Veg,9.3,13,203.0,426.0,4.7,1,1
+ORD11522,U1129,R521,Chicken Biryani,Filter Coffee,1,1,Junk,Vegan,Non-Veg,5.8,1,211.0,166.0,4.0,0,0
+ORD11523,U1186,R507,Paneer Butter Masala,Extra Chutney,1,1,Junk,Veg,Veg,3.1,7,215.0,623.0,4.8,0,1
+ORD11524,U1311,R521,Paneer Butter Masala,French Fries,1,3,Balanced,Veg,Non-Veg,10.5,1,98.0,274.0,4.8,0,0
+ORD11525,U1214,R535,Masala Dosa,Green Tea,1,3,Healthy,Veg,Veg,14.9,12,202.0,584.0,,0,0
+ORD11526,U1238,R535,Oatmeal Bowl,Extra Chutney,1,4,Healthy,Non-Veg,Non-Veg,7.3,19,69.0,998.0,,1,0
+ORD11527,U1338,R538,Chicken Biryani,Green Tea,1,3,Healthy,Vegan,Non-Veg,11.0,15,190.0,1358.0,3.2,0,0
+ORD11528,U1198,R547,Sushi Platter,Extra Chutney,0,3,Balanced,Vegan,Vegan,7.7,0,238.0,1283.0,4.0,1,1
+ORD11529,U1133,R534,Beef Burger,Filter Coffee,1,4,Balanced,Veg,Vegan,,23,23.0,491.0,4.9,0,1
+ORD11530,U1250,R522,Sushi Platter,French Fries,1,4,Healthy,Veg,Veg,6.4,13,121.0,331.0,4.1,1,1
+ORD11531,U1345,R548,Margherita Pizza,Chocolate Brownie,1,3,Healthy,Vegan,Non-Veg,7.8,19,169.0,411.0,,0,1
+ORD11532,U1275,R540,Margherita Pizza,Miso Soup,0,1,Balanced,Non-Veg,Non-Veg,5.8,20,181.0,1461.0,3.2,0,1
+ORD11533,U1159,R506,Paneer Butter Masala,Butter Naan,1,2,Healthy,Veg,Non-Veg,11.4,21,61.0,892.0,3.3,1,0
+ORD11534,U1078,R511,Masala Dosa,French Fries,0,0,Junk,Veg,Vegan,13.2,8,244.0,396.0,3.9,0,1
+ORD11535,U1083,R509,Margherita Pizza,Chocolate Brownie,1,3,Balanced,Vegan,Veg,13.3,15,162.0,1285.0,4.9,0,0
+ORD11536,U1437,R545,Chicken Biryani,Mint Raita,0,3,Healthy,Vegan,Veg,3.8,19,58.0,684.0,3.7,0,0
+ORD11537,U1149,R542,Sushi Platter,Extra Chutney,0,1,Junk,Veg,Veg,13.5,2,25.0,1364.0,4.8,0,0
+ORD11538,U1082,R503,Sushi Platter,Mint Raita,1,2,Balanced,Veg,Non-Veg,5.5,19,200.0,502.0,3.2,0,1
+ORD11539,U1079,R538,Paneer Butter Masala,Chocolate Brownie,0,4,Balanced,Non-Veg,Veg,5.0,15,38.0,681.0,4.2,0,0
+ORD11540,U1145,R533,Oatmeal Bowl,French Fries,1,2,Junk,Non-Veg,Vegan,11.0,7,52.0,832.0,4.2,0,1
+ORD11541,U1247,R537,Oatmeal Bowl,Extra Chutney,1,5,Balanced,Non-Veg,Vegan,4.9,0,152.0,1355.0,4.7,0,0
+ORD11542,U1267,R512,Beef Burger,Butter Naan,1,4,Healthy,Non-Veg,Veg,1.3,23,159.0,1323.0,3.0,0,0
+ORD11543,U1456,R541,Paneer Butter Masala,Filter Coffee,0,3,Balanced,Veg,Non-Veg,,2,178.0,925.0,3.4,0,1
+ORD11544,U1489,R514,Pasta Alfredo,Extra Chutney,0,3,Healthy,Veg,Vegan,11.0,15,111.0,449.0,3.4,1,0
+ORD11545,U1462,R503,Beef Burger,Extra Chutney,1,4,Junk,Veg,Vegan,5.2,12,198.0,695.0,4.9,0,1
+ORD11546,U1245,R531,Pasta Alfredo,French Fries,1,3,Junk,Non-Veg,Non-Veg,9.6,19,244.0,1467.0,3.3,1,0
+ORD11547,U1422,R539,Oatmeal Bowl,French Fries,1,2,Balanced,Veg,Non-Veg,10.1,1,82.0,970.0,3.1,0,0
+ORD11548,U1195,R547,Paneer Butter Masala,Chocolate Brownie,1,6,Junk,Vegan,Veg,11.1,1,182.0,1204.0,4.1,0,1
+ORD11549,U1015,R545,Pasta Alfredo,Garlic Bread,0,1,Junk,Non-Veg,Vegan,13.5,13,234.0,757.0,4.1,0,0
+ORD11550,U1022,R549,Paneer Butter Masala,Extra Chutney,1,3,Balanced,Vegan,Vegan,6.8,8,178.0,868.0,4.7,0,0
+ORD11551,U1101,R540,Paneer Butter Masala,Miso Soup,1,2,,Non-Veg,Veg,2.9,8,177.0,729.0,4.9,0,0
+ORD11552,U1266,R546,Oatmeal Bowl,Extra Chutney,0,4,Balanced,Veg,Veg,5.1,0,71.0,1099.0,4.1,0,0
+ORD11553,U1465,R523,Beef Burger,Chocolate Brownie,0,2,Balanced,Non-Veg,Vegan,6.8,20,143.0,1299.0,4.9,1,0
+ORD11554,U1059,R536,Beef Burger,Green Tea,1,3,Healthy,Vegan,Vegan,10.9,23,149.0,835.0,4.5,0,0
+ORD11555,U1426,R509,Paneer Butter Masala,Mint Raita,0,2,Healthy,Non-Veg,Non-Veg,0.7,9,181.0,799.0,,1,1
+ORD11556,U1437,R500,Margherita Pizza,Filter Coffee,0,2,Healthy,Vegan,Non-Veg,5.1,12,249.0,609.0,4.9,1,0
+ORD11557,U1088,R519,Masala Dosa,Garlic Bread,1,3,Balanced,Veg,Vegan,11.8,9,28.0,389.0,4.3,0,0
+ORD11558,U1453,R549,Oatmeal Bowl,Butter Naan,0,3,Healthy,Vegan,Vegan,10.2,21,35.0,1418.0,3.8,0,1
+ORD11559,U1017,R544,Masala Dosa,Butter Naan,0,4,Junk,Veg,Non-Veg,11.1,22,38.0,577.0,4.4,0,1
+ORD11560,U1305,R524,Masala Dosa,Butter Naan,1,4,Healthy,Vegan,Veg,12.3,10,191.0,1231.0,3.8,0,0
+ORD11561,U1440,R504,Beef Burger,French Fries,1,2,Junk,Veg,Veg,11.9,21,51.0,1116.0,3.2,0,0
+ORD11562,U1360,R504,Beef Burger,Butter Naan,1,2,Healthy,Vegan,Vegan,10.4,7,163.0,1218.0,4.4,1,0
+ORD11563,U1382,R500,Margherita Pizza,Filter Coffee,1,4,Junk,Veg,Vegan,6.9,1,95.0,1415.0,4.6,1,0
+ORD11564,U1495,R546,Masala Dosa,Mint Raita,1,2,Junk,Veg,Non-Veg,14.8,0,125.0,992.0,4.5,1,0
+ORD11565,U1133,R516,Masala Dosa,Butter Naan,1,2,Junk,Veg,Vegan,8.8,23,70.0,1362.0,3.5,0,0
+ORD11566,U1026,R535,Paneer Butter Masala,Extra Chutney,0,8,Junk,Vegan,Veg,,19,219.0,376.0,4.9,0,0
+ORD11567,U1050,R534,Beef Burger,Extra Chutney,1,3,Junk,Vegan,Non-Veg,4.7,9,155.0,996.0,3.1,0,0
+ORD11568,U1283,R511,Masala Dosa,French Fries,1,3,Healthy,Veg,Non-Veg,10.6,13,237.0,1193.0,3.7,0,0
+ORD11569,U1231,R510,Sushi Platter,Filter Coffee,0,4,Balanced,Non-Veg,Veg,13.9,14,152.0,517.0,3.5,0,0
+ORD11570,U1086,R533,Margherita Pizza,Mint Raita,0,1,Balanced,Veg,Veg,3.1,8,48.0,1150.0,3.1,0,0
+ORD11571,U1384,R526,Pasta Alfredo,Garlic Bread,1,4,Balanced,Non-Veg,Non-Veg,1.7,19,59.0,1201.0,3.8,1,1
+ORD11572,U1187,R534,Sushi Platter,Chocolate Brownie,0,4,Balanced,Veg,Vegan,13.3,1,247.0,1272.0,4.2,1,0
+ORD11573,U1289,R550,Sushi Platter,Mint Raita,0,4,Balanced,Vegan,Veg,13.8,0,187.0,572.0,,0,0
+ORD11574,U1287,R531,Pasta Alfredo,Chocolate Brownie,1,3,Junk,Non-Veg,Non-Veg,4.5,2,31.0,1070.0,5.0,1,0
+ORD11575,U1106,R546,Oatmeal Bowl,Green Tea,1,3,Healthy,Vegan,Vegan,6.0,7,182.0,561.0,4.6,0,0
+ORD11576,U1193,R543,Oatmeal Bowl,Chocolate Brownie,1,2,Junk,Non-Veg,Vegan,10.1,23,115.0,1148.0,3.9,0,0
+ORD11577,U1091,R511,Margherita Pizza,Miso Soup,0,2,Healthy,Non-Veg,Non-Veg,5.3,10,91.0,775.0,4.4,1,0
+ORD11578,U1032,R544,Sushi Platter,Extra Chutney,0,2,Healthy,Non-Veg,Veg,13.2,13,55.0,957.0,4.7,1,0
+ORD11579,U1060,R504,Masala Dosa,Filter Coffee,1,2,Healthy,Non-Veg,Vegan,2.1,12,213.0,711.0,3.9,0,1
+ORD11580,U1008,R525,Beef Burger,Healthy Quinoa Salad,1,3,Healthy,Vegan,Veg,1.1,13,35.0,369.0,4.6,0,0
+ORD11581,U1253,R527,Margherita Pizza,French Fries,0,0,Balanced,Non-Veg,Non-Veg,3.5,10,87.0,390.0,4.0,1,0
+ORD11582,U1084,R532,Paneer Butter Masala,Miso Soup,1,4,Healthy,Veg,Veg,4.6,14,90.0,255.0,3.8,0,0
+ORD11583,U1168,R512,Pasta Alfredo,Chocolate Brownie,0,3,Healthy,Veg,Vegan,2.1,12,57.0,984.0,4.1,0,0
+ORD11584,U1333,R510,Sushi Platter,Butter Naan,1,6,Balanced,Non-Veg,Non-Veg,1.5,12,137.0,1296.0,4.4,0,0
+ORD11585,U1159,R511,Margherita Pizza,Filter Coffee,1,4,Junk,Vegan,Vegan,11.5,0,23.0,178.0,4.5,1,0
+ORD11586,U1174,R519,Chicken Biryani,Miso Soup,1,1,Junk,Vegan,Vegan,2.9,19,89.0,239.0,3.7,0,0
+ORD11587,U1432,R538,Chicken Biryani,French Fries,1,4,Junk,Non-Veg,Non-Veg,13.8,21,235.0,768.0,4.1,1,0
+ORD11588,U1233,R543,Oatmeal Bowl,Extra Chutney,0,6,Junk,Vegan,Non-Veg,5.8,22,91.0,1146.0,4.8,0,0
+ORD11589,U1025,R523,Pasta Alfredo,Filter Coffee,1,3,Healthy,Vegan,Veg,10.2,19,103.0,363.0,5.0,0,0
+ORD11590,U1207,R514,Beef Burger,French Fries,1,2,Balanced,Vegan,Non-Veg,3.8,22,129.0,517.0,3.5,1,0
+ORD11591,U1029,R524,Masala Dosa,Green Tea,0,1,Balanced,Non-Veg,Veg,4.0,13,149.0,463.0,3.4,0,1
+ORD11592,U1108,R510,Beef Burger,Green Tea,1,4,,Veg,Non-Veg,8.8,1,206.0,689.0,4.4,0,0
+ORD11593,U1122,R524,Beef Burger,French Fries,0,4,Balanced,Veg,Vegan,8.6,19,64.0,454.0,3.8,0,0
+ORD11594,U1160,R527,Beef Burger,Miso Soup,1,3,Healthy,Veg,Veg,11.6,15,221.0,626.0,3.0,1,1
+ORD11595,U1190,R515,Pasta Alfredo,Filter Coffee,1,2,Junk,Veg,Non-Veg,11.5,21,194.0,1134.0,3.7,0,0
+ORD11596,U1484,R549,Beef Burger,Miso Soup,1,4,Healthy,Veg,Veg,10.2,10,186.0,975.0,4.6,0,0
+ORD11597,U1228,R523,Paneer Butter Masala,Garlic Bread,0,6,Healthy,Vegan,Veg,7.0,20,40.0,21858.557874374743,4.6,0,0
+ORD11598,U1276,R502,Pasta Alfredo,Chocolate Brownie,1,3,Healthy,Vegan,Veg,13.4,14,25.0,1011.0,4.0,0,0
+ORD11599,U1027,R508,Paneer Butter Masala,Garlic Bread,1,2,Healthy,Vegan,Vegan,9.5,14,157.0,10350.656967692265,3.9,0,1
+ORD11600,U1203,R513,Pasta Alfredo,Green Tea,1,5,Healthy,Non-Veg,Non-Veg,14.9,20,219.0,1412.0,4.2,1,0
+ORD11601,U1341,R541,Oatmeal Bowl,Extra Chutney,0,1,Junk,Vegan,Non-Veg,12.4,8,154.0,541.0,3.4,0,0
+ORD11602,U1093,R522,Margherita Pizza,Mint Raita,1,1,Healthy,Veg,Veg,1.1,7,69.0,1130.0,4.1,0,0
+ORD11603,U1242,R537,Chicken Biryani,Chocolate Brownie,1,1,Junk,Vegan,Non-Veg,5.1,0,41.0,1137.0,3.0,0,0
+ORD11604,U1073,R535,Beef Burger,Green Tea,0,1,Balanced,Veg,Vegan,8.8,0,181.0,449.0,4.0,1,0
+ORD11605,U1008,R504,Oatmeal Bowl,Miso Soup,0,2,Healthy,Vegan,Veg,11.0,2,186.0,1369.0,3.7,0,0
+ORD11606,U1155,R501,Margherita Pizza,Miso Soup,1,3,Healthy,Veg,Vegan,8.5,21,60.0,813.0,4.3,0,0
+ORD11607,U1150,R545,Chicken Biryani,Miso Soup,1,1,Balanced,Vegan,Vegan,11.9,22,26.0,1066.0,4.3,1,0
+ORD11608,U1132,R515,Sushi Platter,Extra Chutney,0,1,Junk,Veg,Non-Veg,4.6,0,114.0,347.0,3.8,0,0
+ORD11609,U1492,R509,Masala Dosa,Garlic Bread,0,2,Healthy,Veg,Non-Veg,3.2,12,154.0,498.0,3.0,0,1
+ORD11610,U1368,R513,Paneer Butter Masala,Mint Raita,0,3,Balanced,Non-Veg,Veg,1.3,2,182.0,941.0,3.5,0,1
+ORD11611,U1091,R544,Sushi Platter,Miso Soup,1,5,Balanced,Vegan,Vegan,8.8,15,206.0,581.0,4.3,1,1
+ORD11612,U1113,R531,Pasta Alfredo,Healthy Quinoa Salad,1,4,Healthy,Veg,Non-Veg,10.5,14,160.0,825.0,3.1,0,0
+ORD11613,U1218,R508,Chicken Biryani,Chocolate Brownie,1,3,Junk,Vegan,Veg,5.2,1,46.0,655.0,3.2,1,0
+ORD11614,U1252,R506,Sushi Platter,Filter Coffee,1,1,Junk,Veg,Veg,9.4,9,177.0,1015.0,4.3,0,0
+ORD11615,U1316,R505,Masala Dosa,Healthy Quinoa Salad,1,2,Healthy,Non-Veg,Non-Veg,1.3,7,246.0,808.0,,0,0
+ORD11616,U1050,R539,Oatmeal Bowl,Mint Raita,0,0,Balanced,Non-Veg,Vegan,1.9,23,228.0,156.0,3.6,0,0
+ORD11617,U1068,R539,Chicken Biryani,Extra Chutney,0,2,Healthy,Non-Veg,Veg,10.7,20,220.0,1027.0,4.0,1,0
+ORD11618,U1451,R523,Sushi Platter,Mint Raita,0,2,Junk,Non-Veg,Non-Veg,5.8,20,89.0,720.0,,0,0
+ORD11619,U1170,R530,Paneer Butter Masala,Filter Coffee,1,5,Balanced,Veg,Veg,10.2,21,193.0,611.0,4.9,0,0
+ORD11620,U1023,R511,Paneer Butter Masala,Chocolate Brownie,1,3,Healthy,Vegan,Non-Veg,12.6,15,216.0,277.0,3.6,0,0
+ORD11621,U1465,R501,Margherita Pizza,Filter Coffee,0,2,Balanced,Non-Veg,Veg,12.9,21,176.0,447.0,4.6,0,0
+ORD11622,U1497,R532,Sushi Platter,French Fries,0,4,Junk,Non-Veg,Vegan,3.0,20,78.0,452.0,4.2,0,0
+ORD11623,U1412,R509,Beef Burger,Chocolate Brownie,1,5,Junk,Non-Veg,Veg,7.6,15,239.0,1413.0,,0,0
+ORD11624,U1491,R520,Sushi Platter,Mint Raita,1,3,Junk,Vegan,Non-Veg,11.1,20,124.0,734.0,4.0,0,0
+ORD11625,U1286,R549,Oatmeal Bowl,Miso Soup,0,2,Healthy,Veg,Non-Veg,11.7,7,50.0,207.0,4.5,0,0
+ORD11626,U1114,R511,Chicken Biryani,Mint Raita,1,0,Balanced,Veg,Non-Veg,11.9,1,45.0,337.0,4.5,1,0
+ORD11627,U1144,R516,Chicken Biryani,Mint Raita,1,3,Healthy,Veg,Vegan,3.8,1,169.0,257.0,4.0,1,0
+ORD11628,U1077,R510,Oatmeal Bowl,Chocolate Brownie,0,1,Healthy,Veg,Non-Veg,3.3,15,121.0,945.0,4.6,0,0
+ORD11629,U1128,R537,Sushi Platter,French Fries,1,6,Healthy,Vegan,Non-Veg,9.1,9,42.0,402.0,3.5,0,0
+ORD11630,U1189,R539,Oatmeal Bowl,Mint Raita,0,4,Healthy,Vegan,Vegan,11.2,8,190.0,823.0,3.2,0,0
+ORD11631,U1322,R535,Masala Dosa,Healthy Quinoa Salad,1,3,Balanced,Vegan,Non-Veg,5.1,13,204.0,650.0,3.9,0,1
+ORD11632,U1075,R539,Pasta Alfredo,Green Tea,1,7,Balanced,Non-Veg,Non-Veg,2.0,7,187.0,1235.0,4.9,0,0
+ORD11633,U1339,R511,Oatmeal Bowl,Butter Naan,1,4,Healthy,Vegan,Vegan,10.9,8,67.0,583.0,4.0,0,0
+ORD11634,U1089,R507,Paneer Butter Masala,Butter Naan,1,3,Healthy,Veg,Veg,4.8,22,179.0,769.0,4.3,1,0
+ORD11635,U1139,R501,Oatmeal Bowl,Mint Raita,0,1,Junk,Vegan,Non-Veg,2.9,0,22.0,1124.0,4.2,0,0
+ORD11636,U1417,R536,Chicken Biryani,Healthy Quinoa Salad,1,2,Junk,Non-Veg,Veg,2.6,19,90.0,735.0,,0,0
+ORD11637,U1417,R509,Paneer Butter Masala,Miso Soup,1,1,Balanced,Veg,Vegan,5.1,19,112.0,1221.0,3.8,0,0
+ORD11638,U1372,R511,Chicken Biryani,Extra Chutney,1,4,Junk,Vegan,Non-Veg,9.1,1,212.0,1043.0,4.4,0,0
+ORD11639,U1091,R500,Margherita Pizza,Extra Chutney,1,2,Balanced,Veg,Non-Veg,5.7,2,110.0,704.0,4.9,1,0
+ORD11640,U1369,R518,Beef Burger,Chocolate Brownie,1,1,Balanced,Veg,Vegan,0.8,8,23.0,830.0,3.3,0,0
+ORD11641,U1262,R532,Chicken Biryani,Butter Naan,1,2,Balanced,Vegan,Non-Veg,1.9,19,101.0,1456.0,3.8,1,0
+ORD11642,U1136,R517,Paneer Butter Masala,Mint Raita,0,1,Junk,Vegan,Veg,4.7,8,135.0,1043.0,3.2,0,0
+ORD11643,U1352,R542,Margherita Pizza,Extra Chutney,1,3,Junk,Non-Veg,Veg,10.1,7,238.0,1372.0,3.5,0,1
+ORD11644,U1089,R540,Chicken Biryani,Mint Raita,1,1,Balanced,Vegan,Vegan,1.9,21,236.0,391.0,3.8,1,0
+ORD11645,U1468,R527,Masala Dosa,Chocolate Brownie,1,3,Balanced,Vegan,Non-Veg,8.6,23,62.0,802.0,4.1,0,0
+ORD11646,U1026,R502,Oatmeal Bowl,Butter Naan,1,3,Healthy,Vegan,Non-Veg,2.2,14,63.0,1377.0,,0,0
+ORD11647,U1274,R527,Beef Burger,Filter Coffee,0,1,Balanced,Veg,Vegan,3.6,2,58.0,586.0,3.5,1,0
+ORD11648,U1367,R514,Chicken Biryani,Green Tea,0,2,Balanced,Non-Veg,Veg,3.0,13,201.0,1456.0,4.6,0,0
+ORD11649,U1156,R510,Margherita Pizza,Green Tea,1,3,Healthy,Veg,Veg,1.5,0,21.0,281.0,4.9,0,1
+ORD11650,U1144,R530,Masala Dosa,Extra Chutney,1,6,Balanced,Vegan,Vegan,10.2,9,49.0,1369.0,3.6,0,0
+ORD11651,U1498,R550,Sushi Platter,Green Tea,0,3,Balanced,Non-Veg,Non-Veg,7.2,10,144.0,751.0,,0,0
+ORD11652,U1127,R524,Margherita Pizza,Filter Coffee,1,5,Balanced,Vegan,Veg,12.6,14,77.0,250.0,3.5,0,1
+ORD11653,U1082,R501,Oatmeal Bowl,Mint Raita,0,1,Healthy,Veg,Non-Veg,1.9,7,41.0,1337.0,,1,1
+ORD11654,U1066,R534,Margherita Pizza,Chocolate Brownie,1,2,Junk,Veg,Veg,2.6,14,103.0,490.0,4.3,0,0
+ORD11655,U1115,R516,Masala Dosa,Filter Coffee,1,3,Balanced,Vegan,Non-Veg,4.9,2,83.0,180.0,4.6,0,0
+ORD11656,U1258,R513,Margherita Pizza,Chocolate Brownie,0,3,Healthy,Non-Veg,Veg,11.6,12,138.0,333.0,,0,0
+ORD11657,U1488,R541,Masala Dosa,Chocolate Brownie,0,1,Balanced,Veg,Non-Veg,4.9,13,245.0,1040.0,4.2,0,0
+ORD11658,U1410,R548,Chicken Biryani,Butter Naan,0,3,Healthy,Vegan,Vegan,6.4,20,49.0,1470.0,4.1,0,1
+ORD11659,U1028,R549,Pasta Alfredo,Mint Raita,1,3,Balanced,Vegan,Veg,4.9,0,106.0,300.0,3.6,0,0
+ORD11660,U1207,R511,Masala Dosa,Healthy Quinoa Salad,0,1,Healthy,Vegan,Vegan,1.7,22,234.0,774.0,3.5,1,0
+ORD11661,U1056,R542,Masala Dosa,Green Tea,0,3,Junk,Non-Veg,Veg,14.1,22,222.0,394.0,,0,0
+ORD11662,U1097,R548,Beef Burger,Healthy Quinoa Salad,1,2,Junk,Vegan,Veg,8.5,22,111.0,1156.0,4.4,0,0
+ORD11663,U1091,R520,Masala Dosa,Butter Naan,1,4,Junk,Vegan,Veg,11.9,22,181.0,309.0,,0,0
+ORD11664,U1332,R520,Masala Dosa,Chocolate Brownie,1,4,Balanced,Veg,Non-Veg,10.0,15,40.0,474.0,4.1,0,1
+ORD11665,U1180,R510,Sushi Platter,Extra Chutney,1,3,Healthy,Vegan,Veg,8.0,19,184.0,415.0,3.3,1,0
+ORD11666,U1223,R510,Pasta Alfredo,Green Tea,0,4,Balanced,Non-Veg,Vegan,1.8,14,244.0,896.0,3.3,0,0
+ORD11667,U1272,R524,Chicken Biryani,Green Tea,1,5,Balanced,Vegan,Non-Veg,9.8,13,144.0,1329.0,,0,0
+ORD11668,U1050,R500,Oatmeal Bowl,Mint Raita,1,3,Healthy,Non-Veg,Non-Veg,2.8,10,135.0,840.0,3.6,0,0
+ORD11669,U1199,R521,Beef Burger,French Fries,1,2,Balanced,Vegan,Veg,6.5,0,63.0,229.0,3.9,0,0
+ORD11670,U1457,R513,Sushi Platter,Garlic Bread,0,6,Healthy,Vegan,Non-Veg,9.6,10,166.0,911.0,3.7,1,0
+ORD11671,U1108,R517,Paneer Butter Masala,Garlic Bread,1,2,Healthy,Vegan,Veg,11.8,8,156.0,1227.0,4.3,0,0
+ORD11672,U1380,R542,Pasta Alfredo,Garlic Bread,1,2,Junk,Non-Veg,Vegan,10.4,14,170.0,328.0,3.9,0,0
+ORD11673,U1068,R518,Chicken Biryani,French Fries,1,4,Junk,Veg,Non-Veg,10.2,20,26.0,248.0,4.9,0,0
+ORD11674,U1465,R547,Chicken Biryani,Mint Raita,0,1,Junk,Non-Veg,Non-Veg,2.7,20,146.0,404.0,3.7,0,0
+ORD11675,U1297,R513,Paneer Butter Masala,French Fries,0,0,Healthy,Veg,Vegan,5.5,10,157.0,1157.0,4.5,0,0
+ORD11676,U1367,R529,Oatmeal Bowl,Garlic Bread,0,4,Junk,Non-Veg,Vegan,1.1,23,68.0,949.0,3.5,1,0
+ORD11677,U1340,R526,Masala Dosa,Butter Naan,0,4,Healthy,Vegan,Veg,10.9,19,68.0,880.0,4.0,0,0
+ORD11678,U1432,R509,Sushi Platter,Filter Coffee,1,2,Balanced,Vegan,Non-Veg,14.3,13,84.0,487.0,4.1,1,0
+ORD11679,U1497,R529,Margherita Pizza,Chocolate Brownie,0,0,Junk,Veg,Vegan,4.3,12,184.0,599.0,3.7,0,0
+ORD11680,U1341,R548,Beef Burger,French Fries,1,3,Healthy,Veg,Non-Veg,1.8,9,159.0,1454.0,3.9,1,1
+ORD11681,U1050,R540,Margherita Pizza,Mint Raita,0,6,Healthy,Non-Veg,Vegan,7.4,1,215.0,475.0,3.6,0,0
+ORD11682,U1415,R526,Paneer Butter Masala,Mint Raita,0,4,Healthy,Non-Veg,Non-Veg,12.9,12,88.0,1367.0,3.0,0,0
+ORD11683,U1225,R500,Chicken Biryani,Healthy Quinoa Salad,1,3,Healthy,Veg,Vegan,8.5,19,230.0,934.0,3.4,1,0
+ORD11684,U1195,R537,Oatmeal Bowl,Filter Coffee,0,1,Junk,Veg,Non-Veg,1.2,21,191.0,316.0,4.4,0,1
+ORD11685,U1033,R550,Chicken Biryani,Extra Chutney,1,4,Junk,Non-Veg,Veg,14.6,7,111.0,781.0,4.5,0,0
+ORD11686,U1468,R546,Beef Burger,Green Tea,1,4,Junk,Veg,Non-Veg,12.5,12,42.0,1431.0,3.6,1,0
+ORD11687,U1451,R501,Chicken Biryani,Garlic Bread,0,2,Healthy,Veg,Veg,2.4,22,79.0,715.0,,0,0
+ORD11688,U1421,R522,Chicken Biryani,Extra Chutney,0,7,Balanced,Veg,Veg,13.9,10,240.0,1316.0,3.1,0,0
+ORD11689,U1173,R515,Beef Burger,Healthy Quinoa Salad,0,2,Healthy,Veg,Veg,7.0,7,91.0,496.0,3.5,1,0
+ORD11690,U1091,R530,Sushi Platter,Garlic Bread,0,4,Balanced,Vegan,Non-Veg,5.9,12,96.0,921.0,4.6,1,1
+ORD11691,U1381,R531,Sushi Platter,Filter Coffee,0,1,Junk,Vegan,Non-Veg,7.2,15,64.0,1289.0,4.2,1,1
+ORD11692,U1466,R518,Beef Burger,Healthy Quinoa Salad,0,3,Healthy,Veg,Veg,12.6,15,206.0,1393.0,3.4,0,0
+ORD11693,U1248,R541,Oatmeal Bowl,Garlic Bread,0,0,Healthy,Non-Veg,Vegan,10.1,19,83.0,806.0,3.5,0,0
+ORD11694,U1353,R528,Paneer Butter Masala,Filter Coffee,1,1,Junk,Vegan,Non-Veg,1.4,15,96.0,1014.0,4.6,1,0
+ORD11695,U1305,R537,Pasta Alfredo,Miso Soup,1,3,Healthy,Non-Veg,Non-Veg,14.4,1,115.0,154.0,3.4,0,0
+ORD11696,U1174,R518,Chicken Biryani,Extra Chutney,1,2,Balanced,Non-Veg,Non-Veg,2.6,13,120.0,492.0,3.7,1,0
+ORD11697,U1122,R507,Oatmeal Bowl,Extra Chutney,0,2,,Vegan,Non-Veg,11.3,9,115.0,526.0,4.3,0,0
+ORD11698,U1309,R535,Chicken Biryani,Green Tea,0,2,Balanced,Non-Veg,Veg,9.7,10,136.0,276.0,4.1,0,0
+ORD11699,U1339,R512,Pasta Alfredo,Filter Coffee,1,4,,Non-Veg,Vegan,3.2,14,207.0,528.0,3.9,0,0
+ORD11700,U1173,R526,Paneer Butter Masala,French Fries,1,2,Healthy,Veg,Vegan,3.0,0,208.0,584.0,4.8,1,0
+ORD11701,U1238,R527,Sushi Platter,Miso Soup,1,3,Balanced,Veg,Vegan,13.1,2,204.0,1458.0,3.4,0,0
+ORD11702,U1384,R521,Oatmeal Bowl,Butter Naan,0,4,Healthy,Veg,Vegan,6.6,21,43.0,1053.0,4.5,1,0
+ORD11703,U1148,R541,Masala Dosa,Garlic Bread,1,3,Balanced,Vegan,Veg,10.0,14,204.0,725.0,3.3,1,0
+ORD11704,U1024,R548,Masala Dosa,Miso Soup,1,5,Junk,Veg,Non-Veg,7.8,8,48.0,1484.0,4.2,1,0
+ORD11705,U1492,R526,Pasta Alfredo,Filter Coffee,0,1,Balanced,Non-Veg,Non-Veg,11.0,22,49.0,357.0,4.7,1,0
+ORD11706,U1369,R535,Masala Dosa,Chocolate Brownie,1,6,,Non-Veg,Veg,7.4,19,238.0,793.0,3.9,1,1
+ORD11707,U1253,R525,Sushi Platter,Garlic Bread,1,3,Junk,Non-Veg,Non-Veg,4.7,10,208.0,1024.0,4.4,1,0
+ORD11708,U1461,R527,Pasta Alfredo,Mint Raita,0,4,Junk,Non-Veg,Veg,5.8,0,147.0,225.0,4.6,0,0
+ORD11709,U1229,R534,Sushi Platter,Extra Chutney,0,4,Balanced,Non-Veg,Vegan,13.0,13,221.0,1118.0,3.3,0,0
+ORD11710,U1233,R520,Paneer Butter Masala,Filter Coffee,1,4,,Vegan,Veg,7.3,8,248.0,285.0,4.4,0,0
+ORD11711,U1379,R534,Chicken Biryani,Mint Raita,1,2,Healthy,Non-Veg,Non-Veg,3.6,20,160.0,339.0,4.8,0,0
+ORD11712,U1060,R538,Paneer Butter Masala,Green Tea,0,6,Healthy,Vegan,Non-Veg,14.1,19,161.0,366.0,4.2,0,0
+ORD11713,U1325,R502,Paneer Butter Masala,Healthy Quinoa Salad,0,1,Junk,Non-Veg,Non-Veg,12.1,2,194.0,1404.0,,0,0
+ORD11714,U1499,R523,Sushi Platter,Butter Naan,0,6,Balanced,Vegan,Vegan,1.3,10,73.0,1072.0,3.3,1,0
+ORD11715,U1378,R544,Pasta Alfredo,Butter Naan,1,3,Healthy,Vegan,Veg,15.0,14,58.0,1035.0,3.5,0,0
+ORD11716,U1031,R500,Pasta Alfredo,Mint Raita,0,3,Healthy,Non-Veg,Veg,10.6,23,195.0,900.0,3.2,0,0
+ORD11717,U1261,R520,Masala Dosa,Extra Chutney,1,2,Healthy,Non-Veg,Non-Veg,2.8,12,99.0,545.0,4.0,1,0
+ORD11718,U1277,R513,Margherita Pizza,Green Tea,0,3,Balanced,Non-Veg,Veg,3.9,14,51.0,988.0,3.1,0,0
+ORD11719,U1087,R522,Chicken Biryani,Chocolate Brownie,0,5,,Non-Veg,Non-Veg,10.5,14,92.0,704.0,3.4,0,0
+ORD11720,U1420,R538,Sushi Platter,Extra Chutney,1,4,Junk,Veg,Veg,11.8,2,102.0,346.0,3.9,1,0
+ORD11721,U1167,R543,Masala Dosa,Miso Soup,1,4,Balanced,Veg,Vegan,4.0,10,242.0,1081.0,3.9,0,1
+ORD11722,U1360,R547,Oatmeal Bowl,Butter Naan,1,2,Healthy,Vegan,Vegan,4.2,10,181.0,325.0,4.1,0,0
+ORD11723,U1241,R538,Margherita Pizza,Miso Soup,1,4,Healthy,Vegan,Veg,5.0,23,142.0,407.0,4.4,0,0
+ORD11724,U1192,R540,Margherita Pizza,Garlic Bread,1,5,Balanced,Veg,Vegan,9.2,7,243.0,1254.0,3.1,0,0
+ORD11725,U1093,R505,Sushi Platter,French Fries,0,3,Healthy,Vegan,Vegan,3.0,14,228.0,1041.0,3.2,1,0
+ORD11726,U1476,R526,Beef Burger,Filter Coffee,1,5,,Non-Veg,Vegan,2.0,13,138.0,1002.0,3.1,0,1
+ORD11727,U1465,R535,Chicken Biryani,Green Tea,0,1,Junk,Vegan,Non-Veg,10.3,0,228.0,715.0,3.8,1,0
+ORD11728,U1198,R528,Margherita Pizza,Extra Chutney,1,4,Balanced,Vegan,Veg,11.8,0,113.0,685.0,3.1,0,0
+ORD11729,U1329,R535,Sushi Platter,Butter Naan,1,3,Healthy,Vegan,Veg,7.8,8,73.0,1082.0,4.5,0,0
+ORD11730,U1069,R525,Sushi Platter,Miso Soup,0,6,Balanced,Veg,Non-Veg,5.8,20,74.0,1149.0,3.4,1,0
+ORD11731,U1196,R544,Masala Dosa,Healthy Quinoa Salad,1,4,Balanced,Veg,Non-Veg,6.8,2,172.0,839.0,4.9,1,0
+ORD11732,U1331,R517,Oatmeal Bowl,Garlic Bread,0,3,Junk,Vegan,Vegan,6.1,14,135.0,1459.0,4.0,0,0
+ORD11733,U1352,R512,Beef Burger,Filter Coffee,0,2,Junk,Non-Veg,Veg,198.42227198228642,20,172.0,1440.0,3.9,0,0
+ORD11734,U1355,R524,Chicken Biryani,Filter Coffee,1,3,Balanced,Vegan,Non-Veg,11.6,13,178.0,707.0,4.6,1,0
+ORD11735,U1010,R504,Pasta Alfredo,Extra Chutney,0,3,,Veg,Vegan,3.5,8,25.0,1258.0,,0,0
+ORD11736,U1361,R533,Paneer Butter Masala,Green Tea,1,1,Junk,Non-Veg,Veg,6.1,10,32.0,883.0,4.2,0,1
+ORD11737,U1136,R546,Oatmeal Bowl,Chocolate Brownie,0,2,Healthy,Vegan,Vegan,8.4,0,143.0,841.0,4.9,1,0
+ORD11738,U1228,R521,Oatmeal Bowl,Healthy Quinoa Salad,0,3,Junk,Veg,Veg,9.4,1,64.0,224.0,3.8,0,0
+ORD11739,U1176,R501,Masala Dosa,Extra Chutney,0,4,Junk,Non-Veg,Vegan,7.3,22,165.0,925.0,4.6,0,1
+ORD11740,U1137,R516,Pasta Alfredo,Miso Soup,0,3,Healthy,Vegan,Veg,12.2,15,147.0,1366.0,,0,0
+ORD11741,U1487,R512,Margherita Pizza,French Fries,1,1,Healthy,Veg,Veg,11.6,19,155.0,1203.0,4.7,1,0
+ORD11742,U1379,R511,Margherita Pizza,Mint Raita,1,1,Balanced,Non-Veg,Veg,7.8,7,90.0,1212.0,3.5,0,0
+ORD11743,U1301,R534,Masala Dosa,Chocolate Brownie,1,1,Junk,Vegan,Veg,12.9,22,167.0,366.0,3.6,1,0
+ORD11744,U1214,R523,Sushi Platter,Green Tea,1,4,,Non-Veg,Vegan,11.4,13,211.0,634.0,4.4,0,0
+ORD11745,U1140,R531,Margherita Pizza,Garlic Bread,0,2,Junk,Non-Veg,Non-Veg,11.8,8,250.0,465.0,3.4,0,0
+ORD11746,U1379,R512,Beef Burger,Chocolate Brownie,1,4,,Non-Veg,Veg,14.4,8,213.0,576.0,3.5,0,0
+ORD11747,U1018,R542,Chicken Biryani,Butter Naan,0,2,Junk,Veg,Veg,4.4,13,148.0,932.0,3.6,0,0
+ORD11748,U1206,R527,Oatmeal Bowl,Green Tea,0,3,Junk,Vegan,Veg,4.4,12,64.0,642.0,4.4,0,0
+ORD11749,U1431,R523,Oatmeal Bowl,French Fries,1,5,Junk,Non-Veg,Veg,13.4,1,177.0,907.0,4.8,0,0
+ORD11750,U1114,R503,Beef Burger,Butter Naan,0,4,Healthy,Non-Veg,Vegan,11.7,10,236.0,742.0,4.3,1,0
+ORD11751,U1183,R505,Pasta Alfredo,Chocolate Brownie,0,3,Healthy,Non-Veg,Non-Veg,13.9,0,69.0,537.0,4.7,1,0
+ORD11752,U1088,R532,Margherita Pizza,Mint Raita,1,1,Balanced,Veg,Non-Veg,1.4,23,79.0,279.0,4.1,0,0
+ORD11753,U1173,R526,Oatmeal Bowl,Mint Raita,1,4,Junk,Non-Veg,Non-Veg,9.6,14,54.0,1354.0,3.1,1,1
+ORD11754,U1243,R533,Paneer Butter Masala,French Fries,1,4,Balanced,Veg,Vegan,2.6,15,189.0,165.0,,0,0
+ORD11755,U1169,R507,Pasta Alfredo,Filter Coffee,0,3,Balanced,Veg,Non-Veg,7.8,15,114.0,152.0,4.1,0,0
+ORD11756,U1135,R537,Chicken Biryani,Healthy Quinoa Salad,0,4,Healthy,Non-Veg,Vegan,2.8,22,34.0,1266.0,3.7,0,0
+ORD11757,U1231,R515,Chicken Biryani,Garlic Bread,1,4,Junk,Non-Veg,Vegan,2.4,13,221.0,1496.0,3.4,0,0
+ORD11758,U1180,R543,Oatmeal Bowl,Filter Coffee,0,3,Junk,Veg,Veg,0.7,2,148.0,1132.0,3.9,0,0
+ORD11759,U1164,R518,Masala Dosa,Mint Raita,1,1,Balanced,Veg,Vegan,9.6,20,96.0,171.0,4.3,0,0
+ORD11760,U1038,R550,Pasta Alfredo,Mint Raita,0,1,Junk,Non-Veg,Non-Veg,5.7,1,99.0,456.0,3.8,0,0
+ORD11761,U1227,R515,Oatmeal Bowl,Miso Soup,1,4,Healthy,Veg,Non-Veg,2.0,7,87.0,1462.0,4.6,0,1
+ORD11762,U1407,R541,Masala Dosa,Butter Naan,0,4,Balanced,Veg,Non-Veg,5.2,23,125.0,1242.0,4.5,1,0
+ORD11763,U1071,R513,Oatmeal Bowl,Chocolate Brownie,1,3,Balanced,Non-Veg,Veg,2.9,7,98.0,915.0,,1,0
+ORD11764,U1174,R505,Paneer Butter Masala,Garlic Bread,1,2,Healthy,Non-Veg,Veg,14.2,2,146.0,470.0,5.0,0,0
+ORD11765,U1377,R522,Pasta Alfredo,French Fries,1,3,Healthy,Vegan,Veg,5.1,23,198.0,169.0,3.6,1,0
+ORD11766,U1484,R500,Sushi Platter,Chocolate Brownie,0,3,Healthy,Non-Veg,Vegan,5.3,1,175.0,178.0,,0,0
+ORD11767,U1305,R544,Chicken Biryani,Miso Soup,1,4,Healthy,Non-Veg,Non-Veg,12.7,8,88.0,976.0,4.7,1,0
+ORD11768,U1099,R532,Oatmeal Bowl,Mint Raita,1,3,Healthy,Non-Veg,Vegan,9.9,7,142.0,179.0,4.2,0,1
+ORD11769,U1039,R526,Paneer Butter Masala,French Fries,0,0,Healthy,Vegan,Vegan,10.8,8,213.0,1491.0,4.6,0,0
+ORD11770,U1088,R543,Masala Dosa,Mint Raita,1,5,Balanced,Veg,Non-Veg,9.7,20,36.0,398.0,3.8,0,0
+ORD11771,U1004,R541,Masala Dosa,Garlic Bread,0,2,Junk,Non-Veg,Veg,14.2,19,38.0,1109.0,4.2,0,0
+ORD11772,U1246,R504,Chicken Biryani,Butter Naan,0,2,Junk,Non-Veg,Non-Veg,3.5,19,148.0,359.0,3.1,0,0
+ORD11773,U1395,R545,Beef Burger,Chocolate Brownie,1,3,Balanced,Vegan,Vegan,14.8,12,167.0,879.0,5.0,0,0
+ORD11774,U1207,R549,Oatmeal Bowl,Chocolate Brownie,0,2,Junk,Vegan,Vegan,12.5,15,69.0,259.0,4.6,0,0
+ORD11775,U1109,R535,Pasta Alfredo,Filter Coffee,1,2,Junk,Vegan,Veg,9.0,23,191.0,1185.0,4.7,0,0
+ORD11776,U1380,R547,Margherita Pizza,French Fries,0,2,Balanced,Veg,Vegan,140.8438413569824,22,169.0,940.0,4.4,1,0
+ORD11777,U1047,R521,Masala Dosa,Healthy Quinoa Salad,1,1,Junk,Vegan,Vegan,9.9,1,232.0,266.0,3.4,0,1
+ORD11778,U1458,R535,Pasta Alfredo,Miso Soup,1,3,Junk,Veg,Non-Veg,1.3,13,59.0,1296.0,3.1,1,0
+ORD11779,U1177,R532,Pasta Alfredo,Healthy Quinoa Salad,1,4,Balanced,Non-Veg,Veg,3.7,14,193.0,888.0,4.7,0,0
+ORD11780,U1098,R504,Sushi Platter,Filter Coffee,0,1,Junk,Non-Veg,Non-Veg,14.4,23,39.0,17123.815827554645,3.8,0,1
+ORD11781,U1495,R541,Pasta Alfredo,Garlic Bread,0,2,Healthy,Non-Veg,Non-Veg,8.2,0,150.0,1387.0,3.5,0,1
+ORD11782,U1379,R520,Pasta Alfredo,Miso Soup,1,3,Balanced,Vegan,Non-Veg,6.0,12,147.0,1393.0,4.1,1,0
+ORD11783,U1304,R540,Sushi Platter,Butter Naan,0,2,Junk,Non-Veg,Vegan,11.5,19,109.0,255.0,,0,0
+ORD11784,U1170,R539,Masala Dosa,Healthy Quinoa Salad,0,4,Junk,Vegan,Vegan,8.1,8,214.0,313.0,4.3,0,0
+ORD11785,U1205,R531,Pasta Alfredo,Butter Naan,1,0,Healthy,Veg,Veg,0.7,1,21.0,1483.0,4.0,0,0
+ORD11786,U1085,R500,Beef Burger,Healthy Quinoa Salad,1,4,Balanced,Non-Veg,Vegan,11.2,12,140.0,808.0,4.4,0,0
+ORD11787,U1485,R519,Beef Burger,Butter Naan,1,2,Balanced,Veg,Veg,11.1,8,70.0,472.0,4.7,0,1
+ORD11788,U1429,R501,Paneer Butter Masala,Healthy Quinoa Salad,0,7,Junk,Vegan,Non-Veg,2.9,14,191.0,1189.0,3.4,0,0
+ORD11789,U1277,R507,Sushi Platter,Butter Naan,0,4,Healthy,Vegan,Non-Veg,14.4,22,30.0,507.0,3.7,1,0
+ORD11790,U1322,R507,Paneer Butter Masala,Filter Coffee,0,2,Healthy,Non-Veg,Vegan,3.7,21,211.0,1132.0,3.9,1,0
+ORD11791,U1045,R545,Sushi Platter,Green Tea,1,2,Healthy,Non-Veg,Vegan,7.1,14,213.0,1280.0,4.9,1,1
+ORD11792,U1294,R539,Oatmeal Bowl,Miso Soup,1,6,Healthy,Vegan,Veg,2.2,20,212.0,1209.0,3.7,0,0
+ORD11793,U1169,R525,Oatmeal Bowl,French Fries,1,2,Healthy,Non-Veg,Vegan,9.2,21,55.0,520.0,3.8,0,0
+ORD11794,U1125,R531,Pasta Alfredo,Garlic Bread,1,8,Healthy,Non-Veg,Vegan,5.9,2,165.0,692.0,4.3,0,0
+ORD11795,U1136,R517,Margherita Pizza,Extra Chutney,1,3,Balanced,Veg,Vegan,5.6,10,23.0,708.0,3.8,1,0
+ORD11796,U1255,R518,Oatmeal Bowl,Mint Raita,1,2,Junk,Vegan,Non-Veg,12.5,7,215.0,813.0,4.9,0,0
+ORD11797,U1117,R517,Margherita Pizza,French Fries,0,2,Junk,Veg,Vegan,0.6,15,186.0,376.0,,0,0
+ORD11798,U1225,R539,Oatmeal Bowl,Mint Raita,1,4,Healthy,Non-Veg,Vegan,12.1,23,142.0,761.0,4.0,1,0
+ORD11799,U1475,R511,Chicken Biryani,Miso Soup,1,4,Balanced,Veg,Non-Veg,,15,188.0,840.0,4.3,0,0
+ORD11800,U1370,R500,Oatmeal Bowl,French Fries,1,6,Balanced,Vegan,Non-Veg,14.8,14,42.0,868.0,3.1,0,1
+ORD11801,U1137,R507,Paneer Butter Masala,Butter Naan,1,4,Healthy,Veg,Non-Veg,9.0,19,142.0,1257.0,4.4,0,1
+ORD11802,U1478,R520,Masala Dosa,Butter Naan,1,4,Junk,Veg,Non-Veg,1.3,22,87.0,848.0,4.4,0,0
+ORD11803,U1339,R518,Pasta Alfredo,Extra Chutney,1,5,Healthy,Non-Veg,Vegan,1.2,9,244.0,462.0,3.7,1,0
+ORD11804,U1318,R540,Paneer Butter Masala,Mint Raita,1,3,Balanced,Vegan,Vegan,13.3,14,217.0,1045.0,3.4,0,0
+ORD11805,U1252,R528,Masala Dosa,Garlic Bread,1,2,Healthy,Non-Veg,Vegan,12.7,12,189.0,1226.0,4.8,0,1
+ORD11806,U1196,R517,Beef Burger,Miso Soup,0,3,Junk,Non-Veg,Veg,5.5,0,235.0,581.0,3.9,0,0
+ORD11807,U1378,R545,Paneer Butter Masala,Butter Naan,0,2,Junk,Vegan,Non-Veg,9.5,1,100.0,1021.0,4.3,0,0
+ORD11808,U1366,R512,Beef Burger,Green Tea,1,2,Balanced,Veg,Vegan,7.6,21,227.0,348.0,3.1,0,0
+ORD11809,U1170,R521,Margherita Pizza,Filter Coffee,1,8,Healthy,Non-Veg,Vegan,14.5,20,95.0,612.0,3.8,0,0
+ORD11810,U1129,R519,Margherita Pizza,Filter Coffee,0,2,Healthy,Veg,Vegan,14.3,12,189.0,1377.0,4.6,0,0
+ORD11811,U1041,R518,Chicken Biryani,Healthy Quinoa Salad,1,4,Balanced,Vegan,Non-Veg,14.8,22,189.0,1380.0,3.8,0,0
+ORD11812,U1231,R526,Oatmeal Bowl,Garlic Bread,0,8,Healthy,Non-Veg,Non-Veg,13.1,10,24.0,927.0,4.2,1,0
+ORD11813,U1109,R524,Paneer Butter Masala,Filter Coffee,0,5,Balanced,Veg,Non-Veg,13.7,14,103.0,1098.0,3.4,0,0
+ORD11814,U1189,R530,Beef Burger,Healthy Quinoa Salad,1,7,Healthy,Veg,Vegan,3.7,13,24.0,1303.0,3.8,1,0
+ORD11815,U1432,R534,Masala Dosa,Mint Raita,0,3,Junk,Non-Veg,Non-Veg,12.5,1,249.0,1444.0,4.9,0,1
+ORD11816,U1401,R522,Margherita Pizza,Butter Naan,0,1,Balanced,Vegan,Vegan,10.8,12,48.0,811.0,4.1,0,0
+ORD11817,U1404,R518,Oatmeal Bowl,Butter Naan,0,2,Healthy,Veg,Veg,14.5,9,145.0,908.0,4.8,1,0
+ORD11818,U1201,R517,Margherita Pizza,Green Tea,1,2,Healthy,Vegan,Non-Veg,8.8,22,202.0,711.0,4.8,0,0
+ORD11819,U1055,R530,Masala Dosa,French Fries,1,2,Healthy,Non-Veg,Non-Veg,1.7,0,66.0,247.0,4.9,0,1
+ORD11820,U1243,R541,Oatmeal Bowl,Filter Coffee,1,6,Balanced,Veg,Vegan,9.2,7,132.0,721.0,,0,0
+ORD11821,U1087,R542,Oatmeal Bowl,Mint Raita,1,2,Junk,Veg,Non-Veg,10.5,21,160.0,1217.0,3.0,0,0
+ORD11822,U1361,R530,Beef Burger,Chocolate Brownie,0,5,Healthy,Veg,Non-Veg,3.7,22,57.0,1237.0,4.9,0,0
+ORD11823,U1457,R546,Beef Burger,Filter Coffee,1,2,Balanced,Vegan,Vegan,6.2,1,199.0,1355.0,3.3,0,1
+ORD11824,U1024,R535,Paneer Butter Masala,Garlic Bread,0,4,Healthy,Veg,Vegan,9.2,10,89.0,219.0,3.1,0,0
+ORD11825,U1036,R529,Paneer Butter Masala,French Fries,1,5,Junk,Veg,Vegan,5.9,13,69.0,862.0,,0,0
+ORD11826,U1248,R530,Sushi Platter,Filter Coffee,1,1,Junk,Non-Veg,Veg,5.9,23,148.0,295.0,3.7,1,0
+ORD11827,U1346,R525,Pasta Alfredo,Mint Raita,1,4,Junk,Veg,Vegan,2.4,9,114.0,421.0,4.2,0,0
+ORD11828,U1484,R504,Sushi Platter,Filter Coffee,0,1,Balanced,Vegan,Non-Veg,14.1,7,232.0,1365.0,3.8,0,0
+ORD11829,U1069,R539,Chicken Biryani,Garlic Bread,1,5,Healthy,Non-Veg,Veg,11.4,8,222.0,821.0,3.1,0,1
+ORD11830,U1375,R520,Margherita Pizza,Chocolate Brownie,0,6,Balanced,Non-Veg,Vegan,0.5,15,131.0,1174.0,4.0,0,0
+ORD11831,U1303,R518,Paneer Butter Masala,Miso Soup,0,4,Healthy,Veg,Veg,11.6,0,103.0,237.0,3.9,0,1
+ORD11832,U1191,R524,Beef Burger,Extra Chutney,1,3,Balanced,Non-Veg,Veg,11.2,20,95.0,713.0,4.5,0,0
+ORD11833,U1170,R525,Masala Dosa,Chocolate Brownie,0,1,Healthy,Veg,Non-Veg,0.6,7,82.0,1060.0,3.6,0,1
+ORD11834,U1355,R536,Beef Burger,Healthy Quinoa Salad,1,1,Balanced,Non-Veg,Veg,5.9,20,145.0,17809.204693609106,3.4,1,0
+ORD11835,U1423,R540,Margherita Pizza,Filter Coffee,0,1,Healthy,Vegan,Vegan,9.3,14,205.0,590.0,3.5,1,0
+ORD11836,U1277,R536,Sushi Platter,Butter Naan,0,3,Balanced,Veg,Veg,7.1,2,91.0,237.0,,0,0
+ORD11837,U1086,R503,Beef Burger,Green Tea,1,2,Junk,Vegan,Veg,11.8,13,64.0,1029.0,4.2,1,0
+ORD11838,U1110,R538,Pasta Alfredo,Butter Naan,1,0,Balanced,Veg,Non-Veg,6.7,9,129.0,1461.0,,1,0
+ORD11839,U1266,R512,Chicken Biryani,Chocolate Brownie,1,1,Junk,Vegan,Non-Veg,2.7,22,36.0,1267.0,3.7,0,0
+ORD11840,U1130,R539,Margherita Pizza,Butter Naan,1,6,Junk,Vegan,Vegan,14.7,7,181.0,1466.0,3.7,1,0
+ORD11841,U1079,R539,Sushi Platter,Mint Raita,1,4,Healthy,Non-Veg,Non-Veg,4.0,2,139.0,1292.0,3.7,0,0
+ORD11842,U1210,R510,Pasta Alfredo,Butter Naan,0,2,Junk,Veg,Vegan,10.9,19,134.0,1305.0,4.9,0,0
+ORD11843,U1265,R550,Masala Dosa,French Fries,1,4,Junk,Non-Veg,Vegan,2.6,22,89.0,929.0,3.5,0,0
+ORD11844,U1354,R539,Sushi Platter,Miso Soup,1,5,Healthy,Vegan,Non-Veg,5.3,20,228.0,850.0,,1,1
+ORD11845,U1209,R519,Oatmeal Bowl,Filter Coffee,1,0,Balanced,Veg,Veg,6.9,7,41.0,698.0,4.4,0,1
+ORD11846,U1004,R549,Pasta Alfredo,Butter Naan,1,0,Balanced,Vegan,Non-Veg,93.54774393688228,12,220.0,1254.0,3.0,0,0
+ORD11847,U1394,R532,Pasta Alfredo,Garlic Bread,1,4,Junk,Vegan,Veg,7.0,19,107.0,396.0,5.0,0,0
+ORD11848,U1398,R534,Chicken Biryani,Miso Soup,1,3,Balanced,Vegan,Veg,2.8,8,223.0,226.0,4.5,0,0
+ORD11849,U1409,R533,Margherita Pizza,Miso Soup,1,4,Junk,Vegan,Vegan,8.6,20,188.0,1430.0,4.4,0,0
+ORD11850,U1251,R508,Masala Dosa,Butter Naan,0,1,Balanced,Non-Veg,Vegan,10.1,22,44.0,155.0,3.8,1,0
+ORD11851,U1352,R523,Chicken Biryani,Miso Soup,0,3,Balanced,Vegan,Non-Veg,1.4,15,211.0,1469.0,4.1,0,0
+ORD11852,U1436,R541,Sushi Platter,Green Tea,1,4,Balanced,Non-Veg,Veg,13.1,0,177.0,1134.0,3.5,0,0
+ORD11853,U1124,R538,Chicken Biryani,Butter Naan,0,2,Junk,Vegan,Non-Veg,3.2,8,27.0,593.0,3.1,1,0
+ORD11854,U1014,R537,Pasta Alfredo,Mint Raita,1,5,Healthy,Veg,Vegan,3.8,12,51.0,1092.0,4.7,0,0
+ORD11855,U1315,R518,Margherita Pizza,Chocolate Brownie,0,2,Balanced,Vegan,Veg,10.1,15,166.0,1254.0,,0,1
+ORD11856,U1075,R501,Paneer Butter Masala,French Fries,1,4,Balanced,Vegan,Non-Veg,7.3,22,172.0,14966.84058059284,3.3,0,0
+ORD11857,U1349,R514,Chicken Biryani,Extra Chutney,0,2,Balanced,Veg,Non-Veg,,19,192.0,1191.0,4.6,1,0
+ORD11858,U1376,R510,Oatmeal Bowl,Healthy Quinoa Salad,0,3,Junk,Veg,Vegan,2.4,23,186.0,1236.0,4.5,0,0
+ORD11859,U1305,R508,Chicken Biryani,Miso Soup,1,3,Healthy,Vegan,Vegan,12.2,7,172.0,487.0,3.4,0,0
+ORD11860,U1398,R546,Sushi Platter,Mint Raita,1,0,Junk,Vegan,Vegan,9.4,21,196.0,207.0,3.8,0,0
+ORD11861,U1201,R537,Sushi Platter,Filter Coffee,1,5,Balanced,Non-Veg,Vegan,2.5,1,152.0,426.0,3.8,1,0
+ORD11862,U1375,R503,Masala Dosa,Filter Coffee,1,5,Junk,Veg,Non-Veg,5.9,20,80.0,421.0,4.5,0,0
+ORD11863,U1336,R536,Sushi Platter,Healthy Quinoa Salad,1,2,Balanced,Veg,Vegan,12.3,22,230.0,238.0,4.7,0,0
+ORD11864,U1451,R541,Beef Burger,French Fries,1,2,Balanced,Non-Veg,Vegan,8.7,23,24.0,1130.0,3.2,0,0
+ORD11865,U1256,R519,Margherita Pizza,Miso Soup,1,1,Junk,Vegan,Non-Veg,2.1,23,104.0,663.0,4.1,0,0
+ORD11866,U1419,R514,Margherita Pizza,Green Tea,0,0,Balanced,Vegan,Non-Veg,,2,188.0,1344.0,4.5,0,0
+ORD11867,U1033,R511,Paneer Butter Masala,Healthy Quinoa Salad,1,5,Balanced,Veg,Veg,4.0,21,118.0,490.0,4.6,0,0
+ORD11868,U1041,R535,Paneer Butter Masala,French Fries,1,2,Healthy,Non-Veg,Non-Veg,8.0,15,26.0,762.0,3.3,1,0
+ORD11869,U1428,R515,Margherita Pizza,Miso Soup,1,5,Junk,Vegan,Veg,12.7,13,35.0,1013.0,4.1,1,0
+ORD11870,U1046,R507,Oatmeal Bowl,Mint Raita,0,3,Junk,Veg,Vegan,6.8,21,169.0,1335.0,4.7,0,0
+ORD11871,U1095,R544,Paneer Butter Masala,Chocolate Brownie,1,1,Balanced,Vegan,Veg,6.8,10,242.0,858.0,3.6,0,0
+ORD11872,U1372,R534,Masala Dosa,Green Tea,1,1,,Vegan,Veg,13.6,2,147.0,654.0,3.9,0,0
+ORD11873,U1340,R508,Sushi Platter,Extra Chutney,1,4,Junk,Vegan,Vegan,8.9,8,137.0,1320.0,4.6,1,1
+ORD11874,U1249,R502,Margherita Pizza,Filter Coffee,0,5,Junk,Veg,Vegan,8.7,2,93.0,569.0,3.2,0,1
+ORD11875,U1360,R513,Pasta Alfredo,Garlic Bread,1,1,Junk,Non-Veg,Vegan,4.3,14,79.0,257.0,,0,0
+ORD11876,U1081,R509,Paneer Butter Masala,Mint Raita,0,0,Balanced,Non-Veg,Veg,9.3,7,25.0,751.0,3.6,1,0
+ORD11877,U1477,R532,Margherita Pizza,Filter Coffee,0,1,Healthy,Vegan,Non-Veg,8.9,19,83.0,1210.0,3.0,1,0
+ORD11878,U1301,R531,Beef Burger,Butter Naan,1,7,Healthy,Non-Veg,Non-Veg,6.3,12,123.0,192.0,3.5,0,0
+ORD11879,U1076,R524,Chicken Biryani,Garlic Bread,1,4,Balanced,Vegan,Non-Veg,14.9,21,66.0,941.0,,0,0
+ORD11880,U1444,R518,Sushi Platter,Filter Coffee,1,5,Balanced,Veg,Vegan,13.3,2,40.0,953.0,,0,0
+ORD11881,U1417,R500,Margherita Pizza,French Fries,1,2,Balanced,Veg,Vegan,11.4,2,185.0,1404.0,4.4,0,0
+ORD11882,U1410,R548,Chicken Biryani,Green Tea,0,4,Junk,Veg,Non-Veg,8.3,15,226.0,537.0,3.4,1,0
+ORD11883,U1085,R539,Paneer Butter Masala,Filter Coffee,0,4,Balanced,Vegan,Vegan,7.2,15,235.0,526.0,4.9,0,0
+ORD11884,U1430,R521,Chicken Biryani,Extra Chutney,1,0,Junk,Non-Veg,Veg,3.2,12,162.0,745.0,4.0,0,0
+ORD11885,U1441,R544,Sushi Platter,Chocolate Brownie,0,3,Healthy,Veg,Veg,4.9,14,32.0,632.0,3.9,1,1
+ORD11886,U1293,R508,Margherita Pizza,French Fries,0,3,Balanced,Vegan,Vegan,11.7,20,190.0,1144.0,3.9,0,0
+ORD11887,U1077,R538,Beef Burger,Mint Raita,0,5,Balanced,Non-Veg,Non-Veg,7.1,14,45.0,1016.0,4.4,0,0
+ORD11888,U1232,R525,Oatmeal Bowl,Mint Raita,0,3,Junk,Non-Veg,Non-Veg,13.3,10,174.0,1175.0,3.9,0,1
+ORD11889,U1168,R515,Paneer Butter Masala,Mint Raita,1,5,Junk,Non-Veg,Veg,2.6,10,199.0,1257.0,3.3,1,0
+ORD11890,U1022,R539,Margherita Pizza,Mint Raita,0,4,Junk,Vegan,Vegan,7.9,14,187.0,1396.0,4.8,0,0
+ORD11891,U1437,R550,Sushi Platter,Chocolate Brownie,1,0,Healthy,Vegan,Non-Veg,9.9,1,239.0,732.0,3.9,0,0
+ORD11892,U1210,R513,Paneer Butter Masala,Filter Coffee,0,2,Healthy,Vegan,Non-Veg,8.0,19,190.0,1479.0,3.1,0,0
+ORD11893,U1411,R532,Masala Dosa,Miso Soup,1,1,Balanced,Veg,Vegan,13.4,10,179.0,441.0,4.1,1,0
+ORD11894,U1001,R533,Chicken Biryani,Filter Coffee,0,3,Balanced,Vegan,Vegan,14.8,14,80.0,1114.0,4.3,0,0
+ORD11895,U1050,R516,Oatmeal Bowl,Butter Naan,1,5,Junk,Veg,Non-Veg,2.2,15,233.0,871.0,3.6,0,0
+ORD11896,U1033,R512,Sushi Platter,Green Tea,1,6,Healthy,Veg,Vegan,2.4,14,61.0,1253.0,4.6,1,0
+ORD11897,U1356,R515,Masala Dosa,Garlic Bread,0,2,Balanced,Veg,Vegan,2.4,2,228.0,794.0,4.3,1,0
+ORD11898,U1333,R550,Pasta Alfredo,Miso Soup,1,2,Junk,Vegan,Vegan,10.4,21,92.0,1208.0,4.3,1,1
+ORD11899,U1150,R523,Margherita Pizza,Miso Soup,0,6,Junk,Veg,Non-Veg,5.9,10,50.0,1406.0,3.8,0,0
+ORD11900,U1197,R519,Beef Burger,Filter Coffee,1,9,Healthy,Vegan,Veg,11.1,20,210.0,1139.0,4.9,1,0
+ORD11901,U1479,R538,Paneer Butter Masala,Miso Soup,0,3,Healthy,Vegan,Vegan,6.4,7,21.0,1198.0,3.5,0,0
+ORD11902,U1108,R522,Chicken Biryani,Healthy Quinoa Salad,1,0,Balanced,Veg,Non-Veg,9.6,20,211.0,241.0,4.2,0,0
+ORD11903,U1194,R543,Paneer Butter Masala,Healthy Quinoa Salad,0,3,Balanced,Veg,Veg,11.7,12,80.0,427.0,3.6,0,0
+ORD11904,U1202,R513,Oatmeal Bowl,Butter Naan,1,1,Junk,Veg,Non-Veg,8.4,12,223.0,1465.0,4.5,0,0
+ORD11905,U1163,R548,Margherita Pizza,Garlic Bread,0,3,Junk,Vegan,Non-Veg,8.3,9,179.0,1086.0,,0,1
+ORD11906,U1169,R547,Paneer Butter Masala,Extra Chutney,0,3,Junk,Vegan,Non-Veg,1.8,20,173.0,908.0,3.1,0,1
+ORD11907,U1319,R524,Chicken Biryani,Chocolate Brownie,1,2,Balanced,Veg,Veg,6.5,19,104.0,645.0,4.6,1,0
+ORD11908,U1205,R547,Margherita Pizza,Filter Coffee,1,0,Healthy,Veg,Non-Veg,8.4,2,34.0,210.0,3.9,0,0
+ORD11909,U1380,R522,Paneer Butter Masala,Chocolate Brownie,0,4,Balanced,Non-Veg,Veg,7.2,9,211.0,648.0,3.7,0,0
+ORD11910,U1057,R505,Beef Burger,Extra Chutney,0,3,Healthy,Veg,Vegan,13.6,9,59.0,824.0,4.2,0,1
+ORD11911,U1338,R531,Sushi Platter,Filter Coffee,0,2,Balanced,Non-Veg,Veg,13.6,2,106.0,435.0,,1,1
+ORD11912,U1389,R550,Margherita Pizza,Filter Coffee,0,1,Balanced,Non-Veg,Non-Veg,12.4,15,158.0,384.0,3.4,0,0
+ORD11913,U1234,R548,Sushi Platter,Garlic Bread,0,3,Healthy,Vegan,Veg,5.9,7,131.0,836.0,3.4,0,0
+ORD11914,U1147,R532,Pasta Alfredo,Chocolate Brownie,1,0,Balanced,Vegan,Non-Veg,10.9,22,66.0,941.0,4.9,0,0
+ORD11915,U1320,R514,Margherita Pizza,Healthy Quinoa Salad,0,4,Balanced,Non-Veg,Vegan,6.2,1,52.0,474.0,4.2,1,0
+ORD11916,U1470,R517,Beef Burger,Mint Raita,0,4,Junk,Non-Veg,Veg,3.9,22,48.0,943.0,3.8,0,1
+ORD11917,U1273,R538,Sushi Platter,Chocolate Brownie,1,1,Healthy,Veg,Vegan,5.5,0,218.0,1365.0,4.6,0,0
+ORD11918,U1254,R525,Masala Dosa,Green Tea,0,3,Healthy,Non-Veg,Veg,1.5,1,27.0,789.0,4.1,0,0
+ORD11919,U1183,R500,Chicken Biryani,Green Tea,0,3,Junk,Veg,Non-Veg,5.3,10,245.0,1307.0,3.5,1,0
+ORD11920,U1205,R505,Masala Dosa,Filter Coffee,0,3,Healthy,Vegan,Veg,7.2,14,66.0,1402.0,3.4,0,1
+ORD11921,U1013,R535,Paneer Butter Masala,Mint Raita,1,6,Junk,Veg,Vegan,14.4,23,45.0,275.0,3.8,0,0
+ORD11922,U1267,R504,Beef Burger,French Fries,0,5,Healthy,Vegan,Veg,5.0,8,153.0,279.0,4.7,0,0
+ORD11923,U1464,R516,Masala Dosa,Extra Chutney,1,5,Healthy,Non-Veg,Vegan,13.6,23,38.0,793.0,3.1,1,0
+ORD11924,U1481,R506,Margherita Pizza,Butter Naan,0,3,Healthy,Non-Veg,Vegan,3.8,13,159.0,944.0,3.4,0,1
+ORD11925,U1342,R511,Paneer Butter Masala,Mint Raita,1,2,Healthy,Non-Veg,Non-Veg,3.3,2,216.0,725.0,4.8,0,0
+ORD11926,U1079,R541,Paneer Butter Masala,Butter Naan,0,5,Junk,Veg,Veg,8.0,1,31.0,591.0,3.2,0,1
+ORD11927,U1459,R528,Masala Dosa,Chocolate Brownie,1,5,Junk,Vegan,Vegan,10.3,22,204.0,1015.0,4.3,0,1
+ORD11928,U1036,R503,Pasta Alfredo,Chocolate Brownie,1,6,Healthy,Vegan,Non-Veg,1.1,7,111.0,153.0,3.4,0,0
+ORD11929,U1144,R532,Masala Dosa,Butter Naan,1,1,Balanced,Vegan,Non-Veg,3.7,1,57.0,1457.0,4.2,0,0
+ORD11930,U1127,R545,Pasta Alfredo,Extra Chutney,0,4,Junk,Vegan,Non-Veg,7.1,15,61.0,463.0,3.8,1,0
+ORD11931,U1298,R523,Beef Burger,Mint Raita,0,1,Healthy,Vegan,Vegan,5.3,10,231.0,1388.0,3.2,0,0
+ORD11932,U1012,R537,Chicken Biryani,French Fries,0,1,Junk,Veg,Veg,10.8,14,45.0,297.0,4.2,1,0
+ORD11933,U1294,R514,Masala Dosa,Filter Coffee,0,4,Balanced,Vegan,Vegan,7.9,9,219.0,471.0,4.4,0,0
+ORD11934,U1355,R546,Oatmeal Bowl,Garlic Bread,0,5,Balanced,Non-Veg,Non-Veg,2.8,12,145.0,467.0,4.4,1,0
+ORD11935,U1018,R539,Pasta Alfredo,Chocolate Brownie,1,2,Balanced,Vegan,Vegan,13.5,20,29.0,1495.0,,0,0
+ORD11936,U1165,R502,Masala Dosa,Green Tea,0,1,Healthy,Non-Veg,Vegan,4.7,8,127.0,156.0,4.0,0,0
+ORD11937,U1062,R530,Sushi Platter,Extra Chutney,1,5,Healthy,Veg,Non-Veg,11.1,1,208.0,1014.0,4.0,0,0
+ORD11938,U1088,R536,Margherita Pizza,Garlic Bread,1,5,Balanced,Veg,Veg,11.8,20,187.0,1324.0,4.3,1,0
+ORD11939,U1478,R533,Oatmeal Bowl,French Fries,1,1,Junk,Non-Veg,Non-Veg,14.5,7,132.0,1058.0,,1,0
+ORD11940,U1005,R517,Oatmeal Bowl,Miso Soup,0,3,Junk,Vegan,Non-Veg,7.7,0,218.0,640.0,4.3,0,1
+ORD11941,U1275,R528,Pasta Alfredo,Filter Coffee,1,7,Balanced,Veg,Vegan,9.4,1,48.0,1444.0,4.2,0,0
+ORD11942,U1323,R534,Sushi Platter,Chocolate Brownie,0,3,Healthy,Veg,Non-Veg,5.4,7,229.0,1356.0,3.3,0,0
+ORD11943,U1057,R523,Sushi Platter,Filter Coffee,1,2,Junk,Veg,Vegan,10.3,9,215.0,736.0,3.4,0,0
+ORD11944,U1032,R545,Paneer Butter Masala,Garlic Bread,1,2,Junk,Vegan,Non-Veg,7.2,7,183.0,924.0,3.5,0,0
+ORD11945,U1346,R550,Pasta Alfredo,Filter Coffee,1,5,Junk,Non-Veg,Non-Veg,6.8,7,208.0,1456.0,4.8,0,0
+ORD11946,U1231,R538,Chicken Biryani,Miso Soup,1,2,Healthy,Non-Veg,Veg,12.9,21,145.0,1476.0,4.5,0,0
+ORD11947,U1373,R532,Margherita Pizza,Garlic Bread,0,2,Balanced,Vegan,Non-Veg,1.2,15,175.0,757.0,4.1,1,1
+ORD11948,U1223,R523,Beef Burger,Chocolate Brownie,0,3,Healthy,Veg,Veg,13.3,14,149.0,1294.0,,1,0
+ORD11949,U1056,R527,Oatmeal Bowl,Mint Raita,1,2,Junk,Vegan,Non-Veg,12.9,23,102.0,558.0,3.2,0,0
+ORD11950,U1007,R519,Beef Burger,Green Tea,0,3,Balanced,Vegan,Non-Veg,7.8,14,151.0,652.0,4.8,1,0
+ORD11951,U1220,R501,Masala Dosa,Garlic Bread,1,2,Healthy,Non-Veg,Non-Veg,7.6,1,79.0,373.0,4.8,0,1
+ORD11952,U1002,R513,Masala Dosa,Healthy Quinoa Salad,0,2,Balanced,Vegan,Veg,5.7,23,121.0,432.0,3.2,1,0
+ORD11953,U1044,R504,Beef Burger,Miso Soup,0,0,Junk,Vegan,Vegan,14.9,13,85.0,1037.0,4.6,0,1
+ORD11954,U1373,R516,Masala Dosa,Garlic Bread,0,7,Healthy,Veg,Veg,2.1,19,48.0,840.0,3.9,1,0
+ORD11955,U1368,R514,Chicken Biryani,Garlic Bread,0,5,Balanced,Veg,Non-Veg,9.1,14,94.0,462.0,3.6,0,0
+ORD11956,U1086,R550,Sushi Platter,Healthy Quinoa Salad,1,1,Healthy,Non-Veg,Vegan,10.4,12,216.0,694.0,4.5,0,1
+ORD11957,U1158,R549,Masala Dosa,Chocolate Brownie,1,1,Junk,Veg,Non-Veg,14.0,12,108.0,654.0,4.2,0,0
+ORD11958,U1387,R504,Paneer Butter Masala,Garlic Bread,1,2,Balanced,Vegan,Veg,11.8,8,192.0,1483.0,4.6,0,0
+ORD11959,U1079,R515,Masala Dosa,Green Tea,1,3,Junk,Vegan,Veg,9.8,2,60.0,1302.0,3.1,0,0
+ORD11960,U1498,R544,Margherita Pizza,Filter Coffee,1,2,Balanced,Vegan,Vegan,2.2,9,118.0,674.0,3.6,0,0
+ORD11961,U1012,R529,Chicken Biryani,Chocolate Brownie,1,3,Junk,Non-Veg,Veg,5.9,21,46.0,1384.0,3.6,1,1
+ORD11962,U1000,R508,Margherita Pizza,Green Tea,0,4,Junk,Veg,Non-Veg,2.5,13,52.0,613.0,3.7,0,1
+ORD11963,U1484,R540,Margherita Pizza,Chocolate Brownie,1,3,Healthy,Vegan,Vegan,13.3,12,162.0,1052.0,4.0,0,0
+ORD11964,U1148,R509,Paneer Butter Masala,Green Tea,0,9,Junk,Veg,Non-Veg,11.4,10,160.0,1455.0,3.6,0,0
+ORD11965,U1304,R535,Chicken Biryani,Miso Soup,0,3,Healthy,Veg,Vegan,11.5,21,69.0,677.0,3.9,0,0
+ORD11966,U1178,R504,Chicken Biryani,Green Tea,1,4,Junk,Veg,Vegan,10.0,15,129.0,1068.0,3.7,0,0
+ORD11967,U1210,R528,Pasta Alfredo,Butter Naan,0,1,Junk,Veg,Non-Veg,7.9,22,219.0,549.0,4.5,1,0
+ORD11968,U1405,R515,Chicken Biryani,Green Tea,0,4,Junk,Non-Veg,Veg,2.7,12,60.0,510.0,4.2,0,0
+ORD11969,U1368,R508,Chicken Biryani,Mint Raita,0,1,Balanced,Non-Veg,Non-Veg,5.3,23,24.0,925.0,4.3,0,1
+ORD11970,U1338,R535,Chicken Biryani,Mint Raita,0,4,Healthy,Non-Veg,Veg,2.5,7,170.0,1472.0,,0,0
+ORD11971,U1262,R501,Paneer Butter Masala,Extra Chutney,1,2,Balanced,Vegan,Veg,11.0,9,32.0,762.0,3.7,0,0
+ORD11972,U1299,R506,Masala Dosa,Butter Naan,0,5,,Vegan,Non-Veg,2.8,22,245.0,1416.0,3.0,0,0
+ORD11973,U1135,R513,Pasta Alfredo,Butter Naan,0,3,Junk,Vegan,Vegan,10.7,22,160.0,1384.0,3.2,0,0
+ORD11974,U1417,R535,Margherita Pizza,Filter Coffee,1,4,Balanced,Non-Veg,Non-Veg,10.5,21,128.0,493.0,3.5,1,1
+ORD11975,U1007,R527,Chicken Biryani,Butter Naan,0,1,Healthy,Veg,Vegan,7.2,8,119.0,692.0,3.1,0,0
+ORD11976,U1248,R539,Oatmeal Bowl,Filter Coffee,1,2,Junk,Non-Veg,Veg,2.5,19,152.0,1018.0,4.2,0,0
+ORD11977,U1223,R529,Masala Dosa,Extra Chutney,0,3,Healthy,Vegan,Vegan,5.1,1,41.0,849.0,5.0,0,0
+ORD11978,U1228,R526,Masala Dosa,Extra Chutney,1,6,Healthy,Vegan,Non-Veg,5.1,12,234.0,280.0,3.2,1,1
+ORD11979,U1250,R530,Margherita Pizza,Miso Soup,1,5,Junk,Veg,Vegan,10.7,2,164.0,1491.0,4.6,1,0
+ORD11980,U1186,R544,Paneer Butter Masala,Mint Raita,1,4,Balanced,Non-Veg,Veg,2.1,21,62.0,1166.0,3.2,0,0
+ORD11981,U1024,R513,Beef Burger,Green Tea,1,3,Junk,Veg,Veg,12.5,8,149.0,741.0,4.3,1,0
+ORD11982,U1374,R507,Beef Burger,Green Tea,1,5,Balanced,Non-Veg,Vegan,11.5,12,51.0,985.0,4.3,0,0
+ORD11983,U1220,R527,Masala Dosa,Healthy Quinoa Salad,0,3,Healthy,Vegan,Veg,3.2,15,24.0,268.0,4.8,0,1
+ORD11984,U1206,R524,Sushi Platter,Healthy Quinoa Salad,0,3,Healthy,Veg,Veg,10.9,22,165.0,819.0,3.2,1,0
+ORD11985,U1346,R532,Sushi Platter,French Fries,0,5,,Veg,Vegan,10.2,13,169.0,1407.0,3.6,1,0
+ORD11986,U1180,R525,Margherita Pizza,Chocolate Brownie,1,5,Balanced,Non-Veg,Veg,11.3,20,154.0,1360.0,3.2,1,0
+ORD11987,U1421,R515,Beef Burger,Miso Soup,0,3,Junk,Non-Veg,Vegan,3.2,23,62.0,605.0,3.8,1,1
+ORD11988,U1229,R503,Masala Dosa,French Fries,0,4,Balanced,Non-Veg,Vegan,2.8,22,159.0,867.0,4.8,1,0
+ORD11989,U1101,R507,Paneer Butter Masala,French Fries,0,2,Healthy,Vegan,Veg,3.9,13,33.0,1091.0,4.6,0,1
+ORD11990,U1111,R517,Beef Burger,Garlic Bread,0,2,Healthy,Non-Veg,Vegan,5.8,21,160.0,609.0,4.4,0,0
+ORD11991,U1387,R501,Masala Dosa,Garlic Bread,0,1,Junk,Vegan,Veg,12.0,8,147.0,238.0,4.1,0,1
+ORD11992,U1058,R538,Masala Dosa,French Fries,1,3,Balanced,Non-Veg,Veg,11.2,1,171.0,832.0,4.8,1,1
+ORD11993,U1201,R537,Chicken Biryani,Butter Naan,1,4,Healthy,Non-Veg,Veg,13.9,10,226.0,962.0,3.9,0,0
+ORD11994,U1489,R517,Paneer Butter Masala,Chocolate Brownie,1,1,Balanced,Vegan,Non-Veg,1.4,23,216.0,158.0,3.3,0,0
+ORD11995,U1021,R505,Chicken Biryani,Miso Soup,1,3,Balanced,Non-Veg,Veg,0.7,15,246.0,279.0,4.7,1,0
+ORD11996,U1407,R533,Margherita Pizza,French Fries,0,5,Junk,Vegan,Vegan,10.6,15,245.0,430.0,3.6,1,0
+ORD11997,U1244,R536,Chicken Biryani,Green Tea,0,1,Junk,Vegan,Vegan,4.5,10,198.0,620.0,3.1,0,0
+ORD11998,U1191,R513,Oatmeal Bowl,Chocolate Brownie,0,4,Healthy,Non-Veg,Vegan,5.3,22,240.0,880.0,,0,0
+ORD11999,U1397,R525,Chicken Biryani,Garlic Bread,0,1,Junk,Non-Veg,Non-Veg,8.4,19,219.0,547.0,4.2,0,0
