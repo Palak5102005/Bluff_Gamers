@@ -57,5 +57,9 @@ streamlit run appzomathon.py
 ```
 ## Hosted Demo:
 https://tinyurl.com/Zomathon
+
+## Demo Video:
+https://drive.google.com/file/d/12id1gJefRD6QaWWJ-_e9ylwpiuKeRAlw/view?usp=sharing
+
 ```
-## How to Run Locally
+
