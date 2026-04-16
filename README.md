@@ -1,4 +1,4 @@
-# Zomathon PS2: Cart Supaer Add-On Rail Recommendation System
+# Zomathon PS2: Cart Super Add-On Rail Recommendation System
 
 ## Project Overview
 This repository contains our end-to-end solution for Zomathon Problem Statement 2. The objective is to build an intelligent recommendation engine that suggests relevant add-on items (desserts, beverages, meal complements) to users at checkout. 
